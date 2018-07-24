@@ -27,3 +27,18 @@
 [12:57:35] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 [13:27:36] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 [13:57:37] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[14:27:38] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[14:50:11] [User Authenticator #2/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
+[14:50:12] [Server thread/INFO]: _wjw_[/98.164.255.203:59530] logged in with entity id 1911 at ([survival]-170.81411446137344, 77.0, -65.08063818256522)
+[14:50:16] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: connect_1 (Good Choice)
+[14:51:22] [Server thread/INFO]: _wjw_ issued server command: /gamemode
+[14:51:26] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
+[14:51:26] [Server thread/WARN]: [PerWorldInventory] Creating a new group on the fly for 'survival'. Please double check your `worlds.yml` file configuration!
+[14:51:26] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
+[14:52:19] [Server thread/INFO]: Unknown item 'minecraft:158'
+[14:52:19] [Server thread/INFO]: ...ive _wjw_ 158 10<--[HERE]
+[14:52:19] [Server thread/INFO]: Unknown item 'minecraft:126'
+[14:52:19] [Server thread/INFO]: ...ive _wjw_ 126 5<--[HERE]
+[14:52:19] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: break_1_stone (Cobble!)
+[14:57:39] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[14:58:05] [Server thread/INFO]: _wjw_ has made the advancement [Stone Age]
