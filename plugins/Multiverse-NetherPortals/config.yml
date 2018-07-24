@@ -1,0 +1,5 @@
+worlds:
+  survival:
+    portalgoesto:
+      END: survival-end
+      NETHER: survival-nether
