@@ -3,3 +3,4 @@ Settings:
   Enable_Per_World_Inventories: true
 auto-update: true
 Version: 3.7.71
+hasBungee: true

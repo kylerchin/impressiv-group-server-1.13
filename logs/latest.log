@@ -344,3 +344,89 @@ java.lang.IllegalArgumentException: Error initializing dynmap - bukkit version i
 [20:57:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
 [20:57:03] [Server thread/INFO]: Time elapsed: 18488 ms
 [20:57:03] [Server thread/INFO]: Done (20.563s)! For help, type "help"
+[21:02:51] [User Authenticator #1/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
+[21:02:52] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:55994] logged in with entity id 416 at ([world]-11.086974422194288, 62.465557315458284, 5.404534008899299)
+[21:02:56] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: connect_1 (Good Choice)
+[21:03:12] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode 1
+[21:03:17] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[21:03:17] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[21:03:46] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode adventure
+[21:03:46] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Adventure Mode]
+[21:04:24] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[21:04:24] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[21:04:29] [Server thread/INFO]: GlitchedPixels issued server command: /help
+[21:04:42] [Server thread/INFO]: GlitchedPixels issued server command: /help LobbyAPI
+[21:04:47] [Server thread/INFO]: GlitchedPixels issued server command: /lobbyapi
+[21:04:55] [Server thread/INFO]: GlitchedPixels issued server command: /lobbyapi bungee
+[21:05:05] [Server thread/INFO]: GlitchedPixels issued server command: /lobbyapi setmaterial
+[21:05:21] [Server thread/INFO]: GlitchedPixels issued server command: /hub
+[21:05:38] [Server thread/INFO]: GlitchedPixels issued server command: /mvnp
+[21:05:46] [Server thread/INFO]: GlitchedPixels issued server command: /mvpcreate
+[21:05:51] [Server thread/INFO]: GlitchedPixels issued server command: //wand
+[21:05:59] [Server thread/INFO]: GlitchedPixels issued server command: /help worldedit
+[21:06:01] [Server thread/INFO]: GlitchedPixels issued server command: /help 2
+[21:06:03] [Server thread/INFO]: GlitchedPixels issued server command: /help 3
+[21:06:05] [Server thread/INFO]: GlitchedPixels issued server command: /help 1
+[21:06:55] [Server thread/INFO]: GlitchedPixels issued server command: /mvpc
+[21:07:00] [Server thread/INFO]: GlitchedPixels issued server command: /mvpc
+[21:07:05] [Server thread/INFO]: GlitchedPixels issued server command: /mv wand
+[21:07:08] [Server thread/INFO]: GlitchedPixels issued server command: /mvp wand
+[21:07:08] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'mvp' in plugin Multiverse-Portals v2.5.0-b751
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.dispatchCommand(CraftServer.java:692) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.handleCommand(PlayerConnection.java:1634) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1469) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NoSuchMethodError: org.bukkit.inventory.ItemStack.<init>(II)V
+	at com.onarandombox.MultiversePortals.commands.WandCommand.runCommand(WandCommand.java:59) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.checkAndRunCommand(CommandHandler.java:279) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.processFoundCommands(CommandHandler.java:143) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:93) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:71) ~[?:?]
+	at com.onarandombox.MultiversePortals.MultiversePortals.onCommand(MultiversePortals.java:358) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 15 more
+[21:07:11] [Server thread/INFO]: GlitchedPixels issued server command: /mvp wand
+[21:07:11] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'mvp' in plugin Multiverse-Portals v2.5.0-b751
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.dispatchCommand(CraftServer.java:692) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.handleCommand(PlayerConnection.java:1634) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1469) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NoSuchMethodError: org.bukkit.inventory.ItemStack.<init>(II)V
+	at com.onarandombox.MultiversePortals.commands.WandCommand.runCommand(WandCommand.java:59) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.checkAndRunCommand(CommandHandler.java:279) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.processFoundCommands(CommandHandler.java:143) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:93) ~[?:?]
+	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:71) ~[?:?]
+	at com.onarandombox.MultiversePortals.MultiversePortals.onCommand(MultiversePortals.java:358) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 15 more
+[21:07:57] [Server thread/INFO]: GlitchedPixels lost connection: Disconnected
+[21:07:57] [Server thread/INFO]: GlitchedPixels left the game
+[21:27:08] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[21:57:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
