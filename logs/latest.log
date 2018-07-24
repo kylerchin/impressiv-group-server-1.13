@@ -432,3 +432,5 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.inventory.ItemStack.<init>(II
 [21:57:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 [22:27:10] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 [22:57:11] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[23:27:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[23:57:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
