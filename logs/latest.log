@@ -781,3 +781,5 @@ Caused by: java.lang.NoSuchMethodError: org.bukkit.inventory.ItemStack.<init>(II
 [18:41:53] [Server thread/INFO]: _wjw_ left the game
 [18:50:13] [Server thread/INFO]: GlitchedPixels issued server command: /mvnp
 [18:50:16] [Server thread/INFO]: GlitchedPixels issued server command: /mvp
+[20:05:24] [Server thread/INFO]: GlitchedPixels lost connection: Disconnected
+[20:05:24] [Server thread/INFO]: GlitchedPixels left the game
