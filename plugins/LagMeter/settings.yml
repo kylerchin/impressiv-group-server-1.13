@@ -1,0 +1,124 @@
+#################
+##   General   ##
+#################
+#Whether or not to use the average for TPS. If set to false, the server will always return the value at the last poll.
+#Default: true
+useAverage: true
+#How many polls to keep in LagMeter's memory.
+#Default: 10
+averageLength: 10
+#How often, in server ticks, LagMeter should poll the server (where one second is 20 ticks).
+#Default: 40
+interval: 40
+#Display chunks loaded on plugin (re)load?
+#Default: true
+LoadedChunksOnLoad: true
+#Should LagMeter display all of the entities that exist at the time of plugin (re)load?
+#Default: true
+displayEntitiesOnLoad: true
+#########################
+# Uptime-based Commands #
+#########################
+#List of up-time commands.
+#Format: /command text{<>}amountOfTime
+#Proper time delimiters: w: weeks, d: days, h: hours, m: minutes, s: seconds
+#Can use any combination of these delimiters, for example, 1s35m2d, 1d, 3w1d, 2h1d, etc.
+UptimeCommands:
+    commandList:
+        - /stop<>7d2m
+        - /reload<>12h30m30s
+        - /lag<>30m
+    #If the commands are set to repeat, they will be run, for example, if the uptime trigger is set to 4h, then it will run every 4h.
+    repeatCommands: true
+#################
+##   Commands  ##
+#################
+Commands:
+    Lag:
+        #How long should LagMeter wait to poll the server for its TPS? Setting this to 0 will result in erroneous TPS averaging until the first few values are pushed out of the stack, but will not break anything.
+        #Default: 35
+        PollingDelay: 35
+        #Should the commands which show the TPS meter also display entities in each world?
+        #Default: false
+        displayEntities: false
+        #Should the commands which show the TPS meter also display loaded chunks in each world?
+        #Default: false
+        displayChunks: false
+    Ping:
+        #Where the server should ping when the /ping and /lping commands are used. This can be a domain name or an IP; it doesn't matter which it is.
+        #Default: google.com
+        destinationDomain: google.com
+#################
+##   Logging   ##
+#################
+log:
+    #How often (after how many polls) the plugin should log information to its log file. If the poll interval is default (40), and this is left at default (150), it will happen every 40*150 ticks (6,000).
+    #Default: 150
+    interval: 150
+    #Should LagMeter log information to a file?
+    #Default: true
+    enable: true
+    #Should LagMeter use a folder called 'logs' and use 'Day-Month-Year-Lag.log' format for each day's logs?
+    #Default: false
+    useLogsFolder: false
+    #Should LagMeter log how many players are online as well?
+    #Default: true
+    logPlayersOnline: true
+    #Should LagMeter log how many entities are present on the server?
+    #Default: true
+    logEntities: true
+    #Should LagMeter only display total entities, and not those for each world?
+    #Default: true
+    logTotalEntitiesOnly: true
+    #Should LagMeter log how many chunks are currently loaded on the server?
+    #Default: true
+    logChunks: true
+    #Should LagMeter only display total chunks, and not those for each world?
+    #Default: true
+    logTotalChunksOnly: true
+    #Should the plugin have an empty line between each log tick to make the log file neater?
+    #Default: true
+    newBlockPerLog: true
+    #Should the plugin put each statistic (TPS, memory, players) on a separate line?
+    #Default: true
+    newLinePerStatistic: true
+#################
+# Notifications #
+#################
+Notifications:
+    Lag:
+        #Enables low TPS notifications.
+        #Default: true
+        Enabled: false
+        #If the server is at or below this value for memory free, it will notify OPs and anyone with the permission node lagmeter.notify.lag
+        #Default: 17
+        Threshold: 17
+        #How often LagMeter should check on the TPS, in minutes.
+        #Default: 5
+        CheckInterval: 1
+        #Specify a command to use when the plugin notices that the TPS is low. Must be usable from console.
+        #Default: /lag
+        ConsoleCommand: /lag
+    Memory:
+        #Enables/disables low memory free notifications.
+        #Default: true
+        Enabled: false
+        #If the server is at or below this value for memory free, it will notify OPs and anyone with the permission node lagmeter.notify.mem
+        #Default: 25
+        Threshold: 25
+        #How often LagMeter should check on the free memory, in minutes.
+        #Default: 10
+        CheckInterval: 1
+        #Specify a command to use when the plugin notices that the free memory is low. Must be usable from console.
+        #Default: /mem
+        ConsoleCommand: /mem
+###############
+#   LagMaps   #
+###############
+LagMaps:
+    #Whether or not LagMaps should be able to be enabled by players with the lagmeter.command.lagmap permission.
+    #Default: true
+    Enabled: true
+    #The interval, in seconds, that the plugin should update the LagMaps.
+    #Default: 5
+    Interval: 5

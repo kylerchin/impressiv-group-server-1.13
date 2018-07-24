@@ -1,29 +1,30 @@
-[17:55:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:55:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:55:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:55:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:55:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:55:58] [main/INFO]: Loaded 0 recipes
-[17:55:59] [Server thread/INFO]: Starting minecraft server version 1.13
-[17:55:59] [Server thread/INFO]: Loading properties
-[17:55:59] [Server thread/INFO]: Default game type: ADVENTURE
-[17:55:59] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-ed1cec9-1c7adf7 (MC: 1.13) (Implementing API version 1.13-R0.1-SNAPSHOT)
-[17:55:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:55:59] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:55:59] [Server thread/INFO]: Debug logging is disabled
-[17:55:59] [Server thread/INFO]: Generating keypair
-[17:56:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:56:00] [Server thread/INFO]: Using epoll channel type
-[17:56:05] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[17:56:06] [Server thread/INFO]: [LobbyAPI] Loading LobbyAPI v3.7.71
-[17:56:06] [Server thread/INFO]: [dynmap] Loading dynmap v2.6-beta-1-Dev201807082003
-[17:56:06] [Server thread/INFO]: [dynmap] version=git-Spigot-ed1cec9-1c7adf7 (MC: 1.13)
-[17:56:06] [Server thread/ERROR]: [dynmap] Unable to find field temperature for net.minecraft.server.v1_13_R1.BiomeBase
-[17:56:06] [Server thread/ERROR]: [dynmap] Unable to find field humidity for net.minecraft.server.v1_13_R1.BiomeBase
-[17:56:06] [Server thread/ERROR]: [dynmap] Unable to find field y for net.minecraft.server.v1_13_R1.BiomeBase
-[17:56:06] [Server thread/INFO]: [dynmap] Unload queue not found - default to unload all chunks
-[17:56:06] [Server thread/INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
-[17:56:06] [Server thread/ERROR]: Error initializing dynmap - bukkit version incompatible! initializing dynmap v2.6-beta-1-Dev201807082003 (Is it up to date?)
+[20:56:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:56:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:56:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:56:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:56:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:56:34] [main/INFO]: Loaded 0 recipes
+[20:56:35] [Server thread/INFO]: Starting minecraft server version 1.13
+[20:56:35] [Server thread/INFO]: Loading properties
+[20:56:35] [Server thread/INFO]: Default game type: ADVENTURE
+[20:56:35] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-ed1cec9-1c7adf7 (MC: 1.13) (Implementing API version 1.13-R0.1-SNAPSHOT)
+[20:56:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:56:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:56:35] [Server thread/INFO]: Debug logging is disabled
+[20:56:35] [Server thread/INFO]: Generating keypair
+[20:56:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:56:36] [Server thread/INFO]: Using epoll channel type
+[20:56:42] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[20:56:43] [Server thread/INFO]: [LobbyAPI] Loading LobbyAPI v3.7.71
+[20:56:43] [Server thread/INFO]: [LagMeter] Loading LagMeter v1.17.0
+[20:56:43] [Server thread/INFO]: [dynmap] Loading dynmap v2.6-beta-1-Dev201807082003
+[20:56:43] [Server thread/INFO]: [dynmap] version=git-Spigot-ed1cec9-1c7adf7 (MC: 1.13)
+[20:56:43] [Server thread/ERROR]: [dynmap] Unable to find field temperature for net.minecraft.server.v1_13_R1.BiomeBase
+[20:56:43] [Server thread/ERROR]: [dynmap] Unable to find field humidity for net.minecraft.server.v1_13_R1.BiomeBase
+[20:56:43] [Server thread/ERROR]: [dynmap] Unable to find field y for net.minecraft.server.v1_13_R1.BiomeBase
+[20:56:43] [Server thread/INFO]: [dynmap] Unload queue not found - default to unload all chunks
+[20:56:43] [Server thread/INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[20:56:43] [Server thread/ERROR]: Error initializing dynmap - bukkit version incompatible! initializing dynmap v2.6-beta-1-Dev201807082003 (Is it up to date?)
 java.lang.IllegalArgumentException: Error initializing dynmap - bukkit version incompatible!
 	at org.dynmap.bukkit.BukkitVersionHelperGeneric.<init>(BukkitVersionHelperGeneric.java:157) ~[?:?]
 	at org.dynmap.bukkit.BukkitVersionHelperCB.<init>(BukkitVersionHelperCB.java:39) ~[?:?]
@@ -33,759 +34,313 @@ java.lang.IllegalArgumentException: Error initializing dynmap - bukkit version i
 	at net.minecraft.server.v1_13_R1.DedicatedServer.init(DedicatedServer.java:213) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:686) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	at java.lang.Thread.run(Thread.java:844) [?:?]
-[17:56:06] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.42
-[17:56:06] [Server thread/INFO]: [PerWorldInventory] Loading PerWorldInventory v2.1.0
-[17:56:06] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-b727
-[17:56:06] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
-[17:56:06] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5.0-b751
-[17:56:06] [Server thread/INFO]: [Multiverse-SignPortals] Loading Multiverse-SignPortals v2.4-b523
-[17:56:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:56:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:56:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:56:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:56:06] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[17:56:06] [Server thread/INFO]: Preparing level "world"
-[17:56:06] [Server thread/INFO]: -------- World Settings For [world] --------
-[17:56:06] [Server thread/INFO]: Mob Spawn Range: 4
-[17:56:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:56:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:56:06] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:56:06] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:56:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:56:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:56:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:56:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:56:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:56:06] [Server thread/INFO]: Vine Growth Modifier: 100%
-[17:56:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[17:56:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[17:56:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:56:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[17:56:06] [Server thread/INFO]: Random Lighting Updates: false
-[17:56:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[17:56:06] [Server thread/INFO]: Max TNT Explosions: 100
-[17:56:06] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:56:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:56:06] [Server thread/INFO]: Item Despawn Rate: 6000
-[17:56:06] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:56:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[17:56:06] [Server thread/INFO]: View Distance: 10
-[17:56:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:56:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:56:16] [Server thread/INFO]: Found new data pack file/bukkit, loading it automatically
-[17:56:16] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
-[17:56:16] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[17:56:17] [Server thread/INFO]: Loaded 524 recipes
-[17:56:18] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[17:56:18] [Server thread/INFO]: Mob Spawn Range: 4
-[17:56:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:56:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Vine Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[17:56:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:56:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[17:56:18] [Server thread/INFO]: Random Lighting Updates: false
-[17:56:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[17:56:18] [Server thread/INFO]: Max TNT Explosions: 100
-[17:56:18] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:56:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:56:18] [Server thread/INFO]: Item Despawn Rate: 6000
-[17:56:18] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:56:18] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[17:56:18] [Server thread/INFO]: View Distance: 10
-[17:56:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:56:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:56:18] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[17:56:18] [Server thread/INFO]: Mob Spawn Range: 4
-[17:56:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17:56:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Cane Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Melon Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Vine Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[17:56:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[17:56:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[17:56:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[17:56:18] [Server thread/INFO]: Random Lighting Updates: false
-[17:56:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[17:56:18] [Server thread/INFO]: Max TNT Explosions: 100
-[17:56:18] [Server thread/INFO]: Experience Merge Radius: 3.0
-[17:56:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17:56:18] [Server thread/INFO]: Item Despawn Rate: 6000
-[17:56:18] [Server thread/INFO]: Item Merge Radius: 2.5
-[17:56:18] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[17:56:18] [Server thread/INFO]: View Distance: 10
-[17:56:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[17:56:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[17:56:18] [Server thread/INFO]: Preparing start region for level 0 (Seed: -950072589)
-[17:56:25] [Server thread/INFO]: Preparing spawn area: 4%
-[17:56:26] [Server thread/INFO]: Preparing spawn area: 8%
-[17:56:31] [Server thread/INFO]: Preparing spawn area: 12%
-[17:56:32] [Server thread/INFO]: Preparing spawn area: 16%
-[17:56:32] [Server thread/INFO]: Preparing spawn area: 20%
-[17:56:33] [Server thread/INFO]: Preparing spawn area: 24%
-[17:56:34] [Server thread/INFO]: Preparing spawn area: 28%
-[17:56:34] [Server thread/INFO]: Preparing spawn area: 32%
-[17:56:35] [Server thread/INFO]: Preparing spawn area: 36%
-[17:56:35] [Server thread/INFO]: Preparing spawn area: 40%
-[17:56:36] [Server thread/INFO]: Preparing spawn area: 44%
-[17:56:36] [Server thread/INFO]: Preparing spawn area: 48%
-[17:56:37] [Server thread/INFO]: Preparing spawn area: 52%
-[17:56:38] [Server thread/INFO]: Preparing spawn area: 56%
-[17:56:38] [Server thread/INFO]: Preparing spawn area: 60%
-[17:56:39] [Server thread/INFO]: Preparing spawn area: 64%
-[17:56:39] [Server thread/INFO]: Preparing spawn area: 68%
-[17:56:40] [Server thread/INFO]: Preparing spawn area: 72%
-[17:56:40] [Server thread/INFO]: Preparing spawn area: 76%
-[17:56:41] [Server thread/INFO]: Preparing spawn area: 80%
-[17:56:41] [Server thread/INFO]: Preparing spawn area: 84%
-[17:56:42] [Server thread/INFO]: Preparing spawn area: 88%
-[17:56:42] [Server thread/INFO]: Preparing spawn area: 92%
-[17:56:43] [Server thread/INFO]: Preparing spawn area: 96%
-[17:56:44] [Server thread/INFO]: Preparing spawn area: 100%
-[17:56:44] [Server thread/INFO]: Preparing start region for level 1 (Seed: -950072589)
-[17:56:46] [Server thread/INFO]: Preparing spawn area: 4%
-[17:56:46] [Server thread/INFO]: Preparing spawn area: 8%
-[17:56:47] [Server thread/INFO]: Preparing spawn area: 12%
-[17:56:47] [Server thread/INFO]: Preparing spawn area: 16%
-[17:56:47] [Server thread/INFO]: Preparing spawn area: 20%
-[17:56:48] [Server thread/INFO]: Preparing spawn area: 24%
-[17:56:48] [User Authenticator #1/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
-[17:56:48] [Server thread/INFO]: Preparing spawn area: 28%
-[17:56:49] [Server thread/INFO]: Preparing spawn area: 32%
-[17:56:49] [Server thread/INFO]: Preparing spawn area: 36%
-[17:56:49] [Server thread/INFO]: Preparing spawn area: 40%
-[17:56:50] [Server thread/INFO]: Preparing spawn area: 44%
-[17:56:50] [Server thread/INFO]: Preparing spawn area: 48%
-[17:56:50] [Server thread/INFO]: Preparing spawn area: 52%
-[17:56:51] [Server thread/INFO]: Preparing spawn area: 56%
-[17:56:51] [Server thread/INFO]: Preparing spawn area: 60%
-[17:56:52] [Server thread/INFO]: Preparing spawn area: 64%
-[17:56:52] [Server thread/INFO]: Preparing spawn area: 68%
-[17:56:52] [Server thread/INFO]: Preparing spawn area: 72%
-[17:56:53] [Server thread/INFO]: Preparing spawn area: 76%
-[17:56:53] [Server thread/INFO]: Preparing spawn area: 80%
-[17:56:54] [Server thread/INFO]: Preparing spawn area: 84%
-[17:56:54] [Server thread/INFO]: Preparing spawn area: 88%
-[17:56:54] [Server thread/INFO]: Preparing spawn area: 92%
-[17:56:55] [Server thread/INFO]: Preparing spawn area: 96%
-[17:56:55] [Server thread/INFO]: Preparing spawn area: 100%
-[17:56:55] [Server thread/INFO]: Preparing start region for level 2 (Seed: -950072589)
-[17:56:56] [Server thread/INFO]: Preparing spawn area: 4%
-[17:56:56] [Server thread/INFO]: Preparing spawn area: 8%
-[17:56:56] [Server thread/INFO]: Preparing spawn area: 12%
-[17:56:56] [Server thread/INFO]: Preparing spawn area: 16%
-[17:56:56] [Server thread/INFO]: Preparing spawn area: 20%
-[17:56:56] [Server thread/INFO]: Preparing spawn area: 24%
-[17:56:56] [Server thread/INFO]: Preparing spawn area: 28%
-[17:56:57] [Server thread/INFO]: Preparing spawn area: 32%
-[17:56:57] [Server thread/INFO]: Preparing spawn area: 36%
-[17:56:57] [Server thread/INFO]: Preparing spawn area: 40%
-[17:56:57] [Server thread/INFO]: Preparing spawn area: 44%
-[17:56:57] [Server thread/INFO]: Preparing spawn area: 48%
-[17:56:57] [Server thread/INFO]: Preparing spawn area: 52%
-[17:56:57] [Server thread/INFO]: Preparing spawn area: 56%
-[17:56:57] [Server thread/INFO]: Preparing spawn area: 60%
-[17:56:57] [Server thread/INFO]: Preparing spawn area: 64%
-[17:56:57] [Server thread/INFO]: Preparing spawn area: 68%
-[17:56:58] [Server thread/INFO]: Preparing spawn area: 72%
-[17:56:58] [Server thread/INFO]: Preparing spawn area: 76%
-[17:56:58] [Server thread/INFO]: Preparing spawn area: 80%
-[17:56:58] [Server thread/INFO]: Preparing spawn area: 84%
-[17:56:58] [Server thread/INFO]: Preparing spawn area: 88%
-[17:56:58] [Server thread/INFO]: Preparing spawn area: 92%
-[17:56:58] [Server thread/INFO]: Preparing spawn area: 96%
-[17:56:58] [Server thread/INFO]: Preparing spawn area: 100%
-[17:56:58] [Server thread/INFO]: [LobbyAPI] Enabling LobbyAPI v3.7.71
-[17:56:58] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m[0;31;22mBungee For LobbyAPI is disabled[m
-[17:56:58] [Server thread/INFO]: [dynmap] Enabling dynmap v2.6-beta-1-Dev201807082003
-[17:56:58] [Server thread/INFO]: [dynmap] Dynmap is disabled (unsupported platform)
-[17:56:58] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.42
-[17:56:58] [Server thread/INFO]: [PerWorldInventory] Enabling PerWorldInventory v2.1.0
-[17:56:59] [Server thread/INFO]: [ACF] Minecraft Version: 1.13
-[17:56:59] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-b727
-[17:56:59] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
-[17:56:59] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-b727 (API v20) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
-[17:56:59] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
-[17:56:59] [Server thread/INFO]: [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
-[17:56:59] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5.0-b751
-[17:56:59] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5.0-b751 Enabled - By Rigby and fernferret
-[17:56:59] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
-[17:56:59] [Server thread/INFO]: [Multiverse-SignPortals] Enabling Multiverse-SignPortals v2.4-b523
-[17:56:59] [Server thread/INFO]: [Multiverse-SignPortals] - Version 2.4-b523 Enabled - By Rigby and fernferret
-[17:56:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:56:59] [Server thread/INFO]: Time elapsed: 41223 ms
-[17:56:59] [Server thread/INFO]: Done (52.925s)! For help, type "help"
-[17:57:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@5a8708c2[id=3c08d521-d637-361a-bcbd-d8c23e3bfcce,name=_wjw_,properties={},legacy=false] (/98.164.255.203:56892) lost connection: Disconnected
-[17:57:11] [User Authenticator #2/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
-[17:57:12] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:55592] logged in with entity id 421 at ([world]96.5, 127.0, 240.5)
-[17:57:18] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
-[17:57:18] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
-[17:57:47] [User Authenticator #3/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
-[17:57:48] [Server thread/INFO]: _wjw_[/98.164.255.203:57049] logged in with entity id 763 at ([world]96.5, 127.0, 240.5)
-[17:57:57] [Server thread/INFO]: _wjw_ issued server command: /gamemode
-[17:58:00] [Server thread/INFO]: _wjw_ issued server command: /gamemode
-[17:58:04] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
-[17:58:04] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
-[17:58:15] [Server thread/INFO]: _wjw_ issued server command: /gamemode s
-[17:58:18] [Server thread/INFO]: _wjw_ issued server command: /gamemode survival
-[17:58:18] [Server thread/INFO]: [_wjw_: Set own game mode to Survival Mode]
-[17:58:27] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
-[17:58:27] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
-[17:59:42] [Server thread/INFO]: GlitchedPixels issued server command: //wand
-[17:59:44] [Server thread/INFO]: GlitchedPixels issued server command: /help
-[18:00:50] [Server thread/INFO]: GlitchedPixels issued server command: //help
-[18:02:38] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
-[18:05:12] [Server thread/INFO]: GlitchedPixels issued server command: /give @p barrier
-[18:05:12] [Server thread/INFO]: [GlitchedPixels: Gave 1 [Barrier] to GlitchedPixels]
-[18:05:36] [Server thread/INFO]: GlitchedPixels issued server command: /give @p command_block
-[18:05:36] [Server thread/INFO]: [GlitchedPixels: Gave 1 [Command Block] to GlitchedPixels]
-[18:05:59] [Server thread/INFO]: _wjw_ issued server command: /tps
-[18:06:11] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
-[18:06:11] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
-[18:07:22] [Server thread/INFO]: _wjw_ issued server command: /fill -107 68 65 -107 68 65 end
-[18:07:26] [Server thread/INFO]: _wjw_ issued server command: /fill -107 68 65 -107 68 65 minecraft:end_portal
-[18:07:26] [Server thread/INFO]: [_wjw_: Successfully filled 1 blocks]
-[18:07:48] [Server thread/INFO]: _wjw_ issued server command: /locate Shipwreck
-[18:07:58] [Server thread/INFO]: _wjw_ issued server command: /tp -160 100 -208
-[18:07:58] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to -159.5, 100.0, -207.5]
-[18:10:15] [Server thread/INFO]: _wjw_ issued server command: /hub
-[18:12:03] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:03] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:03] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:04] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: _wjw_ issued server command: /gamemode spectator
-[18:12:05] [Server thread/INFO]: [_wjw_: Set own game mode to Spectator Mode]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:05] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:06] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:07] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:08] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:09] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:10] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:11] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:12] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:12] [Server thread/INFO]: [@: Applied effect Water Breathing to 2 targets]
-[18:12:12] [Server thread/INFO]: GlitchedPixels issued server command: /gamerule commandBlockOutput false
-[18:12:12] [Server thread/INFO]: [GlitchedPixels: Gamerule commandBlockOutput is now set to: false]
-[18:15:55] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
-[18:15:55] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
-[18:16:24] [Server thread/INFO]: _wjw_ issued server command: /gamemode
-[18:16:28] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
-[18:16:28] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
-[18:22:24] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
-[18:22:24] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
-[18:23:44] [Server thread/INFO]: _wjw_ issued server command: /locate Buried_Treasure
-[18:23:47] [Server thread/INFO]: _wjw_ issued server command: /locate Buried_Treasure
-[18:23:57] [Server thread/INFO]: _wjw_ issued server command: /tp 281 100 281
-[18:23:57] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to 281.5, 100.0, 281.5]
-[18:24:03] [Server thread/WARN]: GlitchedPixels moved too quickly! 12.953930815806313,0.07137591176235958,-4.3226970707672585
-[18:24:18] [Server thread/INFO]: _wjw_ has made the advancement [Acquire Hardware]
-[18:25:02] [Server thread/INFO]: GlitchedPixels issued server command: /setworldspawn
-[18:25:02] [Server thread/INFO]: [GlitchedPixels: Set the world spawn point to -4, 54, 9]
-[18:25:23] [Server thread/INFO]: _wjw_ issued server command: /clear
-[18:25:23] [Server thread/INFO]: [_wjw_: Removed 25 items from player _wjw_]
-[18:25:28] [Server thread/INFO]: _wjw_ issued server command: /locate Buried_Treasure
-[18:25:35] [Server thread/INFO]: _wjw_ issued server command: /tp 281 ~ 281
-[18:25:35] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to 281.5, 52.0, 281.5]
-[18:26:36] [Server thread/INFO]: GlitchedPixels issued server command: /help
-[18:26:41] [Server thread/INFO]: GlitchedPixels issued server command: /help Multiverse-Core
-[18:26:43] [Server thread/INFO]: GlitchedPixels issued server command: /mv
-[18:26:47] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 2
-[18:26:50] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 3
-[18:26:52] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 4
-[18:26:55] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 5
-[18:26:58] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 6
-[18:27:00] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 7
-[18:27:03] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 6
-[18:27:04] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 5
-[18:27:08] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 4
-[18:27:10] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 3
-[18:27:14] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 2
-[18:27:17] [Server thread/INFO]: GlitchedPixels issued server command: /mv help
-[18:28:04] [Server thread/INFO]: GlitchedPixels issued server command: /mv create survival -s -981323491131848
-[18:28:15] [Server thread/INFO]: GlitchedPixels issued server command: /mv create survival normal -s -981323491131848
-[18:28:15] [Server thread/INFO]: GlitchedPixels: Starting creation of world 'survival'...[m
-[18:28:15] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: -981323491131848
-[18:28:15] [Server thread/INFO]: -------- World Settings For [survival] --------
-[18:28:15] [Server thread/INFO]: Mob Spawn Range: 4
-[18:28:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:28:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:28:15] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:28:15] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:28:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:28:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:28:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:28:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:28:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:28:15] [Server thread/INFO]: Vine Growth Modifier: 100%
-[18:28:15] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[18:28:15] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[18:28:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:28:15] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[18:28:15] [Server thread/INFO]: Random Lighting Updates: false
-[18:28:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[18:28:15] [Server thread/INFO]: Max TNT Explosions: 100
-[18:28:15] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:28:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:28:15] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:28:15] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:28:15] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:28:15] [Server thread/INFO]: View Distance: 10
-[18:28:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:28:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:28:18] [Server thread/INFO]: Preparing start region for level 3 (Seed: -981323491131848)
-[18:28:19] [Server thread/INFO]: Preparing spawn area for survival, 0%
-[18:28:20] [Server thread/INFO]: Preparing spawn area for survival, 3%
-[18:28:21] [Server thread/INFO]: Preparing spawn area for survival, 12%
-[18:28:22] [Server thread/INFO]: Preparing spawn area for survival, 20%
-[18:28:23] [Server thread/INFO]: Preparing spawn area for survival, 28%
-[18:28:24] [Server thread/INFO]: Preparing spawn area for survival, 36%
-[18:28:25] [Server thread/INFO]: Preparing spawn area for survival, 48%
-[18:28:26] [Server thread/INFO]: Preparing spawn area for survival, 56%
-[18:28:27] [Server thread/INFO]: Preparing spawn area for survival, 65%
-[18:28:28] [Server thread/INFO]: Preparing spawn area for survival, 73%
-[18:28:29] [Server thread/INFO]: Preparing spawn area for survival, 81%
-[18:28:30] [Server thread/INFO]: Preparing spawn area for survival, 93%
-[18:28:32] [Server thread/INFO]: GlitchedPixels: Complete![m
-[18:28:32] [Server thread/INFO]: GlitchedPixels issued server command: /mv create survival-nether nether -s -981323491131848
-[18:28:32] [Server thread/INFO]: GlitchedPixels: Starting creation of world 'survival-nether'...[m
-[18:28:32] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival-nether' - Env: NETHER - Type: NORMAL & seed: -981323491131848
-[18:28:32] [Server thread/INFO]: -------- World Settings For [survival-nether] --------
-[18:28:32] [Server thread/INFO]: Mob Spawn Range: 4
-[18:28:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:28:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:28:32] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:28:32] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:28:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:28:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:28:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:28:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:28:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:28:32] [Server thread/INFO]: Vine Growth Modifier: 100%
-[18:28:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[18:28:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[18:28:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:28:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[18:28:32] [Server thread/INFO]: Random Lighting Updates: false
-[18:28:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[18:28:32] [Server thread/INFO]: Max TNT Explosions: 100
-[18:28:32] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:28:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:28:32] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:28:32] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:28:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:28:32] [Server thread/INFO]: View Distance: 10
-[18:28:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:28:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:28:32] [Server thread/INFO]: Preparing start region for level 4 (Seed: -981323491131848)
-[18:28:33] [Server thread/INFO]: Preparing spawn area for survival-nether, 0%
-[18:28:34] [Server thread/INFO]: Preparing spawn area for survival-nether, 4%
-[18:28:35] [Server thread/INFO]: Preparing spawn area for survival-nether, 12%
-[18:28:36] [Server thread/INFO]: Preparing spawn area for survival-nether, 24%
-[18:28:37] [Server thread/INFO]: Preparing spawn area for survival-nether, 36%
-[18:28:38] [Server thread/INFO]: Preparing spawn area for survival-nether, 48%
-[18:28:39] [Server thread/INFO]: Preparing spawn area for survival-nether, 56%
-[18:28:40] [Server thread/INFO]: Preparing spawn area for survival-nether, 69%
-[18:28:41] [Server thread/INFO]: Preparing spawn area for survival-nether, 77%
-[18:28:42] [Server thread/INFO]: Preparing spawn area for survival-nether, 89%
-[18:28:43] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
-[18:28:43] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
-[18:28:45] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'survival-nether' is located at: survival-nether:8.50,59.00,0.50:0.00:0.00
-[18:28:46] [Server thread/INFO]: GlitchedPixels: Complete![m
-[18:28:46] [Server thread/INFO]: GlitchedPixels issued server command: /mv create survival-end end -s -981323491131848
-[18:28:46] [Server thread/INFO]: GlitchedPixels: Starting creation of world 'survival-end'...[m
-[18:28:46] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival-end' - Env: THE_END - Type: NORMAL & seed: -981323491131848
-[18:28:46] [Server thread/INFO]: -------- World Settings For [survival-end] --------
-[18:28:46] [Server thread/INFO]: Mob Spawn Range: 4
-[18:28:46] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:28:46] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:28:46] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:28:46] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:28:46] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:28:46] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:28:46] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:28:46] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:28:46] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:28:46] [Server thread/INFO]: Vine Growth Modifier: 100%
-[18:28:46] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[18:28:46] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[18:28:46] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:28:46] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[18:28:46] [Server thread/INFO]: Random Lighting Updates: false
-[18:28:46] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[18:28:46] [Server thread/INFO]: Max TNT Explosions: 100
-[18:28:46] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:28:46] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:28:46] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:28:46] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:28:46] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:28:46] [Server thread/INFO]: View Distance: 10
-[18:28:46] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:28:46] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:28:46] [Server thread/INFO]: Preparing start region for level 5 (Seed: -981323491131848)
-[18:28:47] [Server thread/INFO]: Preparing spawn area for survival-end, 32%
-[18:28:48] [Server thread/INFO]: Preparing spawn area for survival-end, 85%
-[18:28:48] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
-[18:28:48] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
-[18:28:48] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'survival-end' is located at: survival-end:0.00,61.00,0.00:0.00:0.00
-[18:28:48] [Server thread/INFO]: GlitchedPixels: Complete![m
-[18:28:51] [Server thread/WARN]: GlitchedPixels moved too quickly! 4.579252007610778,-5.83216144370158,-9.609662516234174
-[18:33:11] [Server thread/INFO]: GlitchedPixels issued server command: /mv 2
-[18:33:14] [Server thread/INFO]: GlitchedPixels issued server command: /mv 2
-[18:33:16] [Server thread/INFO]: GlitchedPixels issued server command: /mv 3
-[18:33:18] [Server thread/INFO]: GlitchedPixels issued server command: /mv 4
-[18:33:20] [Server thread/INFO]: GlitchedPixels issued server command: /mv 5
-[18:33:21] [Server thread/INFO]: GlitchedPixels issued server command: /mv 6
-[18:33:24] [Server thread/INFO]: GlitchedPixels issued server command: /mv 6
-[18:33:26] [Server thread/INFO]: GlitchedPixels issued server command: /mv 7
-[18:33:30] [Server thread/INFO]: GlitchedPixels issued server command: /mvp wand
-[18:33:30] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'mvp' in plugin Multiverse-Portals v2.5.0-b751
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.dispatchCommand(CraftServer.java:692) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnection.handleCommand(PlayerConnection.java:1634) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1469) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
-	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at java.lang.Thread.run(Thread.java:844) [?:?]
-Caused by: java.lang.NoSuchMethodError: org.bukkit.inventory.ItemStack.<init>(II)V
-	at com.onarandombox.MultiversePortals.commands.WandCommand.runCommand(WandCommand.java:59) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.checkAndRunCommand(CommandHandler.java:279) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.processFoundCommands(CommandHandler.java:143) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:93) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:71) ~[?:?]
-	at com.onarandombox.MultiversePortals.MultiversePortals.onCommand(MultiversePortals.java:358) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	... 15 more
-[18:33:38] [Server thread/INFO]: GlitchedPixels issued server command: /mvp wand
-[18:33:38] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'mvp' in plugin Multiverse-Portals v2.5.0-b751
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.dispatchCommand(CraftServer.java:692) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnection.handleCommand(PlayerConnection.java:1634) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1469) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
-	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at java.lang.Thread.run(Thread.java:844) [?:?]
-Caused by: java.lang.NoSuchMethodError: org.bukkit.inventory.ItemStack.<init>(II)V
-	at com.onarandombox.MultiversePortals.commands.WandCommand.runCommand(WandCommand.java:59) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.checkAndRunCommand(CommandHandler.java:279) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.processFoundCommands(CommandHandler.java:143) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:93) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:71) ~[?:?]
-	at com.onarandombox.MultiversePortals.MultiversePortals.onCommand(MultiversePortals.java:358) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	... 15 more
-[18:33:44] [Server thread/INFO]: GlitchedPixels issued server command: /mvp portal
-[18:33:51] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 1
-[18:33:53] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 2
-[18:33:55] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 3
-[18:33:56] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 4
-[18:33:57] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 5
-[18:34:01] [Server thread/INFO]: GlitchedPixels issued server command: /mv help 6
-[18:34:31] [Server thread/INFO]: GlitchedPixels issued server command: /mvnp link end survival survival-end
-[18:34:42] [Server thread/INFO]: GlitchedPixels issued server command: /mvnp link nether survival survival-nether
-[18:34:45] [Server thread/INFO]: GlitchedPixels issued server command: /mv tp
-[18:34:52] [Server thread/INFO]: GlitchedPixels issued server command: /mv tp _wjw_ survival
-[18:34:52] [Server thread/WARN]: [PerWorldInventory] Creating a new group on the fly for 'survival'. Please double check your `worlds.yml` file configuration!
-[18:34:52] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "world"! Inventories for this world will not be saved.[m
-[18:34:56] [Server thread/INFO]: GlitchedPixels issued server command: /mv tp _wjw_ survival
-[18:35:04] [Server thread/INFO]: GlitchedPixels issued server command: /mv
-[18:35:05] [Server thread/INFO]: GlitchedPixels issued server command: /mv 2
-[18:35:07] [Server thread/INFO]: GlitchedPixels issued server command: /mv 3
-[18:35:11] [Server thread/INFO]: GlitchedPixels issued server command: /mv 4
-[18:35:12] [Server thread/INFO]: _wjw_ lost connection: Disconnected
-[18:35:12] [Server thread/INFO]: _wjw_ left the game
-[18:35:14] [User Authenticator #4/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
-[18:35:15] [Server thread/INFO]: _wjw_[/98.164.255.203:61434] logged in with entity id 6812 at ([survival]-148.69999998807907, 63.0, 60.14820243216859)
-[18:35:15] [Server thread/INFO]: GlitchedPixels issued server command: /mv 5
-[18:35:19] [Server thread/INFO]: GlitchedPixels issued server command: /mv 6
-[18:35:24] [Server thread/INFO]: GlitchedPixels issued server command: /mv 7
-[18:35:26] [Server thread/INFO]: GlitchedPixels issued server command: /mv 3
-[18:35:28] [Server thread/INFO]: GlitchedPixels issued server command: /mv 5
-[18:36:01] [Server thread/INFO]: _wjw_ issued server command: /gamemode 1
-[18:36:06] [Server thread/INFO]: _wjw_ issued server command: /give @p minecraft:command_block
-[18:36:06] [Server thread/INFO]: [_wjw_: Gave 1 [Command Block] to _wjw_]
-[18:36:10] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
-[18:36:10] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
-[18:36:13] [Server thread/INFO]: _wjw_ issued server command: /give @p minecraft:command_block
-[18:36:13] [Server thread/INFO]: [_wjw_: Gave 1 [Command Block] to _wjw_]
-[18:36:46] [Server thread/INFO]: GlitchedPixels issued server command: /mv tp @p survival
-[18:36:53] [Server thread/INFO]: GlitchedPixels issued server command: /mv tp GlitchedPixels survival
-[18:36:53] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "world"! Inventories for this world will not be saved.[m
-[18:37:01] [Async Chat Thread - #0/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> mvm set mode survival[m
-[18:37:05] [Server thread/INFO]: GlitchedPixels issued server command: /mvm set mode survival
-[18:37:26] [Server thread/INFO]: _wjw_ issued server command: /gamemode
-[18:37:28] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
-[18:37:28] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
-[18:37:50] [Server thread/INFO]: GlitchedPixels issued server command: /hub
-[18:38:43] [Server thread/INFO]: GlitchedPixels issued server command: /mv tp GlitchedPixels world
-[18:38:43] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
-[18:38:45] [Server thread/INFO]: _wjw_ issued server command: /gamemode
-[18:38:53] [Server thread/INFO]: _wjw_ issued server command: /gamemode survival
-[18:38:53] [Server thread/INFO]: [_wjw_: Set own game mode to Survival Mode]
-[18:39:03] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
-[18:39:03] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
-[18:39:05] [Server thread/INFO]: GlitchedPixels issued server command: /setspawn
-[18:39:11] [Server thread/INFO]: GlitchedPixels issued server command: /spawnpoint
-[18:39:11] [Server thread/INFO]: [GlitchedPixels: Set spawn point to -4, 54, 9 for GlitchedPixels]
-[18:39:26] [Server thread/INFO]: _wjw_ issued server command: /gamemode survival
-[18:39:26] [Server thread/INFO]: [_wjw_: Set own game mode to Survival Mode]
-[18:39:27] [Server thread/INFO]: GlitchedPixels issued server command: /mvp wand
-[18:39:27] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'mvp' in plugin Multiverse-Portals v2.5.0-b751
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.dispatchCommand(CraftServer.java:692) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnection.handleCommand(PlayerConnection.java:1634) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1469) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
-	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at java.lang.Thread.run(Thread.java:844) [?:?]
-Caused by: java.lang.NoSuchMethodError: org.bukkit.inventory.ItemStack.<init>(II)V
-	at com.onarandombox.MultiversePortals.commands.WandCommand.runCommand(WandCommand.java:59) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.checkAndRunCommand(CommandHandler.java:279) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.processFoundCommands(CommandHandler.java:143) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:93) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:71) ~[?:?]
-	at com.onarandombox.MultiversePortals.MultiversePortals.onCommand(MultiversePortals.java:358) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	... 15 more
-[18:39:30] [Server thread/INFO]: GlitchedPixels issued server command: /mvnp wand
-[18:39:35] [Server thread/INFO]: GlitchedPixels issued server command: /mvp wand
-[18:39:35] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'mvp' in plugin Multiverse-Portals v2.5.0-b751
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.dispatchCommand(CraftServer.java:692) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnection.handleCommand(PlayerConnection.java:1634) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1469) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
-	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at java.lang.Thread.run(Thread.java:844) [?:?]
-Caused by: java.lang.NoSuchMethodError: org.bukkit.inventory.ItemStack.<init>(II)V
-	at com.onarandombox.MultiversePortals.commands.WandCommand.runCommand(WandCommand.java:59) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.checkAndRunCommand(CommandHandler.java:279) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.processFoundCommands(CommandHandler.java:143) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:93) ~[?:?]
-	at com.pneumaticraft.commandhandler.multiverse.CommandHandler.locateAndRunCommand(CommandHandler.java:71) ~[?:?]
-	at com.onarandombox.MultiversePortals.MultiversePortals.onCommand(MultiversePortals.java:358) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	... 15 more
-[18:39:40] [Server thread/INFO]: _wjw_ has made the advancement [A Throwaway Joke]
-[18:39:47] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
-[18:39:47] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
-[18:40:40] [Server thread/INFO]: _wjw_ issued server command: /summon minecraft:phantom
-[18:40:40] [Server thread/INFO]: [_wjw_: Summoned new Phantom]
-[18:41:48] [Server thread/INFO]: _wjw_ has made the advancement [Monster Hunter]
-[18:41:53] [Server thread/INFO]: _wjw_ lost connection: Disconnected
-[18:41:53] [Server thread/INFO]: _wjw_ left the game
-[18:50:13] [Server thread/INFO]: GlitchedPixels issued server command: /mvnp
-[18:50:16] [Server thread/INFO]: GlitchedPixels issued server command: /mvp
-[20:05:24] [Server thread/INFO]: GlitchedPixels lost connection: Disconnected
-[20:05:24] [Server thread/INFO]: GlitchedPixels left the game
-[20:15:06] [User Authenticator #5/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
-[20:15:06] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:40646] logged in with entity id 10897 at ([world]-3.5459193146707357, 54.0, 8.089481294834812)
-[20:15:08] [Server thread/INFO]: GlitchedPixels issued server command: /lag
-[20:15:18] [Server thread/INFO]: GlitchedPixels issued server command: /lag
-[20:15:33] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
-[20:15:33] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[20:56:43] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.42
+[20:56:43] [Server thread/INFO]: [PerWorldInventory] Loading PerWorldInventory v2.1.0
+[20:56:43] [Server thread/INFO]: [AdvancedAchievements] Loading AdvancedAchievements v5.8.2
+[20:56:43] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-b727
+[20:56:43] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[20:56:43] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5.0-b751
+[20:56:43] [Server thread/INFO]: [Multiverse-SignPortals] Loading Multiverse-SignPortals v2.4-b523
+[20:56:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:56:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:56:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:56:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:56:43] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:56:43] [Server thread/INFO]: Preparing level "world"
+[20:56:43] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:56:43] [Server thread/INFO]: Max TNT Explosions: 100
+[20:56:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:56:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:56:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:56:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:56:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:56:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:56:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:56:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:56:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:56:43] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:56:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:56:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:56:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:56:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:56:43] [Server thread/INFO]: Random Lighting Updates: false
+[20:56:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:56:43] [Server thread/INFO]: Mob Spawn Range: 4
+[20:56:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:56:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:56:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:56:43] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:56:43] [Server thread/INFO]: View Distance: 10
+[20:56:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:56:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:56:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:56:43] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:56:44] [Server thread/INFO]: Loaded 524 recipes
+[20:56:45] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[20:56:45] [Server thread/INFO]: Max TNT Explosions: 100
+[20:56:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:56:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:56:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:56:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:56:45] [Server thread/INFO]: Random Lighting Updates: false
+[20:56:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:56:45] [Server thread/INFO]: Mob Spawn Range: 4
+[20:56:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:56:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:56:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:56:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:56:45] [Server thread/INFO]: View Distance: 10
+[20:56:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:56:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:56:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:56:45] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[20:56:45] [Server thread/INFO]: Max TNT Explosions: 100
+[20:56:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:56:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:56:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:56:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:56:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:56:45] [Server thread/INFO]: Random Lighting Updates: false
+[20:56:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:56:45] [Server thread/INFO]: Mob Spawn Range: 4
+[20:56:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:56:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:56:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:56:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:56:45] [Server thread/INFO]: View Distance: 10
+[20:56:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:56:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:56:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:56:45] [Server thread/INFO]: Preparing start region for level 0 (Seed: -950072589)
+[20:56:45] [Server thread/INFO]: Preparing spawn area: 4%
+[20:56:46] [Server thread/INFO]: Preparing spawn area: 8%
+[20:56:46] [Server thread/INFO]: Preparing spawn area: 12%
+[20:56:46] [Server thread/INFO]: Preparing spawn area: 16%
+[20:56:50] [Server thread/INFO]: Preparing spawn area: 20%
+[20:56:50] [Server thread/INFO]: Preparing spawn area: 24%
+[20:56:50] [Server thread/INFO]: Preparing spawn area: 28%
+[20:56:50] [Server thread/INFO]: Preparing spawn area: 32%
+[20:56:50] [Server thread/INFO]: Preparing spawn area: 36%
+[20:56:50] [Server thread/INFO]: Preparing spawn area: 40%
+[20:56:50] [Server thread/INFO]: Preparing spawn area: 44%
+[20:56:50] [Server thread/INFO]: Preparing spawn area: 48%
+[20:56:50] [Server thread/INFO]: Preparing spawn area: 52%
+[20:56:54] [Server thread/INFO]: Preparing spawn area: 56%
+[20:56:54] [Server thread/INFO]: Preparing spawn area: 60%
+[20:56:54] [Server thread/INFO]: Preparing spawn area: 64%
+[20:56:54] [Server thread/INFO]: Preparing spawn area: 68%
+[20:56:54] [Server thread/INFO]: Preparing spawn area: 72%
+[20:56:54] [Server thread/INFO]: Preparing spawn area: 76%
+[20:56:54] [Server thread/INFO]: Preparing spawn area: 80%
+[20:56:54] [Server thread/INFO]: Preparing spawn area: 84%
+[20:56:54] [Server thread/INFO]: Preparing spawn area: 88%
+[20:56:54] [Server thread/INFO]: Preparing spawn area: 92%
+[20:56:54] [Server thread/INFO]: Preparing spawn area: 96%
+[20:56:54] [Server thread/INFO]: Preparing spawn area: 100%
+[20:56:54] [Server thread/INFO]: Preparing start region for level 1 (Seed: -950072589)
+[20:56:55] [Server thread/INFO]: Preparing spawn area: 4%
+[20:56:55] [Server thread/INFO]: Preparing spawn area: 8%
+[20:56:55] [Server thread/INFO]: Preparing spawn area: 12%
+[20:56:55] [Server thread/INFO]: Preparing spawn area: 16%
+[20:56:55] [Server thread/INFO]: Preparing spawn area: 20%
+[20:56:55] [Server thread/INFO]: Preparing spawn area: 24%
+[20:56:55] [Server thread/INFO]: Preparing spawn area: 28%
+[20:56:55] [Server thread/INFO]: Preparing spawn area: 32%
+[20:56:55] [Server thread/INFO]: Preparing spawn area: 36%
+[20:56:55] [Server thread/INFO]: Preparing spawn area: 40%
+[20:56:55] [Server thread/INFO]: Preparing spawn area: 44%
+[20:56:55] [Server thread/INFO]: Preparing spawn area: 48%
+[20:56:55] [Server thread/INFO]: Preparing spawn area: 52%
+[20:56:55] [Server thread/INFO]: Preparing spawn area: 56%
+[20:56:55] [Server thread/INFO]: Preparing spawn area: 60%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 64%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 68%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 72%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 76%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 80%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 84%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 88%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 92%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 96%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 100%
+[20:56:56] [Server thread/INFO]: Preparing start region for level 2 (Seed: -950072589)
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 4%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 8%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 12%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 16%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 20%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 24%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 28%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 32%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 36%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 40%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 44%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 48%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 52%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 56%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 60%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 64%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 68%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 72%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 76%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 80%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 84%
+[20:56:56] [Server thread/INFO]: Preparing spawn area: 88%
+[20:56:57] [Server thread/INFO]: Preparing spawn area: 92%
+[20:56:57] [Server thread/INFO]: Preparing spawn area: 96%
+[20:56:57] [Server thread/INFO]: Preparing spawn area: 100%
+[20:56:57] [Server thread/INFO]: [LobbyAPI] Enabling LobbyAPI v3.7.71
+[20:56:57] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m[0;31;22mBungee For LobbyAPI is disabled[m
+[20:56:57] [Server thread/INFO]: [LagMeter] Enabling LagMeter v1.17.0
+[20:56:57] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mNot using logs folder.[m
+[20:56:57] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mEnabled! Polling every 40 server ticks. Logging to /root/minecraft/plugins/LagMeter/lag.log.[m
+[20:56:57] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mChunks loaded:[m
+[20:56:57] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mWorld "world": 625.[m
+[20:56:57] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mWorld "world_nether": 625.[m
+[20:56:57] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mWorld "world_the_end": 625.[m
+[20:56:57] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mTotal chunks loaded: 1875[m
+[20:56:57] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mEntities:[m
+[20:56:57] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mWorld "world": 62.[m
+[20:56:57] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mWorld "world_nether": 0.[m
+[20:56:57] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mWorld "world_the_end": 10.[m
+[20:56:57] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mTotal entities: 72[m
+[20:56:57] [Server thread/INFO]: [dynmap] Enabling dynmap v2.6-beta-1-Dev201807082003
+[20:56:57] [Server thread/INFO]: [dynmap] Dynmap is disabled (unsupported platform)
+[20:56:57] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.42
+[20:56:57] [Server thread/INFO]: [PerWorldInventory] Enabling PerWorldInventory v2.1.0
+[20:56:57] [Server thread/INFO]: [ACF] Minecraft Version: 1.13
+[20:56:57] [Server thread/INFO]: [AdvancedAchievements] Enabling AdvancedAchievements v5.8.2
+[20:56:57] [Server thread/INFO]: [AdvancedAchievements] Loading and backing up configuration files...
+[20:56:57] [Server thread/INFO]: [AdvancedAchievements] Successfully created config.yml file.
+[20:56:57] [Server thread/INFO]: [AdvancedAchievements] Successfully created lang.yml file.
+[20:56:57] [Server thread/INFO]: [AdvancedAchievements] Successfully created gui.yml file.
+[20:56:58] [Server thread/WARN]: [AdvancedAchievements] Overriding configuration: disabling PetMasterGive and PetMasterReceive categories.
+[20:56:58] [Server thread/WARN]: [AdvancedAchievements] Ensure you have placed Pet Master with a minimum version of 1.4 in your plugins folder or add PetMasterGive and PetMasterReceive to the DisabledCategories list in config.yml.
+[20:56:58] [Server thread/INFO]: [AdvancedAchievements] Loaded 51 achievements in 45 categories.
+[20:56:58] [Server thread/INFO]: [AdvancedAchievements] 2 disabled categories: [PetMasterReceive, PetMasterGive]
+[20:56:58] [Server thread/INFO]: [AdvancedAchievements] Registering event listeners...
+[20:56:58] [Server thread/INFO]: [AdvancedAchievements] Initialising database...
+[20:56:58] [Server thread/INFO]: [AdvancedAchievements] Successfully created new SQLite database file.
+[20:56:59] [Server thread/INFO]: [AdvancedAchievements] Setting up command executor and custom tab completers...
+[20:56:59] [Server thread/INFO]: [AdvancedAchievements] Launching scheduled tasks...
+[20:56:59] [Server thread/INFO]: [AdvancedAchievements] Registering permissions...
+[20:56:59] [Thread-9/INFO]: [AdvancedAchievements] Checking for plugin update...
+[20:56:59] [Server thread/INFO]: [AdvancedAchievements] Plugin has finished loading and is ready to run! Took 1966ms.
+[20:56:59] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-b727
+[20:56:59] [Server thread/INFO]: -------- World Settings For [survival-end] --------
+[20:56:59] [Server thread/INFO]: Max TNT Explosions: 100
+[20:56:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:56:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:56:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:56:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:56:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:56:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:56:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:56:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:56:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:56:59] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:56:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:56:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:56:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:56:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:56:59] [Server thread/INFO]: Random Lighting Updates: false
+[20:56:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:56:59] [Server thread/INFO]: Mob Spawn Range: 4
+[20:56:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:56:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:56:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:56:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:56:59] [Server thread/INFO]: View Distance: 10
+[20:56:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:56:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:56:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:56:59] [Server thread/INFO]: Preparing start region for level 3 (Seed: -981323491131848)
+[20:57:00] [Server thread/INFO]: -------- World Settings For [survival-nether] --------
+[20:57:00] [Server thread/INFO]: Max TNT Explosions: 100
+[20:57:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:57:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:57:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:57:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:57:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:57:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:57:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:57:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:57:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:57:00] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:57:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:57:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:57:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:57:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:57:00] [Server thread/INFO]: Random Lighting Updates: false
+[20:57:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:57:00] [Server thread/INFO]: Mob Spawn Range: 4
+[20:57:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:57:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:57:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:57:00] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:57:00] [Server thread/INFO]: View Distance: 10
+[20:57:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:57:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:57:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:57:00] [Server thread/INFO]: Preparing start region for level 4 (Seed: -981323491131848)
+[20:57:01] [Server thread/INFO]: Preparing spawn area for survival-nether, 57%
+[20:57:02] [Server thread/INFO]: Preparing spawn area for survival-nether, 97%
+[20:57:02] [Server thread/INFO]: -------- World Settings For [survival] --------
+[20:57:02] [Server thread/INFO]: Max TNT Explosions: 100
+[20:57:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:57:02] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:57:02] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:57:02] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:57:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:57:02] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:57:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:57:02] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:57:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:57:02] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:57:02] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:57:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:57:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:57:02] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:57:02] [Server thread/INFO]: Random Lighting Updates: false
+[20:57:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:57:02] [Server thread/INFO]: Mob Spawn Range: 4
+[20:57:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:57:02] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:57:02] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:57:02] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:57:02] [Server thread/INFO]: View Distance: 10
+[20:57:02] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:57:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:57:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:57:02] [Server thread/INFO]: Preparing start region for level 5 (Seed: -981323491131848)
+[20:57:03] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[20:57:03] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-b727 (API v20) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[20:57:03] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[20:57:03] [Server thread/INFO]: [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
+[20:57:03] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5.0-b751
+[20:57:03] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5.0-b751 Enabled - By Rigby and fernferret
+[20:57:03] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
+[20:57:03] [Server thread/INFO]: [Multiverse-SignPortals] Enabling Multiverse-SignPortals v2.4-b523
+[20:57:03] [Server thread/INFO]: [Multiverse-SignPortals] - Version 2.4-b523 Enabled - By Rigby and fernferret
+[20:57:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:57:03] [Server thread/INFO]: Time elapsed: 18488 ms
+[20:57:03] [Server thread/INFO]: Done (20.563s)! For help, type "help"
