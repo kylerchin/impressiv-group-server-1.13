@@ -45,3 +45,128 @@
 [13:40:17] [Server thread/INFO]: _wjw_ has made the advancement [Ice Bucket Challenge]
 [13:55:24] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: hoeplowings_10 (Farmer)
 [13:59:46] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[14:04:12] [Server thread/WARN]: _wjw_ moved too quickly! 9.192861440062472,1.269862583854021,-3.857521184662872
+[14:04:45] [User Authenticator #23/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
+[14:04:45] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:54128] logged in with entity id 51273 at ([survival]-172.14610562169847, 71.0, 81.02187345017553)
+[14:05:00] [Async Chat Thread - #28/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> hi[m
+[14:05:35] [Async Chat Thread - #28/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> ni hao[m
+[14:05:44] [Async Chat Thread - #28/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> wo sho zhong wen[m
+[14:05:52] [Async Chat Thread - #28/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ni hao kailain[m
+[14:07:05] [Async Chat Thread - #29/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> about to start streaming[m
+[14:07:08] [Async Chat Thread - #29/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ![m
+[14:07:27] [Server thread/INFO]: GlitchedPixels issued server command: /give @p bucket
+[14:07:27] [Server thread/INFO]: [GlitchedPixels: Gave 1 [Bucket] to GlitchedPixels]
+[14:07:47] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: hoeplowings_10 (Farmer)
+[14:14:31] [Server thread/INFO]: GlitchedPixels issued server command: /gamerule mobGriefing false
+[14:14:31] [Server thread/INFO]: [GlitchedPixels: Gamerule mobGriefing is now set to: false]
+[14:15:15] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: waterbuckets_15 (Fireman)
+[14:20:11] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> the conduit is gone[m
+[14:20:19] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ![m
+[14:20:24] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i took it[m
+[14:20:27] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> oh[m
+[14:20:47] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> do you want it back[m
+[14:20:51] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> naa[m
+[14:20:53] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ok[m
+[14:20:54] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> i'm good[m
+[14:25:13] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> does kelp grow[m
+[14:25:16] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> yes[m
+[14:25:19] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> oooh[m
+[14:25:22] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> you can haarvest it with shears[m
+[14:26:01] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> you are streeaming>[m
+[14:26:02] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ?[m
+[14:26:03] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> yes[m
+[14:26:17] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> glitchedpixewls/[m
+[14:26:18] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> can you watch too?[m
+[14:26:26] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> wathuing[m
+[14:29:48] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[14:31:32] [Async Chat Thread - #32/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> u watching?[m
+[14:31:35] [Async Chat Thread - #32/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ya[m
+[14:31:38] [Async Chat Thread - #32/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> good[m
+[14:38:27] [Async Chat Thread - #33/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> is the sound loud enough?[m
+[14:38:31] [Async Chat Thread - #33/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i mute[m
+[14:41:22] [Server thread/INFO]: _wjw_ was slain by Zombie
+[14:41:24] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[14:41:24] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:316) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 17 more
+[14:47:35] [Server thread/INFO]: GlitchedPixels was slain by Zombie
+[14:47:39] [Server thread/WARN]: GlitchedPixels was kicked for floating too long!
+[14:47:39] [Server thread/INFO]: GlitchedPixels lost connection: Flying is not enabled on this server
+[14:47:39] [Server thread/INFO]: GlitchedPixels left the game
+[14:47:39] [Server thread/WARN]: handleDisconnection() called twice
+[14:47:54] [User Authenticator #24/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
+[14:47:54] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:36856] logged in with entity id 76065 at ([survival]-79.01398435602847, 21.0, 118.91127483114538)
+[14:48:13] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[14:48:13] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:316) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 17 more
+[14:48:24] [Server thread/INFO]: GlitchedPixels issued server command: /tp -77 21 120
+[14:48:24] [Server thread/INFO]: [GlitchedPixels: Teleported GlitchedPixels to -76.5, 21.0, 120.5]
+[14:52:56] [Async Chat Thread - #34/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> what are you doing?[m
+[14:53:00] [Async Chat Thread - #34/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> MINING[m
+[14:53:02] [Async Chat Thread - #34/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> mining[m
+[14:53:04] [Async Chat Thread - #34/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> kool[m
+[14:53:07] [Async Chat Thread - #34/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> got diamonds yet?[m
+[14:53:12] [Async Chat Thread - #34/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> no[m
+[14:53:15] [Async Chat Thread - #34/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> me either[m
+[14:54:13] [Server thread/INFO]: GlitchedPixels has made the advancement [Suit Up]
+[14:55:36] [Server thread/INFO]: GlitchedPixels issued server command: /difficulty easy
+[14:55:36] [Server thread/INFO]: [GlitchedPixels: The difficulty has been set to Easy]
+[14:55:56] [Server thread/INFO]: GlitchedPixels issued server command: /difficulty norma;
+[14:55:58] [Server thread/INFO]: GlitchedPixels issued server command: /difficulty normal
+[14:55:58] [Server thread/INFO]: [GlitchedPixels: The difficulty has been set to Normal]
+[14:56:18] [Async Chat Thread - #35/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> where are you?[m
+[14:56:25] [Async Chat Thread - #35/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> minging[m
+[14:56:27] [Async Chat Thread - #35/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> NO TP[m
+[14:56:30] [Async Chat Thread - #35/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> OR ELSE[m
+[14:59:50] [Server thread/INFO]: Unknown command. Type "/help" for help.[m

@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-07-26 14:14:25 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-07-23 18:03:40 -0700"
@@ -251,9 +257,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2018-07-26 14:12:53 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2018-07-23 18:06:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2018-07-26 14:46:38 -0700"
     },
     "done": true
   },
@@ -266,9 +284,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2018-07-25 19:40:11 -0700",
+      "beetroot_soup": "2018-07-26 14:16:09 -0700",
       "poisonous_potato": "2018-07-25 19:32:50 -0700",
       "bread": "2018-07-25 16:27:44 -0700",
       "rotten_flesh": "2018-07-25 21:30:14 -0700",
+      "cookie": "2018-07-26 14:56:06 -0700",
       "carrot": "2018-07-25 16:24:04 -0700"
     },
     "done": false
@@ -465,6 +485,15 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2018-07-26 14:54:13 -0700",
+      "iron_chestplate": "2018-07-26 14:54:13 -0700",
+      "iron_leggings": "2018-07-26 14:54:13 -0700",
+      "iron_helmet": "2018-07-26 14:54:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2018-07-23 18:06:43 -0700"
@@ -504,6 +533,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2018-07-25 16:22:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2018-07-26 14:07:33 -0700"
     },
     "done": true
   },
@@ -651,6 +686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2018-07-26 14:12:53 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-25 21:01:27 -0700"
@@ -696,6 +737,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-07-25 16:41:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2018-07-26 14:46:38 -0700"
     },
     "done": true
   },
@@ -789,6 +836,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-07-25 16:49:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2018-07-26 14:28:59 -0700"
     },
     "done": true
   },
@@ -894,6 +947,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2018-07-26 14:28:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_lapis": "2018-07-26 14:28:01 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2018-07-23 18:06:39 -0700"
@@ -906,9 +971,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_lapis": "2018-07-26 14:28:01 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2018-07-25 16:41:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2018-07-26 14:28:01 -0700"
     },
     "done": true
   },
@@ -984,6 +1061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2018-07-26 14:46:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2018-07-23 18:06:39 -0700"
@@ -1053,6 +1136,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2018-07-25 20:25:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2018-07-26 14:31:25 -0700"
     },
     "done": true
   },
@@ -1242,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2018-07-26 14:46:38 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
       "has_light_blue_wool": "2018-07-23 18:06:38 -0700"
@@ -1275,6 +1370,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-25 16:49:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2018-07-26 14:28:01 -0700"
     },
     "done": true
   },
@@ -1338,6 +1439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2018-07-26 14:28:59 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-25 21:01:27 -0700"
@@ -1377,6 +1484,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2018-07-25 16:41:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2018-07-26 14:31:25 -0700"
     },
     "done": true
   },
