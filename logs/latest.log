@@ -461,3 +461,182 @@ Caused by: java.lang.NullPointerException
 [18:57:58] [Async Chat Thread - #3/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> bnwdgirwngrw[m
 [18:57:59] [Async Chat Thread - #3/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> dibnwrivowv[m
 [18:58:59] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:01:45] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[19:01:45] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[19:01:57] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[19:02:04] [Server thread/INFO]: GlitchedPixels issued server command: /summon iro
+[19:02:06] [Server thread/INFO]: GlitchedPixels issued server command: /summon minecraft:iron_golem
+[19:02:06] [Server thread/INFO]: [GlitchedPixels: Summoned new Iron Golem]
+[19:03:05] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> put a slab there[m
+[19:03:07] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> good[m
+[19:04:07] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[19:04:07] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[19:04:14] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[19:04:14] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[19:04:24] [Server thread/INFO]: GlitchedPixels issued server command: /kill @e[type=iron
+[19:04:28] [Server thread/INFO]: GlitchedPixels issued server command: /kill @e[type=iron_golem]
+[19:04:28] [Server thread/INFO]: [GlitchedPixels: Killed Iron Golem]
+[19:04:36] [Server thread/INFO]: GlitchedPixels issued server command: /summon iron_golem
+[19:04:36] [Server thread/INFO]: [GlitchedPixels: Summoned new Iron Golem]
+[19:04:42] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[19:04:42] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[19:09:39] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> this is my friend austin[m
+[19:10:15] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> austin[m
+[19:10:17] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> hi[m
+[19:10:26] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> can you type[m
+[19:11:24] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> stop trolling[m
+[19:11:33] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> haker[m
+[19:11:53] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> yo its tom and I like to rap[m
+[19:12:04] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i swear this is not a trap[m
+[19:12:15] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> come over here and sit on my lap[m
+[19:12:26] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> dont take my hat[m
+[19:13:09] [Server thread/INFO]: _wjw_ issued server command: /fill -123 64 22 -125 66 22 minecraft:diamond_block
+[19:13:09] [Server thread/INFO]: [_wjw_: Successfully filled 6 blocks]
+[19:13:21] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> can you watch the stream too? I need more viewers[m
+[19:13:37] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> open a tab in cchrome[m
+[19:13:51] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> kkk[m
+[19:13:56] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> got got got[m
+[19:13:58] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> it it it[m
+[19:14:04] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> thank you kind dgoe[m
+[19:14:09] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> austin has lag internet?[m
+[19:14:11] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> yeah yeah yeah im im im a a a rapper rapper papper[m
+[19:14:25] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> nice doge rap[m
+[19:15:05] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> eat now yuo its yo boy tom[m
+[19:15:07] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> OUT[m
+[19:15:09] [Server thread/INFO]: _wjw_ lost connection: Disconnected
+[19:15:09] [Server thread/INFO]: _wjw_ left the game
+[19:15:12] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> :([m
+[19:16:38] [Server thread/INFO]: GlitchedPixels has made the advancement [Getting an Upgrade]
+[19:23:04] [Server thread/INFO]: GlitchedPixels issued server command: /time
+[19:23:06] [Server thread/INFO]: GlitchedPixels issued server command: /time
+[19:23:35] [Server thread/INFO]: GlitchedPixels issued server command: /help
+[19:23:43] [Server thread/INFO]: GlitchedPixels issued server command: /dynmap
+[19:23:43] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'dynmap' in plugin dynmap v2.6-beta-1-Dev201807082003
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.dispatchCommand(CraftServer.java:692) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.handleCommand(PlayerConnection.java:1634) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1469) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at org.dynmap.bukkit.DynmapPlugin$BukkitPlayer.<init>(DynmapPlugin.java:573) ~[?:?]
+	at org.dynmap.bukkit.DynmapPlugin.onCommand(DynmapPlugin.java:947) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 15 more
+[19:23:48] [Server thread/INFO]: GlitchedPixels issued server command: /help dynmap
+[19:23:49] [Server thread/INFO]: GlitchedPixels issued server command: /help
+[19:23:53] [Server thread/INFO]: GlitchedPixels issued server command: /dmap
+[19:23:53] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'dmap' in plugin dynmap v2.6-beta-1-Dev201807082003
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.dispatchCommand(CraftServer.java:692) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.handleCommand(PlayerConnection.java:1634) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1469) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at org.dynmap.bukkit.DynmapPlugin$BukkitPlayer.<init>(DynmapPlugin.java:573) ~[?:?]
+	at org.dynmap.bukkit.DynmapPlugin.onCommand(DynmapPlugin.java:947) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 15 more
+[19:24:27] [Server thread/INFO]: GlitchedPixels issued server command: /dmap
+[19:24:27] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'dmap' in plugin dynmap v2.6-beta-1-Dev201807082003
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.dispatchCommand(CraftServer.java:692) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.handleCommand(PlayerConnection.java:1634) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1469) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at org.dynmap.bukkit.DynmapPlugin$BukkitPlayer.<init>(DynmapPlugin.java:573) ~[?:?]
+	at org.dynmap.bukkit.DynmapPlugin.onCommand(DynmapPlugin.java:947) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 15 more
+[19:24:30] [Server thread/INFO]: GlitchedPixels issued server command: /dynmap
+[19:24:30] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'dynmap' in plugin dynmap v2.6-beta-1-Dev201807082003
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.dispatchCommand(CraftServer.java:692) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.handleCommand(PlayerConnection.java:1634) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1469) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at org.dynmap.bukkit.DynmapPlugin$BukkitPlayer.<init>(DynmapPlugin.java:573) ~[?:?]
+	at org.dynmap.bukkit.DynmapPlugin.onCommand(DynmapPlugin.java:947) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 15 more
+[19:24:31] [Server thread/INFO]: GlitchedPixels issued server command: /dynmap
+[19:24:31] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'dynmap' in plugin dynmap v2.6-beta-1-Dev201807082003
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.dispatchCommand(CraftServer.java:692) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.handleCommand(PlayerConnection.java:1634) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1469) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at org.dynmap.bukkit.DynmapPlugin$BukkitPlayer.<init>(DynmapPlugin.java:573) ~[?:?]
+	at org.dynmap.bukkit.DynmapPlugin.onCommand(DynmapPlugin.java:947) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 15 more
+[19:24:35] [Server thread/INFO]: GlitchedPixels issued server command: /help LagMeter
+[19:24:37] [Server thread/INFO]: GlitchedPixels issued server command: /lag
+[19:24:39] [Server thread/INFO]: GlitchedPixels issued server command: /lagmeter
+[19:24:44] [Server thread/INFO]: GlitchedPixels issued server command: /lagmeter
+[19:24:47] [Server thread/INFO]: GlitchedPixels issued server command: /lagmem
+[19:24:49] [Server thread/INFO]: GlitchedPixels issued server command: /
+[19:29:01] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:59:03] [Server thread/INFO]: Unknown command. Type "/help" for help.[m

@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2018-07-25 19:16:38 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2018-07-25 16:41:44 -0700"
@@ -373,6 +379,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2018-07-25 19:40:11 -0700",
+      "poisonous_potato": "2018-07-25 19:32:50 -0700",
       "bread": "2018-07-25 16:27:44 -0700",
       "carrot": "2018-07-25 16:24:04 -0700"
     },
@@ -405,6 +413,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2018-07-25 18:33:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2018-07-25 19:29:31 -0700"
     },
     "done": true
   },
@@ -923,6 +937,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2018-07-25 19:28:31 -0700",
       "minecraft:spider": "2018-07-25 16:59:23 -0700"
     },
     "done": false
@@ -1002,6 +1017,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2018-07-25 16:41:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2018-07-25 19:16:38 -0700"
     },
     "done": true
   },
