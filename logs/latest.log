@@ -640,3 +640,329 @@ Caused by: java.lang.NullPointerException
 [19:24:49] [Server thread/INFO]: GlitchedPixels issued server command: /
 [19:29:01] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 [19:59:03] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[20:07:53] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode spectator
+[20:07:53] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Spectator Mode]
+[20:10:36] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[20:10:36] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[20:20:04] [User Authenticator #11/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
+[20:20:04] [Server thread/INFO]: _wjw_[/98.164.255.203:57898] logged in with entity id 23238 at ([survival]-123.31920882683933, 65.0, 28.232164014134344)
+[20:20:12] [Async Chat Thread - #6/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> hi austin![m
+[20:20:17] [Async Chat Thread - #6/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> yo yo yo its me tom[m
+[20:20:27] [Async Chat Thread - #6/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> tom from austrin texas[m
+[20:20:31] [Async Chat Thread - #6/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> and i like to rap[m
+[20:20:32] [Async Chat Thread - #6/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> oh yes[m
+[20:20:40] [Async Chat Thread - #6/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> rap my dogwe[m
+[20:21:40] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> are you watching the stream?[m
+[20:21:43] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> yea[m
+[20:21:49] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> wjere did you get shulker?[m
+[20:21:54] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ?[m
+[20:21:55] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> you went to end already?[m
+[20:21:58] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ya[m
+[20:22:02] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> wow[m
+[20:22:04] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i beat enderdragonm[m
+[20:22:09] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ez[m
+[20:22:16] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> nice[m
+[20:22:17] [Server thread/INFO]: _wjw_ fell from a high place
+[20:22:18] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[20:22:18] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:322) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 17 more
+[20:22:29] [Server thread/INFO]: _wjw_ fell from a high place
+[20:22:31] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> do you have iron?[m
+[20:22:31] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[20:22:31] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:322) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 17 more
+[20:22:40] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> yea[m
+[20:22:43] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
+[20:22:43] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
+[20:22:47] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> nice[m
+[20:22:50] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: itemdrops_15 (Polluter)
+[20:22:51] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> where is youa bassse[m
+[20:23:00] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
+[20:23:06] [Server thread/INFO]: _wjw_ issued server command: /gamemode survival
+[20:23:06] [Server thread/INFO]: [_wjw_: Set own game mode to Survival Mode]
+[20:23:30] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
+[20:23:30] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
+[20:23:35] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> can I haz iron?[m
+[20:23:40] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> k[m
+[20:23:44] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> how ,ucj[m
+[20:23:45] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> much[m
+[20:23:55] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> how much u got[m
+[20:23:57] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i only have preiron[m
+[20:24:06] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> i'll take it[m
+[20:24:13] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> thanks son[m
+[20:24:25] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i am not your sone,,, fool[m
+[20:25:09] [Server thread/INFO]: GlitchedPixels has made the advancement [Acquire Hardware]
+[20:25:11] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> go to 13[m
+[20:25:24] [Server thread/INFO]: GlitchedPixels has made the advancement [Isn't It Iron Pick]
+[20:25:36] [Server thread/INFO]: _wjw_ fell from a high place
+[20:25:38] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[20:25:38] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:322) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 17 more
+[20:25:50] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
+[20:25:50] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
+[20:25:59] [Server thread/INFO]: _wjw_ issued server command: /gamemode survival
+[20:25:59] [Server thread/INFO]: [_wjw_: Set own game mode to Survival Mode]
+[20:26:08] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
+[20:26:08] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
+[20:26:13] [Async Chat Thread - #8/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> xiao yang yang[m
+[20:26:27] [Async Chat Thread - #8/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> NO MY SECRET BASE[m
+[20:26:30] [Async Chat Thread - #8/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> OUTTA HERE[m
+[20:26:43] [Async Chat Thread - #8/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> let me in tom[m
+[20:28:42] [Async Chat Thread - #9/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> stop[m
+[20:28:56] [Server thread/INFO]: GlitchedPixels issued server command: /kick _wjw
+[20:28:58] [Server thread/INFO]: GlitchedPixels issued server command: /kick _wjw_
+[20:28:58] [Server thread/INFO]: _wjw_ lost connection: Kicked by an operator
+[20:28:58] [Server thread/INFO]: _wjw_ left the game
+[20:28:58] [Server thread/INFO]: [GlitchedPixels: Kicked _wjw_: Kicked by an operator]
+[20:28:58] [Server thread/WARN]: handleDisconnection() called twice
+[20:29:03] [User Authenticator #12/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
+[20:29:03] [Server thread/INFO]: _wjw_[/98.164.255.203:57924] logged in with entity id 24376 at ([survival]-156.04175875757994, 48.0, 82.56288708984088)
+[20:29:04] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[20:31:26] [Async Chat Thread - #10/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> subscriber no more[m
+[20:31:35] [Async Chat Thread - #10/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> why[m
+[20:31:40] [Async Chat Thread - #10/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> nobody watching[m
+[20:31:49] [Async Chat Thread - #10/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> where is mineshaft?[m
+[20:31:53] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
+[20:31:53] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
+[20:31:54] [Async Chat Thread - #10/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> idk[m
+[20:32:01] [Server thread/INFO]: _wjw_ issued server command: /gamemode survival
+[20:32:01] [Server thread/INFO]: [_wjw_: Set own game mode to Survival Mode]
+[20:33:11] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> ined diam[m
+[20:33:12] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> onds[m
+[20:33:14] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ok[m
+[20:33:51] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
+[20:33:51] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
+[20:33:54] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> stop it[m
+[20:34:00] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival _wjw_
+[20:34:00] [Server thread/INFO]: [GlitchedPixels: Set _wjw_'s game mode to Survival Mode]
+[20:34:02] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> bedrock[m
+[20:34:02] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> CHEATER[m
+[20:34:09] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> no bedrock[m
+[20:34:15] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> whyas>?\[m
+[20:34:18] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: maxlevel_10 (&4Rookie)
+[20:34:19] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> there is bedrock[m
+[20:34:24] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> in not zone[m
+[20:34:28] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> someone jave[m
+[20:34:41] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> i dont care[m
+[20:35:13] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> should i malke full dimond[m
+[20:35:17] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> no[m
+[20:35:24] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> why not[m
+[20:35:48] [Server thread/INFO]: _wjw_ issued server command: /difficulty peaceful
+[20:35:48] [Server thread/INFO]: [_wjw_: The difficulty has been set to Peaceful]
+[20:35:53] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i help[m
+[20:36:05] [Server thread/INFO]: _wjw_ issued server command: /difficulty easy
+[20:36:05] [Server thread/INFO]: [_wjw_: The difficulty has been set to Easy]
+[20:36:26] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
+[20:36:26] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
+[20:36:30] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> stop cheating[m
+[20:36:32] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> no[m
+[20:36:34] [Server thread/INFO]: GlitchedPixels issued server command: /difficulty hard
+[20:36:34] [Server thread/INFO]: [GlitchedPixels: The difficulty has been set to Hard]
+[20:36:38] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> someone havk m,y compiuter[m
+[20:36:39] [Server thread/INFO]: GlitchedPixels issued server command: /deop _wjw_
+[20:36:39] [Server thread/INFO]: [GlitchedPixels: Made _wjw_ no longer a server operator]
+[20:36:49] [Server thread/INFO]: GlitchedPixels issued server command: /gamerule survival _wjw_
+[20:36:59] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival _wjw_
+[20:37:19] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> stop it[m
+[20:39:03] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> help[m
+[20:39:07] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> go to door[m
+[20:39:08] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> help[m
+[20:39:10] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> hjelp[m
+[20:39:11] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> help[m
+[20:39:12] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> help[m
+[20:39:14] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> door[m
+[20:41:12] [Server thread/INFO]: GlitchedPixels fell from a high place
+[20:41:57] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[20:41:57] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:322) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 17 more
+[20:42:04] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[20:42:04] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[20:42:36] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[20:42:36] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[20:42:41] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[20:42:41] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[20:48:56] [Server thread/INFO]: _wjw_ issued server command: /give
+[20:49:04] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
+[20:49:11] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:13] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:14] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:15] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:16] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:16] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:17] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:18] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:18] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:19] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:19] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:20] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:20] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:22] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:23] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rankt[m
+[20:49:25] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:26] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:27] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rankt[m
+[20:49:29] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:29] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:30] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:31] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:31] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:32] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:32] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:33] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:33] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:34] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:35] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:36] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:36] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:37] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:37] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:38] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:38] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:39] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:39] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:40] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> where is my mod rank[m
+[20:49:40] [Server thread/INFO]: _wjw_ lost connection: Kicked for spamming
+[20:49:40] [Server thread/INFO]: _wjw_ left the game
+[20:49:40] [Server thread/WARN]: handleDisconnection() called twice
+[20:49:45] [User Authenticator #13/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
+[20:49:45] [Server thread/INFO]: _wjw_[/98.164.255.203:58039] logged in with entity id 29053 at ([survival]-130.5879880500891, 63.0, -141.41534283170066)
+[20:53:17] [Async Chat Thread - #14/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> hi[m
+[20:53:20] [Async Chat Thread - #14/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> hi[m
+[20:53:21] [Async Chat Thread - #14/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> voice chat[m
+[20:56:26] [User Authenticator #14/INFO]: UUID of player popo50go is 8628c157-4fc1-3e37-b0bd-aba2f977f71d
+[20:56:27] [Server thread/INFO]: popo50go[/174.67.241.139:1230] logged in with entity id 29911 at ([world]-3.5, 54.0, 9.5)
+[20:56:31] [Server thread/INFO]: [AdvancedAchievements] Player popo50go received the achievement: connect_1 (Good Choice)
+[20:56:51] [Async Chat Thread - #15/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> minorities? i think not[m
+[20:57:32] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:33] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:34] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:34] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:35] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:35] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:36] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:36] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:37] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:37] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:37] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:38] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:38] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:39] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:39] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:39] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:40] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:40] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:40] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[20:57:40] [Server thread/INFO]: _wjw_ lost connection: Kicked for spamming
+[20:57:40] [Server thread/INFO]: _wjw_ left the game
+[20:57:40] [Server thread/WARN]: handleDisconnection() called twice
+[20:57:45] [User Authenticator #15/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
+[20:57:46] [Server thread/INFO]: _wjw_[/98.164.255.203:58064] logged in with entity id 30216 at ([survival]-129.69999998807907, 60.0, -144.5055096824018)
+[20:57:56] [Async Chat Thread - #15/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> minorities should die[m
+[20:58:53] [Async Chat Thread - #15/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> kyler ur server is banned for me[m
+[20:58:56] [Server thread/INFO]: popo50go issued server command: /i cant join
+[20:59:01] [Async Chat Thread - #15/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> let me in[m
+[20:59:07] [Server thread/INFO]: Unknown command. Type "/help" for help.[m

@@ -373,6 +373,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2018-07-25 20:21:30 -0700",
       "chicken": "2018-07-25 16:21:47 -0700",
       "mutton": "2018-07-25 16:21:38 -0700",
       "bread": "2018-07-25 16:27:59 -0700",
@@ -740,6 +741,7 @@
       "minecraft:dark_forest": "2018-07-23 18:02:51 -0700",
       "minecraft:river": "2018-07-23 18:02:52 -0700",
       "minecraft:lukewarm_ocean": "2018-07-25 16:55:38 -0700",
+      "minecraft:wooded_mountains": "2018-07-25 20:42:52 -0700",
       "minecraft:stone_shore": "2018-07-23 18:10:51 -0700",
       "minecraft:swamp": "2018-07-25 16:48:15 -0700",
       "minecraft:plains": "2018-07-23 18:10:29 -0700"
