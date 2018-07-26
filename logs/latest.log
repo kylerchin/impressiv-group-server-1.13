@@ -1272,3 +1272,12 @@ Caused by: java.lang.NullPointerException
 [21:59:06] [User Authenticator #19/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
 [21:59:06] [Server thread/INFO]: _wjw_[/98.164.255.203:58395] logged in with entity id 41912 at ([survival]-154.30000001192093, 47.0, 80.05688794926868)
 [21:59:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[22:00:30] [Async Chat Thread - #27/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> NIGGERS[m
+[22:00:33] [Server thread/INFO]: popo50go lost connection: Disconnected
+[22:00:33] [Server thread/INFO]: popo50go left the game
+[22:04:37] [Server thread/INFO]: _wjw_ lost connection: Disconnected
+[22:04:37] [Server thread/INFO]: _wjw_ left the game
+[22:04:44] [Server thread/INFO]: GlitchedPixels lost connection: Disconnected
+[22:04:44] [Server thread/INFO]: GlitchedPixels left the game
+[22:29:14] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[22:59:15] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
