@@ -31,3 +31,297 @@
 [14:58:26] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 [15:28:27] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 [15:58:28] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:14:35] [User Authenticator #3/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
+[16:14:36] [Server thread/INFO]: _wjw_[/98.164.255.203:57026] logged in with entity id 3163 at ([survival]-153.62194731924066, 64.79408640493416, 36.34363263729921)
+[16:15:18] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
+[16:15:18] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
+[16:17:01] [User Authenticator #4/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
+[16:17:01] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:59514] logged in with entity id 3472 at ([world]-3.648916676096679, 54.0, 10.21806752281386)
+[16:17:45] [Server thread/INFO]: GlitchedPixels issued server command: /help
+[16:17:47] [Server thread/INFO]: GlitchedPixels issued server command: /help 2
+[16:17:51] [Server thread/INFO]: GlitchedPixels issued server command: /help 1
+[16:18:07] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[16:18:07] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[16:18:18] [Server thread/INFO]: _wjw_ issued server command: /clear
+[16:18:18] [Server thread/INFO]: [_wjw_: Removed 15 items from player _wjw_]
+[16:18:25] [Server thread/INFO]: _wjw_ issued server command: /gamemode survival
+[16:18:25] [Server thread/INFO]: [_wjw_: Set own game mode to Survival Mode]
+[16:18:34] [Server thread/INFO]: Unknown item 'minecraft:158'
+[16:18:34] [Server thread/INFO]: ...hedPixels 158 10<--[HERE]
+[16:18:34] [Server thread/INFO]: Unknown item 'minecraft:126'
+[16:18:34] [Server thread/INFO]: ...hedPixels 126 5<--[HERE]
+[16:18:34] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: break_1_stone (Cobble!)
+[16:18:45] [Server thread/INFO]: _wjw_ issued server command: /heal
+[16:18:54] [Server thread/INFO]: _wjw_ issued server command: /hub
+[16:18:58] [Server thread/INFO]: _wjw_ issued server command: /spawn
+[16:20:13] [Server thread/INFO]: GlitchedPixels issued server command: /mvpc
+[16:20:16] [Server thread/INFO]: GlitchedPixels issued server command: //wand
+[16:20:37] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
+[16:20:37] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
+[16:20:58] [Server thread/INFO]: GlitchedPixels issued server command: /mv tp
+[16:21:06] [Server thread/INFO]: GlitchedPixels issued server command: /mv tp GlitchedPixels survival
+[16:21:06] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "world"! Inventories for this world will not be saved.[m
+[16:21:13] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: anvilsused_1 (First Repair)
+[16:21:24] [Server thread/INFO]: GlitchedPixels has made the advancement [A Seedy Place]
+[16:21:31] [Server thread/INFO]: _wjw_ issued server command: /gamemode survival
+[16:21:31] [Server thread/INFO]: [_wjw_: Set own game mode to Survival Mode]
+[16:21:38] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: eatenitems_1 (First Snack)
+[16:22:38] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: itempickups_40 (Environmentalist)
+[16:22:56] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: itempickups_40 (Environmentalist)
+[16:24:04] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: eatenitems_1 (First Snack)
+[16:24:20] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: deaths_1 (Rest in Peace)
+[16:24:20] [Server thread/INFO]: GlitchedPixels was slain by Zombie
+[16:24:22] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[16:24:22] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:322) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 17 more
+[16:24:35] [Server thread/WARN]: [AdvancedAchievements] You have specified a money reward but Vault was not linked successfully.
+[16:24:35] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: kills_1_zombie (The Walking Dead)
+[16:24:35] [Server thread/INFO]: _wjw_ has made the advancement [Diamonds!]
+[16:25:10] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: distancefoot_1000 (Big Walker)
+[16:26:18] [Server thread/INFO]: GlitchedPixels was slain by Zombie
+[16:26:19] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[16:26:19] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:322) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 17 more
+[16:26:31] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[16:26:31] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[16:27:05] [Server thread/INFO]: GlitchedPixels issued server command: /tp
+[16:27:15] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[16:27:15] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[16:27:18] [Server thread/INFO]: GlitchedPixels issued server command: /tp _wjw_
+[16:27:18] [Server thread/INFO]: [GlitchedPixels: Teleported GlitchedPixels to _wjw_]
+[16:28:30] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:28:47] [Server thread/INFO]: GlitchedPixels issued server command: /give @p tride
+[16:28:50] [Server thread/INFO]: GlitchedPixels issued server command: /give @p tride
+[16:28:55] [Server thread/INFO]: GlitchedPixels issued server command: /give @p trident
+[16:28:55] [Server thread/INFO]: [GlitchedPixels: Gave 1 [Trident] to GlitchedPixels]
+[16:29:27] [Server thread/INFO]: GlitchedPixels issued server command: /time set day
+[16:29:27] [Server thread/INFO]: [GlitchedPixels: Set the time to 1000]
+[16:29:56] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: distancefoot_1000 (Big Walker)
+[16:39:08] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
+[16:39:08] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
+[16:41:08] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[16:41:08] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[16:41:29] [Server thread/INFO]: GlitchedPixels has made the advancement [A Throwaway Joke]
+[16:41:43] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: deaths_1 (Rest in Peace)
+[16:41:43] [Server thread/INFO]: _wjw_ was impaled by GlitchedPixels
+[16:41:44] [Server thread/INFO]: GlitchedPixels has made the advancement [Stone Age]
+[16:41:44] [Server thread/INFO]: GlitchedPixels has made the advancement [Diamonds!]
+[16:41:47] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[16:41:47] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:322) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 17 more
+[16:42:14] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: itemdrops_15 (Polluter)
+[16:42:53] [Server thread/INFO]: _wjw_ issued server command: /gamerule keepInventory
+[16:42:57] [Server thread/INFO]: _wjw_ issued server command: /gamerule keepInventory true
+[16:42:57] [Server thread/INFO]: [_wjw_: Gamerule keepInventory is now set to: true]
+[16:43:20] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[16:43:20] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[16:44:01] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
+[16:44:01] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
+[16:44:30] [Server thread/INFO]: GlitchedPixels issued server command: /mv GlitchedPixels world
+[16:44:36] [Server thread/INFO]: GlitchedPixels issued server command: /mv tp GlitchedPixels world
+[16:44:36] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[16:44:43] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[16:44:43] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[16:46:26] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels _wjw_
+[16:46:26] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "world"! Inventories for this world will not be saved.[m
+[16:46:26] [Server thread/INFO]: [_wjw_: Teleported GlitchedPixels to _wjw_]
+[16:46:57] [Server thread/INFO]: GlitchedPixels issued server command: /mv tp GlitchedPixels world
+[16:46:57] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[16:47:07] [Server thread/INFO]: GlitchedPixels issued server command: /give @p minecraft:conduitgma
+[16:47:09] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[16:47:09] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[16:47:36] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
+[16:47:36] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
+[16:47:41] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
+[16:47:41] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
+[16:48:03] [Server thread/INFO]: _wjw_ issued server command: /gamemode spectator
+[16:48:03] [Server thread/INFO]: [_wjw_: Set own game mode to Spectator Mode]
+[16:48:08] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
+[16:48:08] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
+[16:48:39] [Server thread/INFO]: _wjw_ issued server command: /locate Swamp_Hut
+[16:48:50] [Server thread/INFO]: _wjw_ issued server command: /tp -1984 100 1248
+[16:48:50] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to -1983.5, 100.0, 1248.5]
+[16:49:11] [Server thread/INFO]: _wjw_ issued server command: /locate Buried_Treasure
+[16:49:20] [Server thread/INFO]: _wjw_ issued server command: /tp -2551 100 1529
+[16:49:20] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to -2550.5, 100.0, 1529.5]
+[16:49:20] [Server thread/INFO]: _wjw_ lost connection: Disconnected
+[16:49:20] [Server thread/INFO]: _wjw_ left the game
+[16:49:42] [User Authenticator #5/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
+[16:49:42] [Server thread/INFO]: _wjw_[/98.164.255.203:57138] logged in with entity id 9788 at ([survival]-2550.5, 100.0, 1529.5)
+[16:49:45] [Server thread/INFO]: _wjw_ fell from a high place
+[16:49:48] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[16:49:48] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:322) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 17 more
+[16:49:56] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
+[16:49:56] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
+[16:50:03] [Server thread/INFO]: _wjw_ issued server command: /gamemode spectator GlitchedPixels
+[16:50:03] [Server thread/INFO]: [_wjw_: Set GlitchedPixels's game mode to Spectator Mode]
+[16:50:06] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
+[16:50:06] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
+[16:50:11] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[16:50:11] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[16:50:13] [Server thread/INFO]: _wjw_ issued server command: /gamemode spectator
+[16:50:13] [Server thread/INFO]: [_wjw_: Set own game mode to Spectator Mode]
+[16:50:16] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
+[16:50:16] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
+[16:50:27] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
+[16:50:27] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
+[16:50:35] [Server thread/INFO]: _wjw_ issued server command: /locate Buried_Treasure
+[16:50:42] [Server thread/INFO]: _wjw_ issued server command: /locate Buried_Treasure
+[16:50:53] [Server thread/INFO]: _wjw_ issued server command: /locate Swamp_Hut
+[16:51:00] [Server thread/INFO]: _wjw_ issued server command: /tp -1984 100 1248
+[16:51:00] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to -1983.5, 100.0, 1248.5]
+[16:51:04] [Server thread/INFO]: _wjw_ issued server command: /locate Buried_Treasure
+[16:51:06] [Server thread/WARN]: GlitchedPixels moved too quickly! 9.999461390033417,1.0398910567094362,0.9879187538991809
+[16:51:14] [Server thread/INFO]: _wjw_ issued server command: /tp -2551 100 1529
+[16:51:14] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to -2550.5, 100.0, 1529.5]
+[16:51:26] [Server thread/INFO]: _wjw_ issued server command: /gamemode survival
+[16:51:26] [Server thread/INFO]: [_wjw_: Set own game mode to Survival Mode]
+[16:51:46] [Server thread/INFO]: _wjw_ issued server command: /gamemode 1
+[16:51:50] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
+[16:51:50] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
+[16:52:04] [Server thread/INFO]: _wjw_ issued server command: /gamemode survival
+[16:52:04] [Server thread/INFO]: [_wjw_: Set own game mode to Survival Mode]
+[16:52:36] [Server thread/INFO]: _wjw_ issued server command: /tp -2551 ~ 1529
+[16:52:36] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to -2550.5, 65.0, 1529.5]
+[16:54:08] [Server thread/INFO]: GlitchedPixels issued server command: /tp _wjw_
+[16:54:08] [Server thread/INFO]: [GlitchedPixels: Teleported GlitchedPixels to _wjw_]
+[16:54:14] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[16:54:14] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[16:54:22] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[16:54:25] [Server thread/INFO]: GlitchedPixels issued server command: /tp _wjw_
+[16:54:25] [Server thread/INFO]: [GlitchedPixels: Teleported GlitchedPixels to _wjw_]
+[16:54:27] [Server thread/INFO]: GlitchedPixels issued server command: /tp _wjw_
+[16:54:27] [Server thread/INFO]: [GlitchedPixels: Teleported GlitchedPixels to _wjw_]
+[16:54:30] [Server thread/INFO]: GlitchedPixels issued server command: /tp _wjw_
+[16:54:30] [Server thread/INFO]: [GlitchedPixels: Teleported GlitchedPixels to _wjw_]
+[16:54:34] [Server thread/WARN]: GlitchedPixels moved too quickly! -0.9739257233845819,9.875001212213263,-3.759684329511174
+[16:54:44] [Async Chat Thread - #0/INFO]: [[0;37;1mworld[0;37;1m]<GlitchedPixels> hi[m
+[16:54:46] [Async Chat Thread - #0/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> hi[m
+[16:54:49] [Async Chat Thread - #0/INFO]: [[0;37;1mworld[0;37;1m]<GlitchedPixels> hi[m
+[16:54:51] [Async Chat Thread - #0/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> hi[m
+[16:54:53] [Server thread/INFO]: GlitchedPixels issued server command: /mv tp _wjw_
+[16:54:58] [Server thread/INFO]: GlitchedPixels issued server command: /mv tp survival
+[16:54:58] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "world"! Inventories for this world will not be saved.[m
+[16:55:04] [Server thread/INFO]: GlitchedPixels issued server command: /tp _wjw_
+[16:55:05] [Server thread/INFO]: [GlitchedPixels: Teleported GlitchedPixels to _wjw_]
+[16:56:11] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
+[16:56:11] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
+[16:56:53] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
+[16:56:53] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
+[16:58:43] [Server thread/INFO]: GlitchedPixels lost connection: Disconnected
+[16:58:43] [Server thread/INFO]: GlitchedPixels left the game
+[16:58:47] [User Authenticator #6/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
+[16:58:47] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:41786] logged in with entity id 13118 at ([survival]-2720.300000011921, 44.0, 1611.2460055036047)
+[16:58:54] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:59:10] [Server thread/INFO]: GlitchedPixels issued server command: /give @p minecraft:trident
+[16:59:10] [Server thread/INFO]: [GlitchedPixels: Gave 1 [Trident] to GlitchedPixels]
+[16:59:19] [Server thread/INFO]: GlitchedPixels issued server command: /give @p minecraft:trident
+[16:59:19] [Server thread/INFO]: [GlitchedPixels: Gave 1 [Trident] to GlitchedPixels]
+[16:59:23] [Server thread/INFO]: GlitchedPixels has made the advancement [Monster Hunter]
+[16:59:32] [Server thread/INFO]: GlitchedPixels lost connection: Disconnected
+[16:59:32] [Server thread/INFO]: GlitchedPixels left the game
