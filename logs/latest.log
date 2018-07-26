@@ -325,3 +325,49 @@ Caused by: java.lang.NullPointerException
 [16:59:23] [Server thread/INFO]: GlitchedPixels has made the advancement [Monster Hunter]
 [16:59:32] [Server thread/INFO]: GlitchedPixels lost connection: Disconnected
 [16:59:32] [Server thread/INFO]: GlitchedPixels left the game
+[17:00:41] [Server thread/INFO]: _wjw_ lost connection: Disconnected
+[17:00:41] [Server thread/INFO]: _wjw_ left the game
+[17:00:50] [User Authenticator #7/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
+[17:00:50] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:42302] logged in with entity id 13438 at ([survival]-2722.186562107763, 49.0, 1607.9772034842588)
+[17:01:55] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[17:01:55] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[17:02:04] [Server thread/INFO]: GlitchedPixels lost connection: Disconnected
+[17:02:04] [Server thread/INFO]: GlitchedPixels left the game
+[17:02:12] [User Authenticator #8/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
+[17:02:13] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:42644] logged in with entity id 13841 at ([survival]-2729.535023870157, 92.03218106646749, 1632.3161324361413)
+[17:02:14] [Server thread/INFO]: GlitchedPixels fell from a high place
+[17:02:19] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[17:02:19] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:322) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 17 more
+[17:02:25] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[17:02:25] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[17:02:33] [Server thread/INFO]: GlitchedPixels lost connection: Disconnected
+[17:02:33] [Server thread/INFO]: GlitchedPixels left the game
+[17:28:55] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[17:58:56] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
