@@ -41,6 +41,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2018-07-26 15:54:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2018-07-26 15:33:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2018-07-23 18:11:36 -0700"
@@ -77,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2018-07-26 15:20:46 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2018-07-23 18:11:36 -0700"
@@ -86,6 +104,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-07-25 16:38:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2018-07-26 15:33:14 -0700"
     },
     "done": true
   },
@@ -245,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2018-07-26 15:54:18 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2018-07-25 16:38:27 -0700"
@@ -254,6 +284,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-07-24 14:57:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2018-07-26 15:55:18 -0700"
     },
     "done": true
   },
@@ -403,15 +439,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2018-07-23 18:24:18 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2018-07-23 18:24:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2018-07-23 18:24:18 -0700"
     },
     "done": true
   },
@@ -454,6 +490,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-26 14:49:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2018-07-26 15:54:18 -0700"
     },
     "done": true
   },
@@ -520,6 +562,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2018-07-25 16:24:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2018-07-26 15:54:18 -0700"
     },
     "done": true
   },
@@ -715,6 +763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2018-07-26 15:55:18 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-25 21:19:33 -0700"
@@ -757,15 +811,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2018-07-25 16:24:35 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-07-25 16:24:35 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_diamond": "2018-07-25 16:24:35 -0700"
+      "has_glowstone_dust": "2018-07-26 15:53:38 -0700"
     },
     "done": true
   },
@@ -779,13 +839,20 @@
     "criteria": {
       "minecraft:phantom": "2018-07-23 18:41:50 -0700",
       "minecraft:spider": "2018-07-24 14:50:57 -0700",
-      "minecraft:zombie": "2018-07-23 18:41:48 -0700"
+      "minecraft:zombie": "2018-07-23 18:41:48 -0700",
+      "minecraft:drowned": "2018-07-26 15:14:59 -0700"
     },
     "done": false
   },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2018-07-25 16:24:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2018-07-26 15:20:46 -0700"
     },
     "done": true
   },
@@ -957,15 +1024,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/cyan_dye": {
-    "criteria": {
-      "has_lapis": "2018-07-26 14:40:58 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2018-07-26 14:34:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2018-07-26 14:40:58 -0700"
     },
     "done": true
   },
@@ -1059,6 +1126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2018-07-26 15:54:18 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2018-07-23 18:40:09 -0700"
@@ -1071,15 +1144,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_stained_glass": {
-    "criteria": {
-      "has_glass": "2018-07-26 14:49:05 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2018-07-26 14:32:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2018-07-26 14:49:05 -0700"
     },
     "done": true
   },
@@ -1155,6 +1228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2018-07-26 15:33:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2018-07-23 18:24:18 -0700"
@@ -1170,6 +1249,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2018-07-25 16:30:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2018-07-26 15:53:38 -0700"
     },
     "done": true
   },
@@ -1335,6 +1420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2018-07-26 15:54:18 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2018-07-24 14:57:28 -0700"
@@ -1370,6 +1461,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-25 21:19:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2018-07-26 15:33:14 -0700"
     },
     "done": true
   },
@@ -1460,6 +1557,18 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2018-07-25 21:26:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2018-07-26 15:33:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2018-07-26 15:54:18 -0700"
     },
     "done": true
   },

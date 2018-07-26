@@ -3,3 +3,6 @@ worlds:
     portalgoesto:
       END: survival-end
       NETHER: survival-nether
+  survival-nether:
+    portalgoesto:
+      NETHER: survival

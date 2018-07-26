@@ -1,172 +1,670 @@
-[00:29:17] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[00:59:18] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[01:29:19] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[01:59:20] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[02:29:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[02:59:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[03:29:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[03:59:24] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[04:29:25] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[04:59:26] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[05:29:27] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[05:59:27] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[06:29:28] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[06:59:29] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[07:29:30] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[07:59:31] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[08:29:32] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[08:59:33] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[09:29:34] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[09:59:35] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[10:29:36] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[10:59:38] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[11:29:39] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[11:32:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[11:59:40] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[12:18:50] [User Authenticator #20/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
-[12:18:51] [Server thread/INFO]: _wjw_[/98.164.255.203:60683] logged in with entity id 43032 at ([survival]-123.30000001192091, 65.10850003931523, 24.96159512983523)
-[12:18:57] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
-[12:23:34] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: break_32_sand_any (Sand Dude)
-[12:27:19] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: itembreaks_1 (&4Clumsy Guy)
-[12:29:41] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[12:33:37] [Server thread/INFO]: _wjw_ lost connection: Disconnected
-[12:33:37] [Server thread/INFO]: _wjw_ left the game
-[12:55:33] [User Authenticator #21/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
-[12:55:34] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:35062] logged in with entity id 44639 at ([survival]-154.0673160409662, 64.0, 63.642583396904)
-[12:59:43] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[13:13:52] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
-[13:13:52] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
-[13:17:07] [Server thread/INFO]: GlitchedPixels lost connection: Disconnected
-[13:17:08] [Server thread/INFO]: GlitchedPixels left the game
-[13:29:44] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[13:36:49] [User Authenticator #22/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
-[13:36:50] [Server thread/INFO]: _wjw_[/98.164.255.203:60926] logged in with entity id 47976 at ([survival]-167.29445444241142, 60.0, 50.49137093977437)
-[13:39:51] [Server thread/INFO]: _wjw_ has made the advancement [Hot Stuff]
-[13:40:17] [Server thread/INFO]: _wjw_ has made the advancement [Ice Bucket Challenge]
-[13:55:24] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: hoeplowings_10 (Farmer)
-[13:59:46] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[14:04:12] [Server thread/WARN]: _wjw_ moved too quickly! 9.192861440062472,1.269862583854021,-3.857521184662872
-[14:04:45] [User Authenticator #23/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
-[14:04:45] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:54128] logged in with entity id 51273 at ([survival]-172.14610562169847, 71.0, 81.02187345017553)
-[14:05:00] [Async Chat Thread - #28/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> hi[m
-[14:05:35] [Async Chat Thread - #28/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> ni hao[m
-[14:05:44] [Async Chat Thread - #28/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> wo sho zhong wen[m
-[14:05:52] [Async Chat Thread - #28/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ni hao kailain[m
-[14:07:05] [Async Chat Thread - #29/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> about to start streaming[m
-[14:07:08] [Async Chat Thread - #29/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ![m
-[14:07:27] [Server thread/INFO]: GlitchedPixels issued server command: /give @p bucket
-[14:07:27] [Server thread/INFO]: [GlitchedPixels: Gave 1 [Bucket] to GlitchedPixels]
-[14:07:47] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: hoeplowings_10 (Farmer)
-[14:14:31] [Server thread/INFO]: GlitchedPixels issued server command: /gamerule mobGriefing false
-[14:14:31] [Server thread/INFO]: [GlitchedPixels: Gamerule mobGriefing is now set to: false]
-[14:15:15] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: waterbuckets_15 (Fireman)
-[14:20:11] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> the conduit is gone[m
-[14:20:19] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ![m
-[14:20:24] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i took it[m
-[14:20:27] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> oh[m
-[14:20:47] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> do you want it back[m
-[14:20:51] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> naa[m
-[14:20:53] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ok[m
-[14:20:54] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> i'm good[m
-[14:25:13] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> does kelp grow[m
-[14:25:16] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> yes[m
-[14:25:19] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> oooh[m
-[14:25:22] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> you can haarvest it with shears[m
-[14:26:01] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> you are streeaming>[m
-[14:26:02] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ?[m
-[14:26:03] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> yes[m
-[14:26:17] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> glitchedpixewls/[m
-[14:26:18] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> can you watch too?[m
-[14:26:26] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> wathuing[m
-[14:29:48] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[14:31:32] [Async Chat Thread - #32/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> u watching?[m
-[14:31:35] [Async Chat Thread - #32/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ya[m
-[14:31:38] [Async Chat Thread - #32/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> good[m
-[14:38:27] [Async Chat Thread - #33/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> is the sound loud enough?[m
-[14:38:31] [Async Chat Thread - #33/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i mute[m
-[14:41:22] [Server thread/INFO]: _wjw_ was slain by Zombie
-[14:41:24] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
-[14:41:24] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+[15:50:06] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:50:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:50:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:50:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:50:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:50:06] [main/INFO]: Loaded 0 recipes
+[15:50:06] [Server thread/INFO]: Starting minecraft server version 1.13
+[15:50:06] [Server thread/INFO]: Loading properties
+[15:50:06] [Server thread/INFO]: Default game type: ADVENTURE
+[15:50:06] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-ed1cec9-1c7adf7 (MC: 1.13) (Implementing API version 1.13-R0.1-SNAPSHOT)
+[15:50:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:50:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:50:07] [Server thread/INFO]: Debug logging is disabled
+[15:50:07] [Server thread/INFO]: Generating keypair
+[15:50:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:50:07] [Server thread/INFO]: Using epoll channel type
+[15:50:11] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:50:12] [Server thread/INFO]: [LobbyAPI] Loading LobbyAPI v3.7.71
+[15:50:12] [Server thread/INFO]: [LagMeter] Loading LagMeter v1.17.0
+[15:50:12] [Server thread/INFO]: [dynmap] Loading dynmap v2.6-beta-1-Dev201807082003
+[15:50:12] [Server thread/INFO]: [dynmap] version=git-Spigot-ed1cec9-1c7adf7 (MC: 1.13)
+[15:50:12] [Server thread/ERROR]: [dynmap] Unable to find field temperature for net.minecraft.server.v1_13_R1.BiomeBase
+[15:50:12] [Server thread/ERROR]: [dynmap] Unable to find field humidity for net.minecraft.server.v1_13_R1.BiomeBase
+[15:50:12] [Server thread/ERROR]: [dynmap] Unable to find field y for net.minecraft.server.v1_13_R1.BiomeBase
+[15:50:12] [Server thread/INFO]: [dynmap] Unload queue not found - default to unload all chunks
+[15:50:12] [Server thread/INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[15:50:12] [Server thread/ERROR]: Error initializing dynmap - bukkit version incompatible! initializing dynmap v2.6-beta-1-Dev201807082003 (Is it up to date?)
+java.lang.IllegalArgumentException: Error initializing dynmap - bukkit version incompatible!
+	at org.dynmap.bukkit.BukkitVersionHelperGeneric.<init>(BukkitVersionHelperGeneric.java:157) ~[?:?]
+	at org.dynmap.bukkit.BukkitVersionHelperCB.<init>(BukkitVersionHelperCB.java:39) ~[?:?]
+	at org.dynmap.bukkit.BukkitVersionHelper.getHelper(BukkitVersionHelper.java:42) ~[?:?]
+	at org.dynmap.bukkit.DynmapPlugin.onLoad(DynmapPlugin.java:770) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.loadPlugins(CraftServer.java:318) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.init(DedicatedServer.java:213) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:686) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+[15:50:12] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[15:50:12] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.42
+[15:50:12] [Server thread/INFO]: [MultiChatBridge] Loading MultiChatBridge v1.5.1
+[15:50:12] [Server thread/INFO]: [AdvancedAchievements] Loading AdvancedAchievements v5.8.2
+[15:50:12] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-b727
+[15:50:12] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+[15:50:12] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5.0-b751
+[15:50:12] [Server thread/INFO]: [Multiverse-SignPortals] Loading Multiverse-SignPortals v2.4-b523
+[15:50:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:50:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:50:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:50:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:50:12] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:50:12] [Server thread/INFO]: Preparing level "world"
+[15:50:12] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:50:12] [Server thread/INFO]: Mob Spawn Range: 4
+[15:50:12] [Server thread/INFO]: Random Lighting Updates: false
+[15:50:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:50:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:50:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:50:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:50:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:50:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:50:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:50:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:50:12] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:50:12] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:50:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:50:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:50:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:50:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:50:12] [Server thread/INFO]: Max TNT Explosions: 100
+[15:50:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:50:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:50:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:50:12] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:50:12] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:50:12] [Server thread/INFO]: View Distance: 10
+[15:50:12] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:50:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:50:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:50:12] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[15:50:14] [Server thread/INFO]: Loaded 524 recipes
+[15:50:15] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:50:15] [Server thread/INFO]: Mob Spawn Range: 4
+[15:50:15] [Server thread/INFO]: Random Lighting Updates: false
+[15:50:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:50:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:50:15] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:50:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:50:15] [Server thread/INFO]: Max TNT Explosions: 100
+[15:50:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:50:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:50:15] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:50:15] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:50:15] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:50:15] [Server thread/INFO]: View Distance: 10
+[15:50:15] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:50:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:50:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:50:15] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:50:15] [Server thread/INFO]: Mob Spawn Range: 4
+[15:50:15] [Server thread/INFO]: Random Lighting Updates: false
+[15:50:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:50:15] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:50:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:50:15] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:50:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:50:15] [Server thread/INFO]: Max TNT Explosions: 100
+[15:50:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:50:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:50:15] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:50:15] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:50:15] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:50:15] [Server thread/INFO]: View Distance: 10
+[15:50:15] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:50:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:50:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:50:15] [Server thread/INFO]: Preparing start region for level 0 (Seed: -950072589)
+[15:50:15] [Server thread/INFO]: Preparing spawn area: 4%
+[15:50:15] [Server thread/INFO]: Preparing spawn area: 8%
+[15:50:15] [Server thread/INFO]: Preparing spawn area: 12%
+[15:50:16] [Server thread/INFO]: Preparing spawn area: 16%
+[15:50:20] [Server thread/INFO]: Preparing spawn area: 20%
+[15:50:20] [Server thread/INFO]: Preparing spawn area: 24%
+[15:50:20] [Server thread/INFO]: Preparing spawn area: 28%
+[15:50:20] [Server thread/INFO]: Preparing spawn area: 32%
+[15:50:20] [Server thread/INFO]: Preparing spawn area: 36%
+[15:50:20] [Server thread/INFO]: Preparing spawn area: 40%
+[15:50:20] [Server thread/INFO]: Preparing spawn area: 44%
+[15:50:21] [Server thread/INFO]: Preparing spawn area: 48%
+[15:50:21] [Server thread/INFO]: Preparing spawn area: 52%
+[15:50:24] [Server thread/INFO]: Preparing spawn area: 56%
+[15:50:25] [Server thread/INFO]: Preparing spawn area: 60%
+[15:50:25] [Server thread/INFO]: Preparing spawn area: 64%
+[15:50:25] [Server thread/INFO]: Preparing spawn area: 68%
+[15:50:25] [Server thread/INFO]: Preparing spawn area: 72%
+[15:50:25] [Server thread/INFO]: Preparing spawn area: 76%
+[15:50:25] [Server thread/INFO]: Preparing spawn area: 80%
+[15:50:25] [Server thread/INFO]: Preparing spawn area: 84%
+[15:50:25] [Server thread/INFO]: Preparing spawn area: 88%
+[15:50:25] [Server thread/INFO]: Preparing spawn area: 92%
+[15:50:25] [Server thread/INFO]: Preparing spawn area: 96%
+[15:50:26] [Server thread/INFO]: Preparing spawn area: 100%
+[15:50:26] [Server thread/INFO]: Preparing start region for level 1 (Seed: -950072589)
+[15:50:26] [Server thread/INFO]: Preparing spawn area: 4%
+[15:50:26] [Server thread/INFO]: Preparing spawn area: 8%
+[15:50:26] [Server thread/INFO]: Preparing spawn area: 12%
+[15:50:26] [Server thread/INFO]: Preparing spawn area: 16%
+[15:50:26] [Server thread/INFO]: Preparing spawn area: 20%
+[15:50:26] [Server thread/INFO]: Preparing spawn area: 24%
+[15:50:26] [Server thread/INFO]: Preparing spawn area: 28%
+[15:50:26] [Server thread/INFO]: Preparing spawn area: 32%
+[15:50:27] [Server thread/INFO]: Preparing spawn area: 36%
+[15:50:27] [Server thread/INFO]: Preparing spawn area: 40%
+[15:50:27] [Server thread/INFO]: Preparing spawn area: 44%
+[15:50:27] [Server thread/INFO]: Preparing spawn area: 48%
+[15:50:27] [Server thread/INFO]: Preparing spawn area: 52%
+[15:50:27] [Server thread/INFO]: Preparing spawn area: 56%
+[15:50:27] [Server thread/INFO]: Preparing spawn area: 60%
+[15:50:27] [Server thread/INFO]: Preparing spawn area: 64%
+[15:50:27] [Server thread/INFO]: Preparing spawn area: 68%
+[15:50:27] [Server thread/INFO]: Preparing spawn area: 72%
+[15:50:27] [Server thread/INFO]: Preparing spawn area: 76%
+[15:50:27] [Server thread/INFO]: Preparing spawn area: 80%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 84%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 88%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 92%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 96%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 100%
+[15:50:28] [Server thread/INFO]: Preparing start region for level 2 (Seed: -950072589)
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 4%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 8%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 12%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 16%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 20%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 24%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 28%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 32%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 36%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 40%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 44%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 48%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 52%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 56%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 60%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 64%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 68%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 72%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 76%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 80%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 84%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 88%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 92%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 96%
+[15:50:28] [Server thread/INFO]: Preparing spawn area: 100%
+[15:50:28] [Server thread/INFO]: [LobbyAPI] Enabling LobbyAPI v3.7.71
+[15:50:28] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m[0;32;1mBungee For LobbyAPI is enabled[m
+[15:50:28] [Server thread/INFO]: [LagMeter] Enabling LagMeter v1.17.0
+[15:50:28] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mNot using logs folder.[m
+[15:50:28] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mEnabled! Polling every 40 server ticks. Logging to /root/minecraft/plugins/LagMeter/lag.log.[m
+[15:50:28] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mChunks loaded:[m
+[15:50:28] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mWorld "world": 625.[m
+[15:50:28] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mWorld "world_nether": 625.[m
+[15:50:28] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mWorld "world_the_end": 625.[m
+[15:50:28] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mTotal chunks loaded: 1875[m
+[15:50:28] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mEntities:[m
+[15:50:28] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mWorld "world": 75.[m
+[15:50:28] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mWorld "world_nether": 0.[m
+[15:50:28] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mWorld "world_the_end": 10.[m
+[15:50:28] [Server thread/INFO]: [0;33;22m[LagMeter] [0;32;1mTotal entities: 85[m
+[15:50:28] [Server thread/INFO]: [dynmap] Enabling dynmap v2.6-beta-1-Dev201807082003
+[15:50:28] [Server thread/INFO]: [dynmap] Dynmap is disabled (unsupported platform)
+[15:50:28] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[15:50:29] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:50:29] [Server thread/ERROR]: Error occurred while enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f (Is it up to date?)
+java.lang.IllegalArgumentException: Channel must contain : separator
+	at org.bukkit.plugin.messaging.StandardMessenger.validateAndCorrectChannel(StandardMessenger.java:474) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.messaging.StandardMessenger.registerIncomingPluginChannel(StandardMessenger.java:209) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at com.sk89q.worldedit.bukkit.WorldEditPlugin.onEnable(WorldEditPlugin.java:110) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:339) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.enablePlugin(CraftServer.java:424) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.enablePlugins(CraftServer.java:338) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.m(MinecraftServer.java:562) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.g_(MinecraftServer.java:524) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.a(MinecraftServer.java:423) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.init(DedicatedServer.java:288) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:686) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+[15:50:29] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.42
+[15:50:29] [Server thread/INFO]: [MultiChatBridge] Enabling MultiChatBridge v1.5.1
+[15:50:29] [Server thread/INFO]: [MultiChatBridge] Attempting startup load for Nicknames
+[15:50:29] [Server thread/INFO]: [MultiChatBridge] The nicknames file was successfully loaded!
+[15:50:29] [Server thread/INFO]: [MultiChatBridge] Load completed!
+[15:50:29] [Server thread/ERROR]: Error occurred while enabling MultiChatBridge v1.5.1 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/milkbowl/vault/chat/Chat
+	at com.olivermartin410.plugins.SpigotComm.setupChat(SpigotComm.java:83) ~[?:?]
+	at com.olivermartin410.plugins.SpigotComm.onEnable(SpigotComm.java:75) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:339) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.enablePlugin(CraftServer.java:424) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.CraftServer.enablePlugins(CraftServer.java:338) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.m(MinecraftServer.java:562) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.g_(MinecraftServer.java:524) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.a(MinecraftServer.java:423) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.init(DedicatedServer.java:288) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:686) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.chat.Chat
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:466) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:154) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:566) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:499) ~[?:?]
+	... 13 more
+[15:50:29] [Server thread/INFO]: [AdvancedAchievements] Enabling AdvancedAchievements v5.8.2
+[15:50:29] [Server thread/INFO]: [AdvancedAchievements] Loading and backing up configuration files...
+[15:50:30] [Server thread/WARN]: [AdvancedAchievements] Overriding configuration: disabling PetMasterGive and PetMasterReceive categories.
+[15:50:30] [Server thread/WARN]: [AdvancedAchievements] Ensure you have placed Pet Master with a minimum version of 1.4 in your plugins folder or add PetMasterGive and PetMasterReceive to the DisabledCategories list in config.yml.
+[15:50:30] [Server thread/INFO]: [AdvancedAchievements] Loaded 51 achievements in 45 categories.
+[15:50:30] [Server thread/INFO]: [AdvancedAchievements] 2 disabled categories: [PetMasterReceive, PetMasterGive]
+[15:50:30] [Server thread/INFO]: [AdvancedAchievements] Registering event listeners...
+[15:50:30] [Server thread/INFO]: [AdvancedAchievements] Initialising database...
+[15:50:30] [Server thread/INFO]: [AdvancedAchievements] Setting up command executor and custom tab completers...
+[15:50:30] [Server thread/INFO]: [AdvancedAchievements] Launching scheduled tasks...
+[15:50:30] [Server thread/INFO]: [AdvancedAchievements] Registering permissions...
+[15:50:30] [Thread-10/INFO]: [AdvancedAchievements] Checking for plugin update...
+[15:50:30] [Server thread/INFO]: [AdvancedAchievements] Plugin has finished loading and is ready to run! Took 1033ms.
+[15:50:30] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-b727
+[15:50:30] [Server thread/INFO]: -------- World Settings For [survival-end] --------
+[15:50:30] [Server thread/INFO]: Mob Spawn Range: 4
+[15:50:30] [Server thread/INFO]: Random Lighting Updates: false
+[15:50:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:50:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:50:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:50:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:50:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:50:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:50:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:50:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:50:30] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:50:30] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:50:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:50:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:50:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:50:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:50:30] [Server thread/INFO]: Max TNT Explosions: 100
+[15:50:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:50:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:50:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:50:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:50:30] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:50:30] [Server thread/INFO]: View Distance: 10
+[15:50:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:50:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:50:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:50:30] [Server thread/INFO]: Preparing start region for level 3 (Seed: -981323491131848)
+[15:50:31] [Server thread/INFO]: -------- World Settings For [survival-nether] --------
+[15:50:31] [Server thread/INFO]: Mob Spawn Range: 4
+[15:50:31] [Server thread/INFO]: Random Lighting Updates: false
+[15:50:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:50:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:50:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:50:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:50:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:50:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:50:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:50:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:50:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:50:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:50:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:50:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:50:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:50:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:50:31] [Server thread/INFO]: Max TNT Explosions: 100
+[15:50:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:50:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:50:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:50:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:50:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:50:31] [Server thread/INFO]: View Distance: 10
+[15:50:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:50:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:50:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:50:31] [Server thread/INFO]: Preparing start region for level 4 (Seed: -981323491131848)
+[15:50:32] [Server thread/INFO]: Preparing spawn area for survival-nether, 20%
+[15:50:33] [Server thread/INFO]: Preparing spawn area for survival-nether, 69%
+[15:50:34] [Server thread/INFO]: -------- World Settings For [survival] --------
+[15:50:34] [Server thread/INFO]: Mob Spawn Range: 4
+[15:50:34] [Server thread/INFO]: Random Lighting Updates: false
+[15:50:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:50:34] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:50:34] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:50:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:50:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:50:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:50:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:50:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:50:34] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:50:34] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:50:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:50:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:50:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:50:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:50:34] [Server thread/INFO]: Max TNT Explosions: 100
+[15:50:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:50:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:50:34] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:50:34] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:50:34] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:50:34] [Server thread/INFO]: View Distance: 10
+[15:50:34] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:50:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:50:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:50:34] [Server thread/INFO]: Preparing start region for level 5 (Seed: -981323491131848)
+[15:50:35] [Server thread/INFO]: Preparing spawn area for survival, 65%
+[15:50:35] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[15:50:36] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-b727 (API v20) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[15:50:36] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+[15:50:36] [Server thread/INFO]: [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
+[15:50:36] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5.0-b751
+[15:50:36] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5.0-b751 Enabled - By Rigby and fernferret
+[15:50:36] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
+[15:50:36] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[15:50:36] [Server thread/INFO]: [Multiverse-SignPortals] Enabling Multiverse-SignPortals v2.4-b523
+[15:50:36] [Server thread/INFO]: [Multiverse-SignPortals] - Version 2.4-b523 Enabled - By Rigby and fernferret
+[15:50:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:50:36] [Server thread/INFO]: Time elapsed: 21066 ms
+[15:50:36] [Server thread/INFO]: Done (23.512s)! For help, type "help"
+[15:50:36] [Craft Scheduler Thread - 0/INFO]: [0;32;1mFound a new version of [0;33;22mLobbyAPI: [0;37;1mv3.7.72[0;35;1m downloading now!![m
+[15:50:38] [User Authenticator #1/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
+[15:50:40] [Server thread/INFO]: _wjw_[/98.164.255.203:62795] logged in with entity id 375 at ([survival]-131.2228785575314, 63.5625, -141.89755707986671)
+[15:51:13] [User Authenticator #2/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
+[15:51:15] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:52574] logged in with entity id 402 at ([survival-nether]-14.975579854813828, 52.0, 8.883475117819714)
+[15:51:24] [Async Chat Thread - #0/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> nether works?[m
+[15:51:25] [Async Chat Thread - #0/INFO]: [[0;37;1msurvival-nether[0;37;1m]<GlitchedPixels> heheeh[m
+[15:51:26] [Async Chat Thread - #0/INFO]: [[0;37;1msurvival-nether[0;37;1m]<GlitchedPixels> yes[m
+[15:51:33] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
 org.bukkit.event.EventException: null
 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
-	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	at java.lang.Thread.run(Thread.java:844) [?:?]
 Caused by: java.lang.NullPointerException
-	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:316) ~[?:?]
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
 	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	... 17 more
-[14:47:35] [Server thread/INFO]: GlitchedPixels was slain by Zombie
-[14:47:39] [Server thread/WARN]: GlitchedPixels was kicked for floating too long!
-[14:47:39] [Server thread/INFO]: GlitchedPixels lost connection: Flying is not enabled on this server
-[14:47:39] [Server thread/INFO]: GlitchedPixels left the game
-[14:47:39] [Server thread/WARN]: handleDisconnection() called twice
-[14:47:54] [User Authenticator #24/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
-[14:47:54] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:36856] logged in with entity id 76065 at ([survival]-79.01398435602847, 21.0, 118.91127483114538)
-[14:48:13] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
-[14:48:13] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+	... 16 more
+[15:51:34] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival-nether"! Inventories for this world will not be saved.[m
+[15:51:34] [Async Chat Thread - #0/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> finally i can get redstone lamp[m
+[15:51:44] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
 org.bukkit.event.EventException: null
 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
-	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	at java.lang.Thread.run(Thread.java:844) [?:?]
 Caused by: java.lang.NullPointerException
-	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:316) ~[?:?]
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
 	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
-	... 17 more
-[14:48:24] [Server thread/INFO]: GlitchedPixels issued server command: /tp -77 21 120
-[14:48:24] [Server thread/INFO]: [GlitchedPixels: Teleported GlitchedPixels to -76.5, 21.0, 120.5]
-[14:52:56] [Async Chat Thread - #34/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> what are you doing?[m
-[14:53:00] [Async Chat Thread - #34/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> MINING[m
-[14:53:02] [Async Chat Thread - #34/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> mining[m
-[14:53:04] [Async Chat Thread - #34/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> kool[m
-[14:53:07] [Async Chat Thread - #34/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> got diamonds yet?[m
-[14:53:12] [Async Chat Thread - #34/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> no[m
-[14:53:15] [Async Chat Thread - #34/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> me either[m
-[14:54:13] [Server thread/INFO]: GlitchedPixels has made the advancement [Suit Up]
-[14:55:36] [Server thread/INFO]: GlitchedPixels issued server command: /difficulty easy
-[14:55:36] [Server thread/INFO]: [GlitchedPixels: The difficulty has been set to Easy]
-[14:55:56] [Server thread/INFO]: GlitchedPixels issued server command: /difficulty norma;
-[14:55:58] [Server thread/INFO]: GlitchedPixels issued server command: /difficulty normal
-[14:55:58] [Server thread/INFO]: [GlitchedPixels: The difficulty has been set to Normal]
-[14:56:18] [Async Chat Thread - #35/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> where are you?[m
-[14:56:25] [Async Chat Thread - #35/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> minging[m
-[14:56:27] [Async Chat Thread - #35/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> NO TP[m
-[14:56:30] [Async Chat Thread - #35/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> OR ELSE[m
-[14:59:50] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+	... 16 more
+[15:51:45] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[15:51:50] [Async Chat Thread - #0/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> coming[m
+[15:51:55] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[15:51:55] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival-nether"! Inventories for this world will not be saved.[m
+[15:52:42] [Server thread/INFO]: GlitchedPixels issued server command: /give @p iron_pickaxe
+[15:52:42] [Server thread/INFO]: [GlitchedPixels: Gave 1 [Iron Pickaxe] to GlitchedPixels]
+[15:52:46] [Server thread/INFO]: GlitchedPixels issued server command: /give @p iron_axe
+[15:52:46] [Server thread/INFO]: [GlitchedPixels: Gave 1 [Iron Axe] to GlitchedPixels]
+[15:52:50] [Server thread/INFO]: GlitchedPixels issued server command: /give @p iron_sword
+[15:52:50] [Server thread/INFO]: [GlitchedPixels: Gave 1 [Iron Sword] to GlitchedPixels]
+[15:52:57] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[15:52:58] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[15:53:03] [Server thread/INFO]: GlitchedPixels issued server command: /give @p iron_hoe
+[15:53:03] [Server thread/INFO]: [GlitchedPixels: Gave 1 [Iron Hoe] to GlitchedPixels]
+[15:56:02] [Server thread/INFO]: GlitchedPixels issued server command: /give @p torch 16
+[15:56:02] [Server thread/INFO]: [GlitchedPixels: Gave 16 [Torch] to GlitchedPixels]
+[15:56:17] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[15:56:17] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival-nether"! Inventories for this world will not be saved.[m
+[15:56:17] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> does nether work?[m
+[15:56:21] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ya[m
+[15:56:26] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> but you take fall damge[m
+[15:56:26] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[15:56:27] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[15:56:30] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> damage[m
+[15:56:34] [Server thread/INFO]: GlitchedPixels issued server command: /gameemode creative
+[15:56:37] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[15:56:37] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[15:56:49] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> how rare to get harpoom from ugly zombiue[m
+[15:56:54] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i mean trident[m
+[15:57:03] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> how rare to get trident from ugly zombie[m
+[15:57:17] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival-nether[0;37;1m]<GlitchedPixels> 等一下[m
+[15:57:48] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[15:57:48] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival-nether"! Inventories for this world will not be saved.[m
+[15:57:55] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[15:57:56] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[15:58:07] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[15:58:07] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival-nether"! Inventories for this world will not be saved.[m
