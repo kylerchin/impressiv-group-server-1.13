@@ -34,3 +34,14 @@
 [12:55:33] [User Authenticator #21/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
 [12:55:34] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:35062] logged in with entity id 44639 at ([survival]-154.0673160409662, 64.0, 63.642583396904)
 [12:59:43] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[13:13:52] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[13:13:52] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[13:17:07] [Server thread/INFO]: GlitchedPixels lost connection: Disconnected
+[13:17:08] [Server thread/INFO]: GlitchedPixels left the game
+[13:29:44] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[13:36:49] [User Authenticator #22/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
+[13:36:50] [Server thread/INFO]: _wjw_[/98.164.255.203:60926] logged in with entity id 47976 at ([survival]-167.29445444241142, 60.0, 50.49137093977437)
+[13:39:51] [Server thread/INFO]: _wjw_ has made the advancement [Hot Stuff]
+[13:40:17] [Server thread/INFO]: _wjw_ has made the advancement [Ice Bucket Challenge]
+[13:55:24] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: hoeplowings_10 (Farmer)
+[13:59:46] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
