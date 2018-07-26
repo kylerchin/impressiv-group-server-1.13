@@ -966,3 +966,309 @@ Caused by: java.lang.NullPointerException
 [20:58:56] [Server thread/INFO]: popo50go issued server command: /i cant join
 [20:59:01] [Async Chat Thread - #15/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> let me in[m
 [20:59:07] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[21:01:29] [Server thread/INFO]: GlitchedPixels has made the advancement [Sweet Dreams]
+[21:01:39] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[21:01:43] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[21:01:43] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[21:02:14] [Async Chat Thread - #16/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> KYLER WHATS THE DISCORD[m
+[21:02:35] [Async Chat Thread - #16/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> discord.gg/hcy5A9z[m
+[21:02:43] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode c
+[21:02:49] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[21:02:49] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[21:03:10] [Async Chat Thread - #16/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> it says it expired[m
+[21:03:28] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[21:03:28] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[21:03:30] [Async Chat Thread - #16/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> hmmm[m
+[21:03:34] [Async Chat Thread - #16/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> help a gamer out[m
+[21:04:04] [Async Chat Thread - #16/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> can i get a tp[m
+[21:04:06] [Async Chat Thread - #16/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> check the stream[m
+[21:04:20] [Async Chat Thread - #16/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> why[m
+[21:04:28] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[21:04:28] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[21:04:37] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[21:04:37] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[21:04:39] [Async Chat Thread - #16/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> my items[m
+[21:04:49] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode spectator
+[21:04:49] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Spectator Mode]
+[21:04:53] [Server thread/INFO]: GlitchedPixels issued server command: /tp popo50go
+[21:04:53] [Server thread/INFO]: [GlitchedPixels: Teleported GlitchedPixels to popo50go]
+[21:04:53] [Async Chat Thread - #16/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> ok?[m
+[21:04:58] [Server thread/INFO]: GlitchedPixels issued server command: /tp _wjw_
+[21:04:58] [Server thread/INFO]: [GlitchedPixels: Teleported GlitchedPixels to _wjw_]
+[21:05:03] [Async Chat Thread - #16/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> can u make another discord invite pls[m
+[21:05:07] [Async Chat Thread - #16/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> ok[m
+[21:05:19] [Async Chat Thread - #16/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> thanks chinky[m
+[21:05:40] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[21:05:40] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[21:06:05] [Async Chat Thread - #16/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> make the invite plssss[m
+[21:06:21] [Async Chat Thread - #16/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> https://discord.gg/kmn5tx4[m
+[21:07:32] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[21:07:36] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[21:07:36] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[21:07:38] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> still says expired[m
+[21:07:39] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode adventure
+[21:07:39] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Adventure Mode]
+[21:07:43] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[21:07:43] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[21:07:44] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> that was a new invite[m
+[21:07:53] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> yeah but still[m
+[21:07:56] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[21:07:56] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[21:07:59] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ill malke a ne w one[m
+[21:08:04] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> ok bb[m
+[21:08:09] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> https://discord.gg/8kbwvxt[m
+[21:08:12] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> <3[m
+[21:08:16] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> thanks _wjw_[m
+[21:08:20] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> who are you[m
+[21:08:38] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> its still expired[m
+[21:08:50] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ill make a new one thjenm'[m
+[21:08:59] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> https://discord.gg/NHadGD[m
+[21:09:18] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> still expired[m
+[21:09:24] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ill make a notehr one[m
+[21:09:32] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> https://discord.gg/KB6CE7[m
+[21:10:04] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> still expired[m
+[21:10:09] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ill make nohter one[m
+[21:10:17] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> https://discord.gg/8kbwvxt[m
+[21:10:20] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> dm me swag#1127[m
+[21:10:30] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> what happened to my items?[m
+[21:10:32] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> tell kyler to[m
+[21:10:39] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> ???[m
+[21:10:42] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> my sone hacked my com[puter[m
+[21:11:25] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> pls dm me[m
+[21:11:29] [User Authenticator #16/INFO]: UUID of player SirMylesI is c82fba46-bfc5-3875-b323-df6d0d92c6b3
+[21:11:29] [Server thread/INFO]: SirMylesI[/96.48.107.100:59448] logged in with entity id 32547 at ([world]-3.5, 54.0, 9.5)
+[21:11:30] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> wasa?[m
+[21:11:31] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> hi![m
+[21:11:34] [Server thread/INFO]: [AdvancedAchievements] Player SirMylesI received the achievement: connect_1 (Good Choice)
+[21:11:36] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> myles[m
+[21:11:37] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> dm sirmylersI[m
+[21:11:38] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<SirMylesI> HEY Gamers!!![m
+[21:11:42] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> hey fellow gamers![m
+[21:11:47] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<SirMylesI> Bruh what Fucking[m
+[21:11:49] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<SirMylesI> Nigger[m
+[21:11:52] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<SirMylesI> Made this server[m
+[21:11:53] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<SirMylesI> smh[m
+[21:11:54] [Server thread/INFO]: SirMylesI lost connection: Disconnected
+[21:11:54] [Server thread/INFO]: SirMylesI left the game
+[21:11:55] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> myles add my alt discord swag#1127[m
+[21:12:29] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> can I has iron?[m
+[21:13:06] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> kyler answer my call[m
+[21:13:12] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> yeah kyler[m
+[21:13:15] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[21:13:16] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> no[m
+[21:13:20] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> JOIN PUBLIC[m
+[21:13:23] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> I CANT[m
+[21:13:25] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> aushtins kincstiuae[m
+[21:13:36] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> kyler IT[m
+[21:13:39] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> ALL THE INVITES I GET ARE EXPIRED UNBAN ME[m
+[21:13:45] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> try it again[m
+[21:13:45] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> oh no[m
+[21:13:47] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> UNBANNED[m
+[21:13:48] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ill check[m
+[21:13:50] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> wait nmvm[m
+[21:14:21] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> MY DISC IS vaping on ants#7804[m
+[21:14:40] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> WJW i I NEED IRON[m
+[21:14:50] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> then give coire[m
+[21:14:56] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> GIVEW WHAT?[m
+[21:14:57] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> prencdsa coiea[m
+[21:15:00] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> coire?[m
+[21:15:02] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime operator[m
+[21:15:02] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> wasa?[m
+[21:15:05] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> kyler awnser my damn discord messages[m
+[21:15:06] [Server thread/INFO]: GlitchedPixels issued server command: /op _wjw_
+[21:15:06] [Server thread/INFO]: [GlitchedPixels: Made _wjw_ a server operator]
+[21:15:08] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> no[m
+[21:15:10] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> thank you[m
+[21:15:12] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> cheating[m
+[21:15:24] [Server thread/INFO]: _wjw_ issued server command: /give GlitchedPixels minecraft:iron_block 64
+[21:15:24] [Server thread/INFO]: [_wjw_: Gave 64 [Block of Iron] to GlitchedPixels]
+[21:16:00] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> niqqas[m
+[21:16:24] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> KYLER CAN I GET A TP[m
+[21:16:27] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> cheating?[m
+[21:16:32] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> why?[m
+[21:16:39] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> IM STUCK IN THE OCEAN[m
+[21:16:46] [Async Chat Thread - #17/INFO]: [[0;37;1mworld[0;37;1m]<popo50go> ITS BORING HERE[m
+[21:16:57] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i got it[m
+[21:17:02] [Server thread/INFO]: _wjw_ issued server command: /gamemode spectator
+[21:17:02] [Server thread/INFO]: [_wjw_: Set own game mode to Spectator Mode]
+[21:17:05] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
+[21:17:05] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
+[21:17:17] [Server thread/INFO]: _wjw_ issued server command: /tp popo50go GlitchedPixels
+[21:17:17] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "world"! Inventories for this world will not be saved.[m
+[21:17:17] [Server thread/INFO]: [_wjw_: Teleported popo50go to GlitchedPixels]
+[21:17:22] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> have funj[m
+[21:17:25] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> ok[m
+[21:17:26] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> lag[m
+[21:17:31] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> help me get iron plz?[m
+[21:17:34] [Server thread/INFO]: _wjw_ issued server command: /gamemode survival
+[21:17:34] [Server thread/INFO]: [_wjw_: Set own game mode to Survival Mode]
+[21:18:02] [Server thread/INFO]: GlitchedPixels issued server command: /give @p minecraft:iron_ingot 10
+[21:18:02] [Server thread/INFO]: [GlitchedPixels: Gave 10 [Iron Ingot] to GlitchedPixels]
+[21:18:15] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> NO STEALING[m
+[21:18:40] [Server thread/INFO]: GlitchedPixels issued server command: /give @p oak_log 9
+[21:18:40] [Server thread/INFO]: [GlitchedPixels: Gave 9 [Oak Log] to GlitchedPixels]
+[21:18:46] [Async Chat Thread - #17/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> cant get out[m
+[21:19:38] [Server thread/INFO]: _wjw_ has made the advancement [Sweet Dreams]
+[21:19:52] [Async Chat Thread - #18/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> eeeeeeeeeeeeee[m
+[21:22:19] [Server thread/WARN]: [AdvancedAchievements] You have specified a money reward but Vault was not linked successfully.
+[21:22:19] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: kills_1_zombie (The Walking Dead)
+[21:23:17] [Server thread/INFO]: GlitchedPixels issued server command: /give @p torch 15
+[21:23:17] [Server thread/INFO]: [GlitchedPixels: Gave 15 [Torch] to GlitchedPixels]
+[21:24:25] [Server thread/INFO]: _wjw_ issued server command: /spawnpoint _wjw_ -132 63 -143
+[21:24:25] [Server thread/INFO]: [_wjw_: Set spawn point to -132, 63, -143 for _wjw_]
+[21:24:29] [Async Chat Thread - #19/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> mc.logic0x.com[m
+[21:24:45] [Server thread/INFO]: GlitchedPixels issued server command: /give @p coal 64
+[21:24:45] [Server thread/INFO]: [GlitchedPixels: Gave 64 [Coal] to GlitchedPixels]
+[21:24:51] [Server thread/INFO]: [AdvancedAchievements] Player popo50go received the achievement: deaths_1 (Rest in Peace)
+[21:24:51] [Server thread/INFO]: popo50go was blown up by Creeper
+[21:24:58] [Async Chat Thread - #19/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> _wjw_ are yoy in survival[m
+[21:25:00] [Async Chat Thread - #19/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ya[m
+[21:25:10] [Server thread/INFO]: _wjw_ issued server command: /gamemode spectator
+[21:25:10] [Server thread/INFO]: [_wjw_: Set own game mode to Spectator Mode]
+[21:25:10] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[21:25:10] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:322) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 17 more
+[21:25:12] [Async Chat Thread - #19/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> not anymore[m
+[21:25:13] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
+[21:25:13] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
+[21:25:23] [Server thread/INFO]: _wjw_ issued server command: /gamemode survival
+[21:25:23] [Server thread/INFO]: [_wjw_: Set own game mode to Survival Mode]
+[21:25:27] [Async Chat Thread - #19/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> NO BAD WORD[m
+[21:25:38] [Server thread/INFO]: _wjw_ has made the advancement [A Seedy Place]
+[21:25:58] [User Authenticator #17/INFO]: UUID of player SirMylesI is c82fba46-bfc5-3875-b323-df6d0d92c6b3
+[21:25:59] [Server thread/INFO]: SirMylesI[/96.48.107.100:59523] logged in with entity id 35054 at ([world]9.168718951783255, 57.0, 7.32222878899708)
+[21:26:04] [Async Chat Thread - #19/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> SWAG[m
+[21:26:32] [Server thread/INFO]: SirMylesI lost connection: Disconnected
+[21:26:32] [Server thread/INFO]: SirMylesI left the game
+[21:27:53] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> who want dimond[m
+[21:27:58] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> me[m
+[21:28:00] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> come[m
+[21:28:03] [Server thread/INFO]: [AdvancedAchievements] Player popo50go received the achievement: eatenitems_1 (First Snack)
+[21:28:03] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> to vilage[m
+[21:28:05] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> im gay[m
+[21:28:12] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ojk[m
+[21:28:15] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> come[m
+[21:28:34] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> wya[m
+[21:28:44] [Server thread/INFO]: [AdvancedAchievements] Player popo50go received the achievement: distancefoot_1000 (Big Walker)
+[21:28:50] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> see[m
+[21:29:03] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> idc give me money[m
+[21:29:06] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> im a jew[m
+[21:29:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[21:29:10] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> diamodnj[m
+[21:29:18] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> give me diamonds[m
+[21:29:24] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> take them,[m
+[21:29:30] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> how[m
+[21:30:03] [User Authenticator #18/INFO]: UUID of player SirMylesI is c82fba46-bfc5-3875-b323-df6d0d92c6b3
+[21:30:04] [Server thread/INFO]: SirMylesI[/96.48.107.100:59628] logged in with entity id 35888 at ([world]-55.25355700587799, 62.08971836992853, 60.511853473100125)
+[21:30:07] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> welcome![m
+[21:30:08] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> ur a faggot liar[m
+[21:30:12] [Async Chat Thread - #20/INFO]: [[0;37;1mworld[0;37;1m]<SirMylesI> Whats your opinion on black people?[m
+[21:30:14] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> i got no diamonds[m
+[21:30:16] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> no[m
+[21:30:36] [Async Chat Thread - #20/INFO]: [[0;37;1mworld[0;37;1m]<SirMylesI> why exactly did the US stop lynching niggers?[m
+[21:30:37] [Server thread/INFO]: SirMylesI lost connection: Disconnected
+[21:30:37] [Server thread/INFO]: SirMylesI left the game
+[21:30:47] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> death to chinks[m
+[21:30:55] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> socialism doesnt work[m
+[21:31:01] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> democracy doesnt work[m
+[21:31:08] [Async Chat Thread - #20/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> lynch minorites[m
+[21:31:37] [Server thread/INFO]: [AdvancedAchievements] Player popo50go received the achievement: itempickups_40 (Environmentalist)
+[21:31:55] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
+[21:31:55] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
+[21:32:08] [Server thread/INFO]: _wjw_ issued server command: /tp popo50go
+[21:32:08] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to popo50go]
+[21:32:53] [Server thread/INFO]: _wjw_ issued server command: /gamemode survival
+[21:32:53] [Server thread/INFO]: [_wjw_: Set own game mode to Survival Mode]
+[21:32:56] [Async Chat Thread - #21/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> cheater[m
+[21:32:58] [Async Chat Thread - #21/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> stop it[m
+[21:33:02] [Server thread/INFO]: GlitchedPixels issued server command: /deop _wjw_
+[21:33:02] [Server thread/INFO]: [GlitchedPixels: Made _wjw_ no longer a server operator]
+[21:33:04] [Async Chat Thread - #21/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> no i was help fellow gamer[m
+[21:33:09] [Async Chat Thread - #21/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> are you getting free items?[m
+[21:33:12] [Async Chat Thread - #21/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> no[m
+[21:33:16] [Async Chat Thread - #21/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> you sure?[m
+[21:33:19] [Async Chat Thread - #21/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> nothiung is free[m
+[21:33:30] [Async Chat Thread - #21/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> are you getting items from creativwe[m
+[21:33:33] [Async Chat Thread - #21/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> now[m
+[21:33:36] [Async Chat Thread - #21/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> no[m
+[21:34:05] [Async Chat Thread - #21/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> trump 2020[m
+[21:34:29] [Server thread/INFO]: popo50go has made the advancement [Diamonds!]
+[21:35:36] [Async Chat Thread - #22/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> wuss brackin nigga[m
+[21:35:40] [Async Chat Thread - #22/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> wawenfieqfbiqg[m
+[21:35:59] [Server thread/INFO]: Unknown item 'minecraft:158'
+[21:35:59] [Server thread/INFO]: ... popo50go 158 10<--[HERE]
+[21:35:59] [Server thread/INFO]: Unknown item 'minecraft:126'
+[21:35:59] [Server thread/INFO]: ... popo50go 126 5<--[HERE]
+[21:35:59] [Server thread/INFO]: [AdvancedAchievements] Player popo50go received the achievement: break_1_stone (Cobble!)
+[21:35:59] [Server thread/INFO]: popo50go has made the advancement [Stone Age]
+[21:38:11] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: itembreaks_1 (&4Clumsy Guy)
+[21:38:16] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[21:38:16] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[21:38:30] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[21:38:30] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[21:39:04] [Server thread/INFO]: popo50go has made the advancement [Cover Me With Diamonds]
+[21:39:11] [Server thread/INFO]: GlitchedPixels issued server command: /tp popo50go
+[21:39:11] [Server thread/INFO]: [GlitchedPixels: Teleported GlitchedPixels to popo50go]
+[21:39:11] [Async Chat Thread - #23/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> impresive[m
+[21:39:16] [Async Chat Thread - #23/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> yes[m
+[21:39:22] [Async Chat Thread - #23/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> wjere did you hget it from?[m
+[21:39:27] [Async Chat Thread - #23/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> wjw[m
+[21:39:28] [Async Chat Thread - #23/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> he mined it[m
+[21:39:31] [Server thread/INFO]: GlitchedPixels issued server command: /give @p iron_axe
+[21:39:31] [Server thread/INFO]: [GlitchedPixels: Gave 1 [Iron Axe] to GlitchedPixels]
+[21:39:49] [Async Chat Thread - #23/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> go away[m
+[21:39:53] [Async Chat Thread - #23/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> my forest[m
+[21:40:06] [Async Chat Thread - #23/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> sorry[m
+[21:40:09] [Async Chat Thread - #23/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> racist[m
+[21:40:18] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[21:40:19] [Async Chat Thread - #23/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> what?[m
+[21:40:24] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode spectator
+[21:40:24] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Spectator Mode]
+[21:40:38] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[21:40:38] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[21:43:19] [Server thread/WARN]: [AdvancedAchievements] You have specified a money reward but Vault was not linked successfully.
+[21:43:19] [Server thread/INFO]: [AdvancedAchievements] Player popo50go received the achievement: craft_1_blade (Blacksmith Apprentice)
+[21:46:28] [Async Chat Thread - #24/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> doo doesnt work[m
+[21:46:38] [Async Chat Thread - #24/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> its half door[m
+[21:46:43] [Async Chat Thread - #24/INFO]: [[0;37;1msurvival[0;37;1m]<popo50go> im gay[m
+[21:46:52] [Async Chat Thread - #24/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i cant open dor[m
+[21:49:47] [Server thread/INFO]: popo50go has made the advancement [Monster Hunter]
+[21:49:55] [Async Chat Thread - #25/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> you are kicked and you know what that means kyler chin[m
+[21:50:08] [Async Chat Thread - #25/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> wha?[m
+[21:50:17] [Async Chat Thread - #25/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> your kicked[m
+[21:54:31] [Async Chat Thread - #26/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> gime core[m
+[21:55:42] [Server thread/INFO]: [AdvancedAchievements] Player popo50go received the achievement: playedtime_1 (First Hour)
+[21:58:49] [Server thread/INFO]: GlitchedPixels issued server command: /kick _wjw_ griefing
+[21:58:49] [Server thread/INFO]: _wjw_ lost connection: griefing
+[21:58:49] [Server thread/INFO]: _wjw_ left the game
+[21:58:49] [Server thread/INFO]: [GlitchedPixels: Kicked _wjw_: griefing]
+[21:58:49] [Server thread/WARN]: handleDisconnection() called twice
+[21:59:06] [User Authenticator #19/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
+[21:59:06] [Server thread/INFO]: _wjw_[/98.164.255.203:58395] logged in with entity id 41912 at ([survival]-154.30000001192093, 47.0, 80.05688794926868)
+[21:59:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
