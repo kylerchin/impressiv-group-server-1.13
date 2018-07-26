@@ -371,3 +371,93 @@ Caused by: java.lang.NullPointerException
 [17:02:33] [Server thread/INFO]: GlitchedPixels left the game
 [17:28:55] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 [17:58:56] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[18:28:31] [User Authenticator #9/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
+[18:28:32] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:35278] logged in with entity id 14241 at ([survival]-145.8634220530519, 116.03260249110886, 21.81324280180532)
+[18:28:35] [Server thread/INFO]: GlitchedPixels fell from a high place
+[18:28:36] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[18:28:36] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:322) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 17 more
+[18:28:54] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[18:28:54] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[18:28:58] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[18:29:41] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[18:29:46] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[18:29:46] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[18:39:28] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: playedtime_1 (First Hour)
+[18:49:54] [User Authenticator #10/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
+[18:49:55] [Server thread/INFO]: _wjw_[/98.164.255.203:57620] logged in with entity id 16545 at ([survival]-2633.8558760527835, 80.0, 1547.1896797923619)
+[18:50:08] [Server thread/INFO]: _wjw_ issued server command: /tp GlitchedPixels
+[18:50:08] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to GlitchedPixels]
+[18:50:15] [Server thread/INFO]: _wjw_ issued server command: /tp @s
+[18:50:15] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to _wjw_]
+[18:50:17] [Server thread/INFO]: _wjw_ issued server command: /tp @s
+[18:50:17] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to _wjw_]
+[18:50:20] [Server thread/INFO]: _wjw_ issued server command: /tp @s
+[18:50:20] [Server thread/INFO]: [_wjw_: Teleported _wjw_ to _wjw_]
+[18:50:39] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> hi[m
+[18:50:40] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> wassup[m
+[18:50:43] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ![m
+[18:50:52] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> wanna google hangouts[m
+[18:50:56] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ah cant[m
+[18:50:59] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> i'm gonna live stream[m
+[18:51:02] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> oh no[m
+[18:51:04] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ok[m
+[18:51:04] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> on my discord[m
+[18:51:17] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> i'm gonna call you austin, from austin tx[m
+[18:51:18] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> chill[m
+[18:51:24] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> promiuse?[m
+[18:51:31] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> yes[m
+[18:51:32] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> eys[m
+[18:51:41] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> speak like you texan[m
+[18:51:46] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> tI wanna see this prank[m
+[18:51:46] [Server thread/INFO]: _wjw_ issued server command: /gamemode creative
+[18:51:46] [Server thread/INFO]: [_wjw_: Set own game mode to Creative Mode]
+[18:51:58] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> got your phone? you need discord[m
+[18:52:24] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> wei?[m
+[18:52:27] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i[m
+[18:52:34] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> moshi moshi[m
+[18:52:35] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> moshi[m
+[18:52:37] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> moshi[m
+[18:53:08] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> afk farm?[m
+[18:53:11] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> yah[m
+[18:53:14] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i forgot jhpw[m
+[18:53:16] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> nice[m
+[18:53:17] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> nice[m
+[18:53:18] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> nice[m
+[18:53:22] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> anime farm[m
+[18:53:29] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: playedtime_1 (First Hour)
+[18:53:37] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> congrats[m
+[18:56:50] [Async Chat Thread - #2/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> hmmm[m
+[18:57:04] [Server thread/INFO]: GlitchedPixels issued server command: /gamerule mobGriefing false
+[18:57:04] [Server thread/INFO]: [GlitchedPixels: Gamerule mobGriefing is now set to: false]
+[18:57:56] [Async Chat Thread - #3/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> efjqing2[m
+[18:57:57] [Async Chat Thread - #3/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> wngiwrgnwr[m
+[18:57:58] [Async Chat Thread - #3/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> bnwdgirwngrw[m
+[18:57:59] [Async Chat Thread - #3/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> dibnwrivowv[m
+[18:58:59] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
