@@ -1,13 +1,13 @@
 lastAccountName: _wjw_
 timestamps:
-  login: 1532716235029
-  logout: 1532716762487
+  login: 1532723065880
+  logout: 1532723061186
 ipAddress: 98.164.255.203
 geolocation: United States
 logoutlocation:
   world: survival
-  x: -118.2372748080676
-  y: 51.9375
-  z: -155.53561834583004
-  yaw: -123.72888
-  pitch: -4.252836
+  x: -118.85073068965903
+  y: 52.00467688125802
+  z: -157.28792262909428
+  yaw: -272.84183
+  pitch: 53.948933

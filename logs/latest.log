@@ -781,3 +781,47 @@ java.lang.NullPointerException: null
 	at java.lang.Thread.run(Thread.java:844) [?:?]
 [12:02:35] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 [12:32:36] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[13:02:37] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[13:24:02] [User Authenticator #15/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
+[13:24:03] [Server thread/INFO]: _wjw_[/98.164.255.203:52201] logged in with entity id 83532 at ([survival]-118.2372748080676, 51.9375, -155.53561834583004)
+[13:24:03] [Server thread/WARN]: [Essentials] Task #402 for Essentials v2.15.0.1 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:148) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:109) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:31) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:877) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+[13:24:21] [Server thread/INFO]: _wjw_ lost connection: Disconnected
+[13:24:21] [Server thread/INFO]: _wjw_ left the game
+[13:24:21] [Server thread/WARN]: [Essentials] Task #406 for Essentials v2.15.0.1 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:144) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:109) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:51) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:877) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+[13:24:25] [User Authenticator #16/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
+[13:24:25] [Server thread/INFO]: _wjw_[/98.164.255.203:52210] logged in with entity id 83638 at ([survival]-118.91854968276758, 51.978562491680854, -157.28792262909428)
+[13:24:25] [Server thread/WARN]: [Essentials] Task #412 for Essentials v2.15.0.1 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:148) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:109) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:31) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:877) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+[13:32:38] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
