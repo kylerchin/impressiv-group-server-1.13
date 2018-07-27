@@ -668,3 +668,93 @@ Caused by: java.lang.NullPointerException
 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	... 16 more
 [15:58:07] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival-nether"! Inventories for this world will not be saved.[m
+[16:00:33] [Async Chat Thread - #2/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> yoyoyo[m
+[16:01:40] [Async Chat Thread - #3/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> e[m
+[16:04:52] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> 你好吗[m
+[16:04:59] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> hao[m
+[16:05:19] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> 我们正在玩电子游戏[m
+[16:05:37] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> 我的世界[m
+[16:06:32] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> o[m
+[16:06:45] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> 你弟弟在做什么[m
+[16:06:54] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> bu zhi dao[m
+[16:07:01] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> 玩什么[m
+[16:07:01] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> da gai zai wan IPAD[m
+[16:07:19] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> 堡垒战斗royale[m
+[16:07:24] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ?[m
+[16:07:29] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> fortnite[m
+[16:07:45] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i dont think so he said he ran out of time[m
+[16:07:48] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> parental controls[m
+[16:07:53] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[16:07:58] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[16:07:58] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[16:09:25] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[16:09:25] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[16:11:06] [Server thread/INFO]: GlitchedPixels issued server command: /give @p minecraft:iron_ingot 20
+[16:11:06] [Server thread/INFO]: [GlitchedPixels: Gave 20 [Iron Ingot] to GlitchedPixels]
+[16:11:18] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> i lost everything in the nether glitch[m
+[16:11:26] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> oh no[m
+[16:11:30] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> get it back in creative[m
+[16:11:36] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> got diamonds yet?[m
+[16:11:38] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> nah[m
+[16:12:27] [Server thread/INFO]: GlitchedPixels issued server command: /give @p seed
+[16:12:40] [Server thread/INFO]: GlitchedPixels issued server command: /give @p minecraft:wheat_seeds 20
+[16:12:40] [Server thread/INFO]: [GlitchedPixels: Gave 20 [Wheat Seeds] to GlitchedPixels]
+[16:17:42] [Server thread/INFO]: GlitchedPixels issued server command: //wand
+[16:18:14] [Server thread/INFO]: GlitchedPixels issued server command: /execute _wjw_ ~ ~ ~ summon minecraft:phantom
+[16:18:22] [Server thread/INFO]: GlitchedPixels issued server command: /execute ~ ~ ~ _wjw_ summon minecraft:phantom
+[16:18:25] [Server thread/INFO]: GlitchedPixels issued server command: /execute
+[16:18:30] [Server thread/INFO]: GlitchedPixels issued server command: /execute summon
+[16:18:36] [Server thread/INFO]: GlitchedPixels issued server command: /help execute
+[16:20:10] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: place_100_stone (Stone Addict)
+[16:20:42] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:21:05] [Async Chat Thread - #6/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> are you watchingthe live stream?[m
+[16:21:07] [Async Chat Thread - #6/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> no[m
+[16:24:09] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i made water zombie farm[m
+[16:24:13] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> nice![m
+[16:24:20] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> what are oyur coords?[m
+[16:24:24] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> they give tridents right?[m
+[16:24:32] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> ye[m
+[16:24:33] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> s[m
+[16:24:35] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> coool[m
+[16:24:37] [Server thread/INFO]: GlitchedPixels issued server command: /tp _wjw_
+[16:24:37] [Server thread/INFO]: [GlitchedPixels: Teleported GlitchedPixels to _wjw_]
+[16:24:38] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> cuz i got one[m
+[16:24:40] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> WTH[m
+[16:24:41] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> mice![m
+[16:24:43] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> HACKE[m
+[16:24:45] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> HACKER[m
+[16:24:47] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> TP HACKER[m
+[16:25:08] [Server thread/INFO]: [AdvancedAchievements] Player _wjw_ received the achievement: maxlevel_10 (&4Rookie)
+[16:25:22] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> you found a spawner?[m
+[16:25:24] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ya[m
+[16:25:28] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> awesome![m
+[16:25:39] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> see i have trident[m
+[16:26:23] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> zombvie spawnm in dark[m
+[16:28:17] [Async Chat Thread - #8/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> we need soul sand for elecator[m
+[16:28:20] [Async Chat Thread - #8/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> what[m
+[16:29:03] [Async Chat Thread - #8/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> dont break my bvase[m
+[16:29:12] [Async Chat Thread - #8/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> dont break base[m
+[16:29:47] [Async Chat Thread - #8/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> NO[m
+[16:29:59] [Async Chat Thread - #8/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> u broke my baswe[m
+[16:30:01] [Async Chat Thread - #8/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> wt heavk[m
+[16:34:04] [Async Chat Thread - #9/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> are you streaming rn[m
+[16:34:08] [Async Chat Thread - #9/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> no[m
+[16:34:42] [Async Chat Thread - #9/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> hey![m
+[16:34:47] [Async Chat Thread - #9/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> stop it[m
+[16:34:51] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode spectator
+[16:34:51] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Spectator Mode]
+[16:35:00] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[16:35:00] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[16:35:23] [Async Chat Thread - #9/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> wanna go minging[m
+[16:35:25] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode spectator
+[16:35:25] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Spectator Mode]
+[16:35:31] [Async Chat Thread - #9/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> oh[m
+[16:35:33] [Async Chat Thread - #9/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> AFK[m
+[16:35:35] [Async Chat Thread - #9/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> going swimming[m
+[16:35:40] [Async Chat Thread - #9/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> k[m
+[16:36:54] [Async Chat Thread - #10/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> bye[m
+[16:36:56] [Async Chat Thread - #10/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ye[m
+[16:36:58] [Async Chat Thread - #10/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> bye[m
+[16:37:07] [Server thread/INFO]: _wjw_ lost connection: Disconnected
+[16:37:07] [Server thread/INFO]: _wjw_ left the game
+[16:50:44] [Server thread/INFO]: Unknown command. Type "/help" for help.[m

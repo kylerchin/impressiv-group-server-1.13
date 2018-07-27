@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-07-26 16:07:15 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2018-07-26 15:54:18 -0700"
@@ -251,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2018-07-26 16:03:09 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2018-07-23 18:11:36 -0700"
@@ -326,6 +338,7 @@
       "mutton": "2018-07-25 16:21:38 -0700",
       "bread": "2018-07-25 16:27:59 -0700",
       "cookie": "2018-07-26 14:06:02 -0700",
+      "rotten_flesh": "2018-07-26 16:00:36 -0700",
       "cooked_chicken": "2018-07-25 16:41:14 -0700",
       "cooked_salmon": "2018-07-26 13:47:28 -0700"
     },
@@ -837,10 +850,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2018-07-26 15:58:36 -0700",
       "minecraft:phantom": "2018-07-23 18:41:50 -0700",
       "minecraft:spider": "2018-07-24 14:50:57 -0700",
       "minecraft:zombie": "2018-07-23 18:41:48 -0700",
-      "minecraft:drowned": "2018-07-26 15:14:59 -0700"
+      "minecraft:drowned": "2018-07-26 15:14:59 -0700",
+      "minecraft:creeper": "2018-07-26 16:01:27 -0700"
     },
     "done": false
   },
@@ -1138,6 +1153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-07-26 16:07:15 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2018-07-25 16:23:00 -0700"
@@ -1294,6 +1315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2018-07-26 15:58:37 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-07-25 16:38:30 -0700"
@@ -1321,6 +1348,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2018-07-25 16:26:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-07-26 16:07:15 -0700"
     },
     "done": true
   },
@@ -1381,6 +1414,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2018-07-25 16:35:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2018-07-26 16:04:46 -0700"
     },
     "done": true
   },
@@ -1509,6 +1548,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-26 14:49:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-07-26 16:07:15 -0700"
     },
     "done": true
   },

@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2018-07-26 16:30:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-25 21:01:27 -0700"
@@ -787,7 +793,8 @@
       "minecraft:skeleton": "2018-07-25 19:28:31 -0700",
       "minecraft:silverfish": "2018-07-25 20:29:44 -0700",
       "minecraft:spider": "2018-07-25 16:59:23 -0700",
-      "minecraft:zombie": "2018-07-25 21:22:19 -0700"
+      "minecraft:zombie": "2018-07-25 21:22:19 -0700",
+      "minecraft:drowned": "2018-07-26 16:25:58 -0700"
     },
     "done": false
   },
@@ -980,6 +987,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2018-07-26 14:28:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2018-07-26 16:30:13 -0700"
     },
     "done": true
   },
