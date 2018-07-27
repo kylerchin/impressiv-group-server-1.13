@@ -519,7 +519,9 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2018-07-26 21:55:15 -0700",
-      "minecraft:pig": "2018-07-27 04:18:32 -0700"
+      "minecraft:chicken": "2018-07-27 05:05:51 -0700",
+      "minecraft:pig": "2018-07-27 04:18:32 -0700",
+      "minecraft:sheep": "2018-07-27 05:06:29 -0700"
     },
     "done": false
   },
@@ -827,6 +829,7 @@
     "criteria": {
       "minecraft:skeleton": "2018-07-26 18:24:51 -0700",
       "minecraft:phantom": "2018-07-27 00:58:09 -0700",
+      "minecraft:witch": "2018-07-27 05:00:32 -0700",
       "minecraft:zombie_pigman": "2018-07-26 21:59:16 -0700",
       "minecraft:cave_spider": "2018-07-27 04:44:26 -0700",
       "minecraft:enderman": "2018-07-26 22:37:46 -0700",
