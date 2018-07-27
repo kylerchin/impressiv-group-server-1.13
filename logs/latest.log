@@ -779,3 +779,5 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	at java.lang.Thread.run(Thread.java:844) [?:?]
+[12:02:35] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:32:36] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
