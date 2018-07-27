@@ -164,3 +164,22 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
 	at java.lang.Thread.run(Thread.java:844) [?:?]
 [01:59:13] [Server thread/WARN]: Phillap5 moved wrongly!
+[02:02:01] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[02:16:25] [Server thread/WARN]: Phillap5 moved wrongly!
+[02:31:49] [Server thread/INFO]: Pandarz86 lost connection: Disconnected
+[02:31:49] [Server thread/INFO]: Pandarz86 left the game
+[02:31:49] [Server thread/WARN]: [Essentials] Task #259 for Essentials v2.15.0.1 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:148) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:109) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:51) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:877) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+[02:32:02] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[02:46:38] [Server thread/INFO]: Phillap5 has made the advancement [Enchanter]
+[02:48:42] [Server thread/INFO]: [AdvancedAchievements] Player Phillap5 received the achievement: enchantments_5 (&5Wizard)
