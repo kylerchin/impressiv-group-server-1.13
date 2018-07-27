@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2018-07-26 18:33:08 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-25 16:49:24 -0700"
@@ -164,6 +170,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2018-07-23 18:13:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2018-07-26 18:33:08 -0700"
     },
     "done": true
   },
@@ -297,6 +309,7 @@
     "criteria": {
       "baked_potato": "2018-07-25 19:40:11 -0700",
       "beetroot_soup": "2018-07-26 14:16:09 -0700",
+      "potato": "2018-07-26 18:15:43 -0700",
       "poisonous_potato": "2018-07-25 19:32:50 -0700",
       "bread": "2018-07-25 16:27:44 -0700",
       "rotten_flesh": "2018-07-25 21:30:14 -0700",
@@ -563,6 +576,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2018-07-26 14:07:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2018-07-26 18:33:08 -0700"
     },
     "done": true
   },
@@ -1524,9 +1543,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2018-07-26 18:33:08 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2018-07-25 16:41:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2018-07-26 18:33:08 -0700"
     },
     "done": true
   },
@@ -1563,6 +1594,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-25 21:01:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2018-07-26 18:11:14 -0700"
     },
     "done": true
   },

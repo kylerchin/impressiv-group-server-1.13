@@ -760,3 +760,146 @@ Caused by: java.lang.NullPointerException
 [16:50:44] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 [17:20:45] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 [17:50:46] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[18:00:49] [Async Chat Thread - #11/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> we are back[m
+[18:01:01] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[18:01:01] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[18:03:25] [Server thread/INFO]: GlitchedPixels was slain by Zombie
+[18:03:51] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[18:03:51] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:316) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 17 more
+[18:04:02] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: bed_5 (Sleepy Guy)
+[18:04:13] [User Authenticator #3/INFO]: UUID of player Phillap5 is 38e58828-66fb-3c4a-804a-7358c4f9dc2c
+[18:04:13] [Server thread/INFO]: Phillap5[/72.211.212.244:62680] logged in with entity id 8812 at ([world]-3.5, 54.0, 9.5)
+[18:04:18] [Server thread/INFO]: [AdvancedAchievements] Player Phillap5 received the achievement: connect_1 (Good Choice)
+[18:04:24] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> hi![m
+[18:04:29] [Async Chat Thread - #12/INFO]: [[0;37;1mworld[0;37;1m]<Phillap5> hello[m
+[18:04:42] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> is your name ethan?[m
+[18:04:44] [Async Chat Thread - #12/INFO]: [[0;37;1mworld[0;37;1m]<Phillap5> yeeeee[m
+[18:05:20] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> hold on[m
+[18:05:27] [Server thread/INFO]: GlitchedPixels issued server command: /tp Phillap5 @p
+[18:05:27] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "world"! Inventories for this world will not be saved.[m
+[18:05:27] [Server thread/INFO]: [GlitchedPixels: Teleported Phillap5 to GlitchedPixels]
+[18:05:28] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> hi![m
+[18:05:36] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<Phillap5> hello[m
+[18:05:41] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> are you looking on my live stream?[m
+[18:05:45] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<Phillap5> yep[m
+[18:05:55] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<Phillap5> zombiues[m
+[18:06:08] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<Phillap5> sp[elled that entirely wrong[m
+[18:06:13] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> hehehe[m
+[18:06:24] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> wanna join the chat?[m
+[18:06:39] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<Phillap5> my mic is having issues since the windows update[m
+[18:06:43] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> ok[m
+[18:06:58] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> you can use it on your phone and just mute the livestream[m
+[18:07:10] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<Phillap5> i guess that could work[m
+[18:07:45] [Server thread/INFO]: Phillap5 has made the advancement [Monster Hunter]
+[18:07:56] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> he[m
+[18:08:01] [Async Chat Thread - #12/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> joined yet?[m
+[18:08:39] [Server thread/INFO]: Unknown item 'minecraft:158'
+[18:08:39] [Server thread/INFO]: ... Phillap5 158 10<--[HERE]
+[18:08:39] [Server thread/INFO]: Unknown item 'minecraft:126'
+[18:08:39] [Server thread/INFO]: ... Phillap5 126 5<--[HERE]
+[18:08:39] [Server thread/INFO]: [AdvancedAchievements] Player Phillap5 received the achievement: break_1_stone (Cobble!)
+[18:08:40] [Server thread/INFO]: Phillap5 has made the advancement [Stone Age]
+[18:08:57] [Server thread/INFO]: Phillap5 has made the advancement [Getting an Upgrade]
+[18:09:07] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<Phillap5> tjis ur server?[m
+[18:09:09] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<Phillap5> this[m
+[18:09:12] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> yes[m
+[18:09:18] [Async Chat Thread - #13/INFO]: [[0;37;1msurvival[0;37;1m]<Phillap5> nice[m
+[18:10:13] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[18:10:13] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[18:10:18] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[18:10:18] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[18:10:44] [Server thread/INFO]: [AdvancedAchievements] Player Phillap5 received the achievement: itempickups_40 (Environmentalist)
+[18:11:05] [Async Chat Thread - #14/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> you got discord on your phone / tablet?[m
+[18:11:09] [Async Chat Thread - #14/INFO]: [[0;37;1msurvival[0;37;1m]<Phillap5> yes[m
+[18:11:40] [Async Chat Thread - #14/INFO]: [[0;37;1msurvival[0;37;1m]<Phillap5> k i know the server[m
+[18:11:44] [Async Chat Thread - #14/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> great![m
+[18:12:10] [Async Chat Thread - #14/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> joined the discrod server yet?[m
+[18:12:15] [Async Chat Thread - #14/INFO]: [[0;37;1msurvival[0;37;1m]<Phillap5> nop[m
+[18:12:31] [Async Chat Thread - #14/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> top of the screen on the live stream[m
+[18:14:56] [Server thread/INFO]: GlitchedPixels issued server command: /ag
+[18:14:57] [Server thread/INFO]: [AdvancedAchievements] Player Phillap5 received the achievement: itembreaks_1 (&4Clumsy Guy)
+[18:15:15] [Server thread/INFO]: GlitchedPixels issued server command: /lag
+[18:15:25] [Server thread/INFO]: GlitchedPixels issued server command: /lagmem
+[18:18:08] [Server thread/INFO]: Phillap5 has made the advancement [Acquire Hardware]
+[18:18:18] [Server thread/INFO]: Phillap5 has made the advancement [Isn't It Iron Pick]
+[18:20:48] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[18:25:07] [Server thread/WARN]: [AdvancedAchievements] You have specified a money reward but Vault was not linked successfully.
+[18:25:07] [Server thread/INFO]: [AdvancedAchievements] Player Phillap5 received the achievement: kills_1_zombie (The Walking Dead)
+[18:25:07] [Server thread/INFO]: Phillap5 has made the advancement [Diamonds!]
+[18:25:29] [Server thread/INFO]: [AdvancedAchievements] Player Phillap5 received the achievement: eatenitems_1 (First Snack)
+[18:26:54] [Server thread/INFO]: [AdvancedAchievements] Player Phillap5 received the achievement: distancefoot_1000 (Big Walker)
+[18:28:04] [Server thread/INFO]: Phillap5 has made the advancement [Suit Up]
+[18:30:09] [Async Chat Thread - #15/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> -138 6 16[m
+[18:33:15] [Server thread/INFO]: Phillap5 issued server command: /gamemode 1
+[18:38:51] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: waterbuckets_15 (Fireman)
+[18:39:22] [Server thread/INFO]: [AdvancedAchievements] Player GlitchedPixels received the achievement: smeltitems_250 (The Smelter)
+[18:40:15] [Async Chat Thread - #16/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> -138 6 16[m
+[18:45:08] [Server thread/INFO]: [AdvancedAchievements] Player Phillap5 received the achievement: deaths_1 (Rest in Peace)
+[18:45:08] [Server thread/INFO]: Phillap5 was shot by Skeleton
+[18:45:09] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[18:45:09] [Server thread/ERROR]: Could not pass event PlayerRespawnEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:653) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.moveToWorld(PlayerList.java:582) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnection.a(PlayerConnection.java:1892) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:31) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PacketPlayInClientCommand.a(SourceFile:8) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerConnectionUtils.a(SourceFile:10) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_13_R1.SystemUtils.a(SourceFile:198) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:884) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onPlayerDeath(Main.java:322) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 17 more
+[18:50:51] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[18:51:09] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode spectator
+[18:51:09] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Spectator Mode]
+[18:51:18] [Server thread/INFO]: GlitchedPixels issued server command: /tp Phillap5
+[18:51:18] [Server thread/INFO]: [GlitchedPixels: Teleported GlitchedPixels to Phillap5]
+[18:52:23] [Server thread/INFO]: GlitchedPixels issued server command: /mv conf firstspawnworld survival
+[18:52:44] [Server thread/INFO]: GlitchedPixels issued server command: /mv conf firstspawnoverride true
+[18:52:53] [Server thread/INFO]: GlitchedPixels lost connection: Disconnected
+[18:52:53] [Server thread/INFO]: GlitchedPixels left the game
+[18:56:28] [Server thread/WARN]: Phillap5 moved too quickly! -10.56433360471749,-3.0,-18.208281974572202
+[18:57:41] [Server thread/INFO]: [AdvancedAchievements] Player Phillap5 received the achievement: itemdrops_15 (Polluter)
