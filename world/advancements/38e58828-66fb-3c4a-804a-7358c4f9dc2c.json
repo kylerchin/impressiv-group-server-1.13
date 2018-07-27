@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2018-07-27 04:24:22 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2018-07-26 18:08:32 -0700"
@@ -336,7 +342,9 @@
       "bread": "2018-07-26 21:50:14 -0700",
       "cookie": "2018-07-26 20:34:17 -0700",
       "rotten_flesh": "2018-07-26 18:25:29 -0700",
-      "dried_kelp": "2018-07-26 23:26:35 -0700"
+      "dried_kelp": "2018-07-26 23:26:35 -0700",
+      "melon_slice": "2018-07-27 04:52:00 -0700",
+      "carrot": "2018-07-27 04:09:26 -0700"
     },
     "done": false
   },
@@ -510,7 +518,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2018-07-26 21:55:15 -0700"
+      "minecraft:cow": "2018-07-26 21:55:15 -0700",
+      "minecraft:pig": "2018-07-27 04:18:32 -0700"
     },
     "done": false
   },
@@ -819,6 +828,7 @@
       "minecraft:skeleton": "2018-07-26 18:24:51 -0700",
       "minecraft:phantom": "2018-07-27 00:58:09 -0700",
       "minecraft:zombie_pigman": "2018-07-26 21:59:16 -0700",
+      "minecraft:cave_spider": "2018-07-27 04:44:26 -0700",
       "minecraft:enderman": "2018-07-26 22:37:46 -0700",
       "minecraft:spider": "2018-07-26 19:17:42 -0700",
       "minecraft:zombie": "2018-07-26 18:25:07 -0700",
@@ -878,6 +888,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-26 19:03:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2018-07-27 04:24:22 -0700"
     },
     "done": true
   },
@@ -1435,6 +1451,7 @@
       "minecraft:wooded_mountains": "2018-07-26 18:52:47 -0700",
       "minecraft:wooded_hills": "2018-07-26 18:58:06 -0700",
       "minecraft:stone_shore": "2018-07-26 18:21:59 -0700",
+      "minecraft:swamp": "2018-07-27 04:30:28 -0700",
       "minecraft:plains": "2018-07-26 18:05:27 -0700"
     },
     "done": false
@@ -1694,6 +1711,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2018-07-26 18:08:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2018-07-27 04:24:22 -0700"
     },
     "done": true
   },
