@@ -1543,3 +1543,5 @@ Caused by: java.lang.NullPointerException
 [21:35:58] [Async Chat Thread - #29/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> sudo su[m
 [21:35:59] [Async Chat Thread - #29/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ls[m
 [21:36:04] [Async Chat Thread - #29/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> cd plugins[m
+[21:40:44] [Server thread/INFO]: GlitchedPixels issued server command: /give @p iron_axe
+[21:40:44] [Server thread/INFO]: [GlitchedPixels: Gave 1 [Iron Axe] to GlitchedPixels]

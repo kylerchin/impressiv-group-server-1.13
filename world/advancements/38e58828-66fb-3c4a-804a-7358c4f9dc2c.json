@@ -376,6 +376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2018-07-26 21:36:52 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2018-07-26 18:18:08 -0700"
@@ -493,6 +499,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2018-07-26 19:04:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2018-07-26 21:36:52 -0700"
     },
     "done": true
   },
@@ -1173,6 +1185,7 @@
       "minecraft:mountains": "2018-07-26 18:05:52 -0700",
       "minecraft:taiga": "2018-07-26 18:58:20 -0700",
       "minecraft:deep_cold_ocean": "2018-07-26 18:05:26 -0700",
+      "minecraft:taiga_hills": "2018-07-26 21:41:14 -0700",
       "minecraft:beach": "2018-07-26 18:21:47 -0700",
       "minecraft:river": "2018-07-26 18:21:18 -0700",
       "minecraft:wooded_mountains": "2018-07-26 18:52:47 -0700",
