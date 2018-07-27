@@ -183,3 +183,454 @@ java.lang.NullPointerException: null
 [02:32:02] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 [02:46:38] [Server thread/INFO]: Phillap5 has made the advancement [Enchanter]
 [02:48:42] [Server thread/INFO]: [AdvancedAchievements] Player Phillap5 received the achievement: enchantments_5 (&5Wizard)
+[03:02:04] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[03:04:28] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[03:04:30] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[03:05:05] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[03:05:07] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival-nether"! Inventories for this world will not be saved.[m
+[03:15:06] [Server thread/INFO]: Phillap5 lost connection: Disconnected
+[03:15:06] [Server thread/INFO]: Phillap5 left the game
+[03:15:06] [Server thread/WARN]: [Essentials] Task #282 for Essentials v2.15.0.1 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:144) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:109) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:51) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:877) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+[03:15:10] [User Authenticator #12/INFO]: UUID of player Phillap5 is 38e58828-66fb-3c4a-804a-7358c4f9dc2c
+[03:15:11] [Server thread/INFO]: Phillap5[/72.211.212.244:53972] logged in with entity id 59124 at ([survival]-129.53912835688206, 62.0, 49.453139052356214)
+[03:15:11] [Server thread/WARN]: [Essentials] Task #288 for Essentials v2.15.0.1 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:148) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:109) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:31) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:877) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+[03:17:23] [Server thread/INFO]: Phillap5 lost connection: Disconnected
+[03:17:23] [Server thread/INFO]: Phillap5 left the game
+[03:17:23] [Server thread/WARN]: [Essentials] Task #292 for Essentials v2.15.0.1 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:144) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:109) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$2.run(EssentialsXMPPPlayerListener.java:51) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:877) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+[03:17:26] [User Authenticator #13/INFO]: UUID of player Phillap5 is 38e58828-66fb-3c4a-804a-7358c4f9dc2c
+[03:17:27] [Server thread/INFO]: Phillap5[/72.211.212.244:54340] logged in with entity id 59500 at ([survival]-141.4534456197519, 62.15636680679012, 59.69999998807907)
+[03:17:27] [Server thread/WARN]: [Essentials] Task #298 for Essentials v2.15.0.1 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:148) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:109) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:31) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.craftbukkit.v1_13_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:877) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+[03:22:07] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[03:22:08] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[03:22:57] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[03:22:59] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival-nether"! Inventories for this world will not be saved.[m
+[03:23:55] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[03:23:56] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[03:24:44] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[03:24:45] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival-nether"! Inventories for this world will not be saved.[m
+[03:26:31] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[03:26:32] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[03:27:04] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[03:27:06] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival-nether"! Inventories for this world will not be saved.[m
+[03:27:52] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[03:27:54] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[03:28:26] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[03:28:27] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival-nether"! Inventories for this world will not be saved.[m
+[03:29:57] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[03:29:58] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[03:30:34] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[03:30:36] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival-nether"! Inventories for this world will not be saved.[m
+[03:32:11] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[03:39:51] [Server thread/INFO]: [AdvancedAchievements] Player Phillap5 received the achievement: lavabuckets_10 (Pyroman)
+[03:51:55] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[03:51:57] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[03:52:46] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[03:52:47] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival-nether"! Inventories for this world will not be saved.[m
