@@ -1,0 +1,133 @@
+# Foodname: The name of the food
+# Foodlore: The lore of that food
+# Foodhunger: The number of half-hungers that that food will give you (2 = 1 hunger icon)
+# Crafting: The crafting recipe (Putting an "a" means no item is needed in this space)
+# The item names are all listed here: http://kiwike.se/wiki/index.php/Item_Names
+# Ingredients: The ingredients that the icons in "crafting" correspond to
+# Playername: The name of the player who the food is based off. Look here for a list of possible player heads:
+# http://www.planetminecraft.com/blog/minecraft-playerheads-database-85-heads-tutorial-included/
+# Strawberries: Whether strawberries are enabled
+# Strawberry-Chance: If they are enabled, what are the chances of picking one up? (Every x destroyed)
+
+Strawberries: True
+Strawberry-chance: 10
+Strawberry-hunger: 3
+Strawberry-playername: HamOmlet
+foods:
+  donut:
+    foodname: Donut
+    foodlore: Mmm ...
+    foodhunger: 5
+    crafting:
+      - ggg
+      - gsg
+      - ggg
+    ingredients:
+      g: WHEAT
+      s: SUGAR
+    playername: Mapparere
+  popcorn:
+    foodname: Popcorn
+    foodlore: Pop Pop Pop
+    foodhunger: 3
+    crafting:
+      - aaa
+      - gwg
+      - aga
+    ingredients:
+      g: PAPER
+      w: WHEAT
+    playername: ZachWarnerHD
+  muffin:
+    foodname: Muffin
+    foodlore: Cookies in a paper liner!
+    foodhunger: 6
+    crafting:
+      - aaa
+      - gsg
+      - aga
+    ingredients:
+      g: PAPER
+      s: COOKIE
+    playername: ChocolateMuffin
+  hamburger:
+    foodname: Hamburger
+    foodlore: A meal in a bun
+    foodhunger: 15
+    crafting:
+      - ggg
+      - sss
+      - ggg
+    ingredients:
+      g: WHEAT
+      s: COOKED_BEEF
+    playername: Hamburger
+  cake:
+    foodname: Mini Cake
+    foodlore: For on the go
+    foodhunger: 9
+    crafting:
+      - eaa
+      - waa
+      - saa
+    ingredients:
+      e: EGG
+      s: SUGAR
+      w: WHEAT
+    playername: MHF_Cake
+  taco:
+    foodname: Taco
+    foodlore: Pure Tasty
+    foodhunger: 5
+    crafting:
+      - aaa
+      - sss
+      - ggg
+    ingredients:
+      g: WHEAT
+      s: GRILLED_PORK
+    playername: Crunchy_Taco34
+  bread:
+    foodname: Bread
+    foodlore: Nom Nom Nom
+    foodhunger: 5
+    crafting:
+      - www
+      - aaa
+      - aaa
+    ingredients:
+      w: WHEAT
+    playername: _Grime
+  bread:
+    foodname: Bread
+    foodlore: Nom Nom Nom
+    foodhunger: 5
+    crafting:
+      - aaa
+      - www
+      - aaa
+    ingredients:
+      w: WHEAT
+    playername: _Grime
+  bread:
+    foodname: Bread
+    foodlore: Nom Nom Nom
+    foodhunger: 5
+    crafting:
+      - aaa
+      - aaa
+      - www
+    ingredients:
+      w: WHEAT
+    playername: _Grime
+  bread:
+    foodname: Oberdiah
+    foodlore: Test
+    foodhunger: 2
+    crafting:
+      - aaa
+      - aaa
+      - www
+    ingredients:
+      w: INK_SACK:5
+    playername: oberdiah
