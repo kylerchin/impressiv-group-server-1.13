@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2018-07-26 22:43:29 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2018-07-26 18:29:11 -0700"
@@ -284,6 +290,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2018-07-26 19:53:23 -0700",
+      "cooked_beef": "2018-07-26 22:40:45 -0700",
       "baked_potato": "2018-07-26 18:47:44 -0700",
       "apple": "2018-07-26 19:22:40 -0700",
       "spider_eye": "2018-07-26 20:37:27 -0700",
@@ -697,13 +704,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-07-26 18:25:07 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-07-26 18:25:07 -0700"
     },
@@ -719,6 +726,7 @@
     "criteria": {
       "minecraft:skeleton": "2018-07-26 18:24:51 -0700",
       "minecraft:zombie_pigman": "2018-07-26 21:59:16 -0700",
+      "minecraft:enderman": "2018-07-26 22:37:46 -0700",
       "minecraft:spider": "2018-07-26 19:17:42 -0700",
       "minecraft:zombie": "2018-07-26 18:25:07 -0700",
       "minecraft:creeper": "2018-07-26 19:17:31 -0700",
@@ -1209,6 +1217,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2018-07-26 18:20:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_the_recipe": "2018-07-26 22:34:06 -0700"
     },
     "done": true
   },

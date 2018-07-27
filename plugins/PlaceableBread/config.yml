@@ -9,7 +9,7 @@
 # Strawberries: Whether strawberries are enabled
 # Strawberry-Chance: If they are enabled, what are the chances of picking one up? (Every x destroyed)
 
-Strawberries: True
+Strawberries: true
 Strawberry-chance: 10
 Strawberry-hunger: 3
 Strawberry-playername: HamOmlet
@@ -19,9 +19,9 @@ foods:
     foodlore: Mmm ...
     foodhunger: 5
     crafting:
-      - ggg
-      - gsg
-      - ggg
+    - ggg
+    - gsg
+    - ggg
     ingredients:
       g: WHEAT
       s: SUGAR
@@ -31,9 +31,9 @@ foods:
     foodlore: Pop Pop Pop
     foodhunger: 3
     crafting:
-      - aaa
-      - gwg
-      - aga
+    - aaa
+    - gwg
+    - aga
     ingredients:
       g: PAPER
       w: WHEAT
@@ -43,9 +43,9 @@ foods:
     foodlore: Cookies in a paper liner!
     foodhunger: 6
     crafting:
-      - aaa
-      - gsg
-      - aga
+    - aaa
+    - gsg
+    - aga
     ingredients:
       g: PAPER
       s: COOKIE
@@ -55,9 +55,9 @@ foods:
     foodlore: A meal in a bun
     foodhunger: 15
     crafting:
-      - ggg
-      - sss
-      - ggg
+    - ggg
+    - sss
+    - ggg
     ingredients:
       g: WHEAT
       s: COOKED_BEEF
@@ -67,9 +67,9 @@ foods:
     foodlore: For on the go
     foodhunger: 9
     crafting:
-      - eaa
-      - waa
-      - saa
+    - eaa
+    - waa
+    - saa
     ingredients:
       e: EGG
       s: SUGAR
@@ -80,54 +80,22 @@ foods:
     foodlore: Pure Tasty
     foodhunger: 5
     crafting:
-      - aaa
-      - sss
-      - ggg
+    - aaa
+    - sss
+    - ggg
     ingredients:
       g: WHEAT
       s: GRILLED_PORK
     playername: Crunchy_Taco34
   bread:
-    foodname: Bread
-    foodlore: Nom Nom Nom
-    foodhunger: 5
-    crafting:
-      - www
-      - aaa
-      - aaa
-    ingredients:
-      w: WHEAT
-    playername: _Grime
-  bread:
-    foodname: Bread
-    foodlore: Nom Nom Nom
-    foodhunger: 5
-    crafting:
-      - aaa
-      - www
-      - aaa
-    ingredients:
-      w: WHEAT
-    playername: _Grime
-  bread:
-    foodname: Bread
-    foodlore: Nom Nom Nom
-    foodhunger: 5
-    crafting:
-      - aaa
-      - aaa
-      - www
-    ingredients:
-      w: WHEAT
-    playername: _Grime
-  bread:
     foodname: Oberdiah
     foodlore: Test
     foodhunger: 2
     crafting:
-      - aaa
-      - aaa
-      - www
+    - aaa
+    - aaa
+    - www
     ingredients:
       w: INK_SACK:5
     playername: oberdiah
+placedfoods: {}

@@ -1,5 +1,13 @@
 lastAccountName: Pandarz86
 timestamps:
-  login: 1532669225723
+  login: 1532669498036
+  logout: 1532669494853
 ipAddress: 69.7.87.31
 geolocation: United States
+logoutlocation:
+  world: survival
+  x: -592.5722471975481
+  y: 63.0
+  z: -212.30000001192093
+  yaw: 240.1885
+  pitch: 35.26962
