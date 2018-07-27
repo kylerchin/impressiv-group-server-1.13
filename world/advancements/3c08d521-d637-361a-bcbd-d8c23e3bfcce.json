@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2018-07-26 21:11:25 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2018-07-23 18:24:18 -0700"
@@ -182,6 +188,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2018-07-23 18:24:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2018-07-26 21:11:25 -0700"
     },
     "done": true
   },
@@ -323,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2018-07-26 21:11:25 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2018-07-23 18:24:18 -0700"
@@ -346,6 +364,7 @@
       "cooked_porkchop": "2018-07-25 20:21:30 -0700",
       "chicken": "2018-07-25 16:21:47 -0700",
       "cooked_mutton": "2018-07-25 21:38:56 -0700",
+      "baked_potato": "2018-07-26 21:21:57 -0700",
       "potato": "2018-07-26 20:44:47 -0700",
       "cooked_cod": "2018-07-26 13:47:32 -0700",
       "mutton": "2018-07-25 16:21:38 -0700",
@@ -641,6 +660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2018-07-26 21:11:25 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2018-07-25 16:24:35 -0700"
@@ -878,6 +903,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2018-07-26 15:53:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2018-07-26 21:11:25 -0700"
     },
     "done": true
   },
@@ -1373,6 +1404,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2018-07-26 21:11:25 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_orange_wool": "2018-07-23 18:06:58 -0700"
@@ -1561,6 +1598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2018-07-26 21:11:25 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2018-07-24 14:50:58 -0700"
@@ -1693,6 +1736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2018-07-26 21:11:25 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2018-07-23 18:24:18 -0700"
@@ -1708,6 +1757,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2018-07-23 18:11:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2018-07-26 21:11:25 -0700"
     },
     "done": true
   },
