@@ -1545,3 +1545,96 @@ Caused by: java.lang.NullPointerException
 [21:36:04] [Async Chat Thread - #29/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> cd plugins[m
 [21:40:44] [Server thread/INFO]: GlitchedPixels issued server command: /give @p iron_axe
 [21:40:44] [Server thread/INFO]: [GlitchedPixels: Gave 1 [Iron Axe] to GlitchedPixels]
+[21:42:31] [Async Chat Thread - #30/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> stop grieifn[m
+[21:44:15] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> stop[m
+[21:44:17] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> griefin[m
+[21:44:18] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> ?[m
+[21:44:57] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> HACKER[m
+[21:45:05] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> YOU PLACE CHEST NEXT TO CHEST[m
+[21:45:10] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<Phillap5> oh noes[m
+[21:45:18] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> GlitchedPixels is hacker[m
+[21:45:23] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<Phillap5> yes[m
+[21:45:25] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> he place chest next to chest no space[m
+[21:45:32] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> we need to report him[m
+[21:45:37] [Server thread/INFO]: _wjw_ issued server command: /report
+[21:45:41] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<Phillap5> how[m
+[21:45:43] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> idk[m
+[21:45:50] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> you are a hacker GlitchedPixels[m
+[21:45:54] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> stop hacking[m
+[21:46:02] [Async Chat Thread - #31/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> i will surround the hacked chest[m
+[21:46:35] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[21:46:35] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[21:47:02] [Server thread/INFO]: GlitchedPixels lost connection: Disconnected
+[21:47:02] [Server thread/INFO]: GlitchedPixels left the game
+[21:47:04] [User Authenticator #7/INFO]: UUID of player GlitchedPixels is 3bd4a722-564b-3150-8dc9-bfaaa1e583e8
+[21:47:04] [Server thread/INFO]: GlitchedPixels[/192.168.86.1:38278] logged in with entity id 56233 at ([survival]-145.74686362756736, 71.43063615476306, 15.509073904939868)
+[21:47:45] [Async Chat Thread - #32/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> stop ti[m
+[21:47:49] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[21:47:49] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[21:47:54] [Async Chat Thread - #32/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> ooh[m
+[21:48:06] [Server thread/INFO]: _wjw_ lost connection: Disconnected
+[21:48:06] [Server thread/INFO]: _wjw_ left the game
+[21:48:11] [Async Chat Thread - #32/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> nani[m
+[21:48:32] [Server thread/INFO]: GlitchedPixels issued server command: /give @p bed
+[21:48:38] [Server thread/INFO]: GlitchedPixels issued server command: /give @p white_bed
+[21:48:38] [Server thread/INFO]: [GlitchedPixels: Gave 1 [White Bed] to GlitchedPixels]
+[21:48:47] [User Authenticator #8/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
+[21:48:48] [Server thread/INFO]: _wjw_[/98.164.255.203:64119] logged in with entity id 56657 at ([survival]-178.22500617510048, 63.0, -3.295431613768542)
+[21:48:51] [Server thread/INFO]: GlitchedPixels issued server command: /gamemod survival
+[21:48:56] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[21:48:56] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[21:49:06] [Server thread/INFO]: GlitchedPixels issued server command: /give Phillap5 minecraft:iron_ingot 64
+[21:49:06] [Server thread/INFO]: [GlitchedPixels: Gave 64 [Iron Ingot] to Phillap5]
+[21:51:34] [Server thread/INFO]: GlitchedPixels issued server command: /mv gamerule mobGriefing false
+[21:51:47] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[21:52:07] [Server thread/INFO]: GlitchedPixels issued server command: /mv gamerule randomTickSpeed
+[21:52:33] [Server thread/WARN]: [AdvancedAchievements] You have specified a money reward but Vault was not linked successfully.
+[21:52:33] [Server thread/INFO]: [AdvancedAchievements] Player Phillap5 received the achievement: craft_1_blade (Blacksmith Apprentice)
+[21:52:53] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode creative
+[21:52:53] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Creative Mode]
+[21:53:12] [Server thread/INFO]: GlitchedPixels issued server command: /gamemode survival
+[21:53:12] [Server thread/INFO]: [GlitchedPixels: Set own game mode to Survival Mode]
+[21:55:15] [Server thread/INFO]: Phillap5 has made the advancement [The Parrots and the Bats]
+[21:55:48] [Async Chat Thread - #33/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> stop it[m
+[21:56:00] [Async Chat Thread - #33/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> stop[m
+[21:56:04] [Async Chat Thread - #33/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> okok[m
+[21:56:08] [Async Chat Thread - #33/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> no wifi asian parent![m
+[21:56:14] [Async Chat Thread - #33/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> no computer for month![m
+[21:56:56] [Async Chat Thread - #33/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> tplz stop i[m
+[21:57:00] [Async Chat Thread - #33/INFO]: [[0;37;1msurvival[0;37;1m]<GlitchedPixels> please stop[m
+[21:57:07] [Server thread/INFO]: GlitchedPixels issued server command: /kick _wjw_ being anoyying
+[21:57:07] [Server thread/INFO]: _wjw_ lost connection: being anoyying
+[21:57:07] [Server thread/INFO]: _wjw_ left the game
+[21:57:07] [Server thread/INFO]: [GlitchedPixels: Kicked _wjw_: being anoyying]
+[21:57:07] [Server thread/WARN]: handleDisconnection() called twice
+[21:57:21] [User Authenticator #9/INFO]: UUID of player _wjw_ is 3c08d521-d637-361a-bcbd-d8c23e3bfcce
+[21:57:21] [Server thread/INFO]: _wjw_[/98.164.255.203:64139] logged in with entity id 59199 at ([survival]-159.38124794509363, 64.0, 42.75546375428853)
+[21:58:58] [Server thread/ERROR]: Could not pass event PlayerPortalEvent to LobbyAPI v3.7.71
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:308) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.PlayerList.changeDimension(PlayerList.java:764) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.EntityPlayer.d(EntityPlayer.java:636) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.Entity.postTick(Entity.java:356) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.entityJoinedWorld(World.java:1350) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.g(World.java:1316) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.p_(WorldServer.java:624) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.World.tickEntities(World.java:1118) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.WorldServer.tickEntities(WorldServer.java:601) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.w(MinecraftServer.java:956) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.w(DedicatedServer.java:411) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.v(MinecraftServer.java:819) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:717) [spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: java.lang.NullPointerException
+	at me.zombie_striker.lobbyapi.Main.onTeleport(Main.java:367) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:304) ~[spigot-1.13.jar:git-Spigot-ed1cec9-1c7adf7]
+	... 16 more
+[21:58:59] [Server thread/INFO]: [0;33;22m[[0;37;1mLobbyAPI[0;33;22m][0;37;1m You have no registered world called "survival"! Inventories for this world will not be saved.[m
+[21:59:04] [Async Chat Thread - #34/INFO]: [[0;37;1msurvival[0;37;1m]<_wjw_> noooo[m
