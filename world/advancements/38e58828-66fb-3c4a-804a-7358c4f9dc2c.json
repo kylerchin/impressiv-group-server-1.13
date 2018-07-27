@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2018-07-26 23:43:34 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2018-07-26 18:18:08 -0700"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2018-07-26 23:27:34 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2018-07-26 20:48:10 -0700"
@@ -287,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2018-07-27 00:37:14 -0700"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2018-07-26 19:53:23 -0700",
@@ -295,10 +313,12 @@
       "apple": "2018-07-26 19:22:40 -0700",
       "spider_eye": "2018-07-26 20:37:27 -0700",
       "potato": "2018-07-26 22:22:14 -0700",
+      "cooked_cod": "2018-07-27 01:13:03 -0700",
       "poisonous_potato": "2018-07-26 22:09:21 -0700",
       "bread": "2018-07-26 21:50:14 -0700",
       "cookie": "2018-07-26 20:34:17 -0700",
-      "rotten_flesh": "2018-07-26 18:25:29 -0700"
+      "rotten_flesh": "2018-07-26 18:25:29 -0700",
+      "dried_kelp": "2018-07-26 23:26:35 -0700"
     },
     "done": false
   },
@@ -323,6 +343,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2018-07-26 18:18:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2018-07-26 23:53:46 -0700"
     },
     "done": true
   },
@@ -434,6 +460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2018-07-27 00:37:14 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2018-07-26 19:00:32 -0700"
@@ -488,6 +520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2018-07-26 23:07:32 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2018-07-26 18:28:04 -0700"
@@ -515,6 +553,18 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2018-07-26 18:18:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2018-07-26 23:27:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2018-07-26 23:28:40 -0700"
     },
     "done": true
   },
@@ -593,6 +643,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2018-07-26 18:25:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2018-07-26 23:43:34 -0700"
     },
     "done": true
   },
@@ -716,6 +772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_at_least_9_dried_kelp": "2018-07-26 23:34:01 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2018-07-26 20:41:05 -0700"
@@ -725,6 +787,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2018-07-26 18:24:51 -0700",
+      "minecraft:phantom": "2018-07-27 00:58:09 -0700",
       "minecraft:zombie_pigman": "2018-07-26 21:59:16 -0700",
       "minecraft:enderman": "2018-07-26 22:37:46 -0700",
       "minecraft:spider": "2018-07-26 19:17:42 -0700",
@@ -830,6 +893,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2018-07-26 22:59:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2018-07-26 23:07:32 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2018-07-26 18:08:32 -0700"
@@ -863,6 +938,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-07-26 19:45:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2018-07-26 23:43:34 -0700"
     },
     "done": true
   },
@@ -1130,6 +1211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2018-07-27 00:37:14 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2018-07-26 18:18:18 -0700"
@@ -1284,6 +1371,7 @@
       "minecraft:taiga_hills": "2018-07-26 21:41:14 -0700",
       "minecraft:beach": "2018-07-26 18:21:47 -0700",
       "minecraft:river": "2018-07-26 18:21:18 -0700",
+      "minecraft:lukewarm_ocean": "2018-07-27 00:49:05 -0700",
       "minecraft:wooded_mountains": "2018-07-26 18:52:47 -0700",
       "minecraft:wooded_hills": "2018-07-26 18:58:06 -0700",
       "minecraft:stone_shore": "2018-07-26 18:21:59 -0700",
@@ -1399,6 +1487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2018-07-27 00:41:30 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2018-07-26 18:04:16 -0700"
@@ -1414,6 +1508,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2018-07-26 18:56:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_at_least_9_dried_kelp": "2018-07-26 23:34:01 -0700"
     },
     "done": true
   },
@@ -1468,6 +1568,18 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2018-07-26 20:41:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_at_least_9_diamond": "2018-07-27 00:41:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2018-07-26 23:07:24 -0700"
     },
     "done": true
   },

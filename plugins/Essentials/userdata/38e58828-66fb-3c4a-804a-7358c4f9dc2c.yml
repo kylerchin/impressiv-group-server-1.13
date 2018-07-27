@@ -1,5 +1,13 @@
 lastAccountName: Phillap5
 timestamps:
-  login: 1532669488769
+  login: 1532681774114
+  logout: 1532681404616
 ipAddress: 72.211.212.244
 geolocation: United States
+logoutlocation:
+  world: survival
+  x: -617.6242148750168
+  y: 65.0
+  z: -187.1968203166394
+  yaw: 11.738997
+  pitch: 86.999916
