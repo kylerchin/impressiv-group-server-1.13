@@ -11,8 +11,22 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 11
+messages:
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
 settings:
   save-user-cache-on-stop-only: false
+<<<<<<< HEAD
+=======
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: ./start.sh
+  netty-threads: 4
+>>>>>>> parent of 88701f9... Automatic Backup  %Time%
   bungeecord: false
   late-bind: false
   sample-count: 12
@@ -21,10 +35,13 @@ settings:
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
+<<<<<<< HEAD
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
   netty-threads: 4
+=======
+>>>>>>> parent of 88701f9... Automatic Backup  %Time%
   attribute:
     maxHealth:
       max: 2048.0
@@ -33,17 +50,6 @@ settings:
     attackDamage:
       max: 2048.0
   debug: false
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
-advancements:
-  disable-saving: false
-  disabled:
-  - minecraft:story/disabled
 commands:
   log: true
   tab-complete: 0
@@ -56,6 +62,10 @@ commands:
   - summon
   - testforblock
   - tellraw
+advancements:
+  disable-saving: false
+  disabled:
+  - minecraft:story/disabled
 stats:
   disable-saving: false
   forced-stats: {}
@@ -63,6 +73,21 @@ world-settings:
   default:
     verbose: true
     mob-spawn-range: 4
+<<<<<<< HEAD
+=======
+    random-light-updates: false
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+      netherwart-modifier: 100
+      vine-modifier: 100
+      cocoa-modifier: 100
+>>>>>>> parent of 88701f9... Automatic Backup  %Time%
     entity-activation-range:
       animals: 32
       monsters: 32
@@ -78,7 +103,6 @@ world-settings:
       hopper-transfer: 8
       hopper-check: 1
     hopper-amount: 1
-    random-light-updates: false
     dragon-death-sound-radius: 0
     seed-village: 10387312
     seed-desert: 14357617
@@ -114,7 +138,10 @@ world-settings:
       entity: 50
     squid-spawn-range:
       min: 45.0
+<<<<<<< HEAD
     hanging-tick-frequency: 100
+=======
+>>>>>>> parent of 88701f9... Automatic Backup  %Time%
     enable-zombie-pigmen-portal-spawns: true
     merge-radius:
       item: 2.5

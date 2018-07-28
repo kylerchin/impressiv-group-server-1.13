@@ -1,6 +1,163 @@
-[16:00:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:00:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:00:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:00:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:00:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:00:01] [main/INFO]: Loaded 0 recipes
+[16:41:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:41:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:41:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:41:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:41:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:41:50] [main/INFO]: Loaded 0 recipes
+[16:41:50] [Server thread/INFO]: Starting minecraft server version 1.13
+[16:41:50] [Server thread/INFO]: Loading properties
+[16:41:50] [Server thread/INFO]: Default game type: SURVIVAL
+[16:41:50] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-f68f5a8-d5b95a2 (MC: 1.13) (Implementing API version 1.13-R0.1-SNAPSHOT)
+[16:41:50] [Server thread/ERROR]: Could not load spigot.yml, please correct your syntax errors
+org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
+ in 'string', line 23, column 1:
+    <<<<<<< HEAD
+    ^
+could not find expected ':'
+ in 'string', line 24, column 1:
+    =======
+    ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:162) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:130) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.spigotmc.SpigotConfig.init(SpigotConfig.java:60) [spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.init(DedicatedServer.java:192) [spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:686) [spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning a simple key
+ in 'string', line 23, column 1:
+    <<<<<<< HEAD
+    ^
+could not find expected ':'
+ in 'string', line 24, column 1:
+    =======
+    ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:464) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:278) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:214) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:236) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:227) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:215) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:85) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:108) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:139) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:524) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:437) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	... 6 more
+[16:41:50] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.RuntimeException: org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
+ in 'string', line 23, column 1:
+    <<<<<<< HEAD
+    ^
+could not find expected ':'
+ in 'string', line 24, column 1:
+    =======
+    ^
+
+	at com.google.common.base.Throwables.propagate(Throwables.java:240) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.spigotmc.SpigotConfig.init(SpigotConfig.java:66) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.init(DedicatedServer.java:192) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:686) [spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
+ in 'string', line 23, column 1:
+    <<<<<<< HEAD
+    ^
+could not find expected ':'
+ in 'string', line 24, column 1:
+    =======
+    ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:162) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:130) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.spigotmc.SpigotConfig.init(SpigotConfig.java:60) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	... 3 more
+Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning a simple key
+ in 'string', line 23, column 1:
+    <<<<<<< HEAD
+    ^
+could not find expected ':'
+ in 'string', line 24, column 1:
+    =======
+    ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:464) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:278) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:214) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:236) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:227) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:215) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:85) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:108) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:139) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:524) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:437) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:162) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:130) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.spigotmc.SpigotConfig.init(SpigotConfig.java:60) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	... 3 more
+[16:41:50] [Server thread/ERROR]: 	Cause of unexpected exception was
+org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
+ in 'string', line 23, column 1:
+    <<<<<<< HEAD
+    ^
+could not find expected ':'
+ in 'string', line 24, column 1:
+    =======
+    ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:162) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:130) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.spigotmc.SpigotConfig.init(SpigotConfig.java:60) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at net.minecraft.server.v1_13_R1.DedicatedServer.init(DedicatedServer.java:192) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at net.minecraft.server.v1_13_R1.MinecraftServer.run(MinecraftServer.java:686) [spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at java.lang.Thread.run(Thread.java:844) [?:?]
+Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning a simple key
+ in 'string', line 23, column 1:
+    <<<<<<< HEAD
+    ^
+could not find expected ':'
+ in 'string', line 24, column 1:
+    =======
+    ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:464) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:278) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:214) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:236) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:227) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:215) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:85) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:108) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:139) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:524) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:437) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53) ~[spigot-1.13.jar:git-Spigot-f68f5a8-d5b95a2]
+	... 6 more
+[16:41:50] [Server thread/ERROR]: This crash report has been saved to: /root/minecraft/./crash-reports/crash-2018-07-27_16.41.50-server.txt
+[16:41:50] [Server thread/INFO]: Stopping server
+[16:41:50] [Server thread/INFO]: Saving players
